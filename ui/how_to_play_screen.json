@@ -136,7 +136,7 @@
           "$text": "announcements.content.linefive" } },
         { "padding_4@how_to_play_common.padding": { } },
         { "paragraph_0@how_to_play_common.paragraph": {
-          "$text": "announcements.last.updated" } }
+          "$text": "announcements.publish.date" } }
   ]
 },
     "serverrules_button@how_to_play_common.section_toggle_button": {
