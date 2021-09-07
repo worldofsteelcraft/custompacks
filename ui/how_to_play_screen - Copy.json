@@ -1,0 +1,114 @@
+{
+  "namespace": "how_to_play",
+
+  "how_to_play_screen@how_to_play_common.screen_base": {
+    "$selector_stack_panel": "how_to_play.selector_stack_panel",
+    "$section_content_panels": "how_to_play.section_content_panels",
+    "$header_safezone_control": "common_store.store_top_bar_filler",
+    "$header_bar_control": "common_store.store_top_bar",    
+    "$is_full_screen_layout": true
+  },
+
+  "selector_stack_panel": {
+    "type": "stack_panel",
+    "anchor_from": "top_left",
+    "anchor_to": "top_left",
+    "orientation": "vertical",
+    "$default_selector_toggle_index": 2,
+    "controls": [
+      {
+        "how_to_play_selector_pane": {
+          "type": "stack_panel",
+          "controls": [
+            {
+              "padding_0": {
+                "type": "panel",
+                "size": [ 0, 6 ]
+              }
+            },
+            { "wosc_category@how_to_play_common.topic_category": { "$category": "wosc" } },
+            { "patchnotes_button@how_to_play.patchnotes_button": { "$toggle_group_forced_index": 0 } },
+            { "announcements_button@how_to_play.announcements_button": { "$toggle_group_forced_index": 1 } },
+            {
+              "padding_1@how_to_play_common.padding": {
+                "size": [ 0, 10 ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+  "section_content_panels": {
+    "type": "stack_panel",
+    "anchor_from": "top_left",
+    "anchor_to": "top_left",
+    "size": [ "100% - 5px", "100%c + 5px" ],
+    "offset": [ 2, 0 ],
+    "controls": [
+      {
+        "general_tips_sections": {
+          "type": "stack_panel",
+          "controls": [
+            {
+              "section_contents_header@how_to_play_common.section_contents_header": { }
+            },
+            { "patchnotes_section@how_to_play.patchnotes_section": { } },
+            { "announcements_section@how_to_play.announcements_section": { } },
+            {
+              "section_contents_footer@how_to_play_common.section_contents_footer": { }
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+   "patchnotes_button@how_to_play_common.section_toggle_button": {
+    "$section_topic": "patchnotes"
+  },
+  "patchnotes_section@how_to_play_common.main_sections": {
+    "bindings": [
+      {
+        "binding_type": "view",
+        "source_control_name": "patchnotes_button_toggle",
+        "source_property_name": "#toggle_state",
+        "target_property_name": "#visible"
+      }
+    ],
+    "controls": [
+      { "header_0@how_to_play_common.header": {
+         "$text": "patchnotes.header.featurepatch0" } },
+         { "padding_0@how_to_play_common.padding": { } },
+      { "paragraph_0@how_to_play_common.paragraph": {
+         "$text": "patchnotes.paragraph.featurepatch01" } },
+         { "padding_1@how_to_play_common.padding": { } },
+      { "image_0@how_to_play_common.image": {
+         "texture": "textures/test" } },
+         { "padding_2@how_to_play_common.padding": { } 
+    }
+  ]
+},
+
+
+   "announcements_button@how_to_play_common.section_toggle_button": {
+    "$section_topic": "announcements"
+  },
+  "announcements_section@how_to_play_common.main_sections": {
+    "bindings": [
+      {
+        "binding_type": "view",
+        "source_control_name": "announcements_button_toggle",
+        "source_property_name": "#toggle_state",
+        "target_property_name": "#visible"
+      }
+    ],
+    "controls": [
+      { "header_0@how_to_play_common.header": {
+         "$text": "tempone.header.title0" } },
+      { "paragraph_0@how_to_play_common.paragraph": {
+         "$text": "dakon.tempone.text0" } }
+     ]
+   }
+ }

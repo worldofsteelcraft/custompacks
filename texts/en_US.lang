@@ -1,0 +1,113 @@
+menu.howToPlay=WoSC Information Area
+howtoplay.category.wosc=World of SteelCraft
+
+howtoplay.patchnotes.button=Feature Patch Notes
+howtoplay.patchnotes= Feature Patch Notes
+howtoplay.patchnotes.title=Feature Patch Notes
+patchnotes.header.featurepatch0=User Interface Patch Release
+patchnotes.paragraph.featurepatch01=Releases the User Interface for the annoucements and server information
+
+howtoplay.announcements=Announcements
+howtoplay.announcements.button=Announcements
+howtoplay.announcements.title=Announcements
+announcements.header.announcement0=Announcements
+announcements.paragraph.announcement01=User Interface Patch Release
+
+
+
+//Always update it when something updated
+announcements.last.updated=Last updated: September 7 2021
+patchnotes.last.released=Last updated: September 7 2021
+rules.publish.date=
+
+//Announcements section, use blank characters for not used lines
+//when adding pictures to the announcement
+announcements.content.lineone=
+announcements.content.linetwo=
+announcements.content.linethree=
+announcements.content.linefour=
+announcements.content.linefive=
+
+//Patch notes, only add content or change content when release was uploaded
+patchnotes.content.releasetopic=
+patchnotes.content.description=
+patchnotes.content.changeone=
+patchnotes.content.changetwo=
+patchnotes.content.changethree=
+patchnotes.content.changefour=
+patchnotes.content.changefive=
+
+//Links, seek attention when adding or removing content
+links.discord.server=[Contact an admin to give you a link]
+links.server.info=https://worldofsteelcraft.tk/server/info
+
+//Rules Section, seek attention when changing it's content
+howtoplay.serverrules=WoSC Rules
+howtoplay.serverrules.title=WoSC Community and Server Rules
+rules.introduction.header=World of SteelCraft Community and Server Rules
+rules.introduction.paragraph=This is the rules that needed to follow on every platform, even it's Messenger Group Chat, Discord Server, and this Minecraft Server
+rules.sectionone.header=Section 1. Major Rule
+rules.sectionone.a=A. No one is allowed to destroy other players builds without permission
+rules.sectionone.b=B. No one is allowed to steal other player's items
+rules.sectiontwo.header=Section 2. Do's and Don'ts
+rules.sectiontwo.alineone=A. Do not use these apps
+rules.sectiontwo.alistone=1. Toolbox for Minecraft PE
+rules.sectiontwo.alisttwo=2. MCPE Master(now stopped)
+rules.sectiontwo.alistthree=3. Other apps that function like these apps.
+rules.sectiontwo.alinetwo=Using these apps will make you banned
+rules.sectiontwo.b=B. If your username is listed on Elimination List, you have to appeal your elimination to the admins as soon as possible.
+rules.sectiontwo.c=C.You have to obey rules or punishment will be handed to you
+rules.sectiontwo.d=D. You have to accept your punishment or punishment will worsen.
+rules.sectionthree.header=Section 3. Banning, Punishments and Elimination
+rules.sectionthree.a=A. Player that is inactive for 12 days will be tagged as inactive and will be removed to the community unless his reasons are reasonable.
+rules.sectionthree.blineone=B. Reasons that are reasonable are:
+rules.sectionthree.blistone=Studies
+rules.sectionthree.blisttwo=2. Busy for something(not for other games)
+rules.sectionthree.blistthree=3. Personal Problems(Family/Self)
+rules.sectionthree.blistfour=4. Work
+rules.sectionthree.c=Busy for something(not for other games)
+rules.sectionthree.d=D. Cheating is not allowed! Admins will decide the cheater’s fate if he/she will be banned or he/she will be punished if he/she committed cheating
+rules.
+rules.sectionthree.e=E. Members who will not report the cheaters immediately as soon as they know will be punished
+rules.sectionthree.flineone=F. Here is the list of offences that would be the guide for the punishments
+rules.sectionthree.flistone=First Offence:1 week suspension
+rules.sectionthree.flisttwo=Second Offence: 2 weeks suspension
+rules.sectionthree.flistthree=Third Offence: Kick or Ban
+rules.sectionthree.g=G. You have to report the violator as soon as you know or you will be punished as well
+rules.sectionthree.h=H. Report the exploits
+rules.sectionthree.i=I: Newly joined members should be active within 5 days.
+rules.sectionthree.j=J: In case of newly joined members cannot join within 5 days, they should give valid reason mentioned from Section 2B
+rules.sectionthree.k=K: A member should be active within 15-30 minutes in order to be considered active.
+rules.sectionfour.header=Section 4: Members Role
+rules.sectionfour.a=A. Follow and comply with rules/law that exists
+rules.sectionfour.b=B. Report admin or members that do not follow the rules/law
+rules.sectionfive.header=Section 5: Admins Role
+rules.sectionfive.a=A. Enforce members to obey the rules/law that exists
+rules.sectionfive.b=B. Follow rules/law that exists
+rules.sectionfive.c=C. Take action to the members that do not follow the rules/law(there should be the presence of the all admins)
+rules.sectionsix.header=Section 6: Player faults
+rules.sectionsix.a=A. When a creeper explodes at the house or builds of another player, the player that makes the creeper explodes will not be blamed but you must help to rebuild it. If player do not help, this will be counted as an offence.
+rules.sectionsix.b=B. When a player accidentally punched a  player leading to its death, no one will be blamed.
+rules.sectionsix.c=C. If a player accidentally destroys something on the property, the player must fix it, and when the player doesn’t fix it, it will count as an offence.
+rules.sectionseven.header=Section 7: Players Property
+rules.sectionseven.a=A. All must follow the rules given by the owner of that said property.
+rules.sectionseven.b=B. When the player does not follow the rules given, the property owner will take the action but with compliance to the rules on the server.
+rules.sectioneight.header=Section 8: Server Property
+rules.sectioneight.a=A. All must follow the rules given my server admins of that said property.
+rules.sectioneight.b=B. Destroyed properties are covered by Section 6
+rules.sectionnine.header=Section 9: Community Guidelines
+rules.sectionnine.a=A. Profanity should be avoided or minimal
+rules.sectionnine.b=B. NSFW or Mature Contents is prohibited
+rules.sectionnine.c=C. Sharing malicious links, sites or files is prohibited
+rules.
+rules.sectionnine.d=D. Talking about other games should be minimal
+rules.sectionnine.e=E. Harassing members, hacking their accounts or exposing their identity are extremely prohibited
+rules.sectionnine.f=F. Talking about illegal stuff or any topic that is prohibited by law is prohibited
+rules.sectionnine.g=G. Community guidelines of every messaging platform(Facebook Messenger/Discord) must be followed
+rules.otherlanguage.header=Other Language Links
+rules.otherlanguage.paragraph=This is the links for the English and Filipino Translation of the rules for easier understanding
+rules.otherlanguage.enlink=English Rules: https://worldofsteelcraft.tk/rules/en
+rules.otherlanguage.fillink=Filipino Rules: https://worldofsteelcraft.tk/rules/fil
+
+
+menu.howToPlay.generalMessage=Information area of World of SteelCraft Server
