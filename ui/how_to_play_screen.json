@@ -212,7 +212,10 @@
     { "paragraph_1@how_to_play_common.paragraph": {
       "$text": "banlist.last.updated" } },
       { "header_1@how_to_play_common.header": {
-      "$text": "banlist.fulllist.header" } }
+      "$text": "banlist.fulllist.header" } },
+      { "paragraph_2@how_to_play_common.paragraph": {
+      "$text": "banlist.f" } },
+      
     ]
   }
 }
