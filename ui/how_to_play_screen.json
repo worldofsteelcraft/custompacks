@@ -243,8 +243,7 @@
       { "paragraph_13@how_to_play_common.paragraph": {
       "$text": "banlist.bannedplayer06.reason" } },
      { "padding_7@how_to_play_common.padding": { } }, { "paragraph_14@how_to_play_common.paragraph": {
-      "$text": "banlist.bannedplayer07.username"} },
-     { "padding_8@how_to_play_common.padding": { } }, { "paragraph_15@how_to_play_common.paragraph": {
+      "$text": "banlist.bannedplayer07.username"} }, { "paragraph_15@how_to_play_common.paragraph": {
       "$text": "banlist.bannedplayer07.reason" } },
       
     ]
