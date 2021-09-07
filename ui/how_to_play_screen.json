@@ -190,7 +190,20 @@
     { "padding_4@how_to_play_common.padding": { } },
     { "paragraph_10@how_to_play_common.paragraph": {
       "$text": "rules.sectiontwo.d" } }
-    
+    { "header_3@how_to_play_common.header": {
+      "$text": "rules.sectionthree.header" } },
+    { "header_4@how_to_play_common.header": {
+      "$text": "rules.sectionfour.header" } },
+    { "header_5@how_to_play_common.header": {
+      "$text": "rules.sectionfive.header" } },
+    { "header_6@how_to_play_common.header": {
+      "$text": "rules.sectionsix.header" } },
+    { "header_7@how_to_play_common.header": {
+      "$text": "rules.sectionseven.header" } },
+    { "header_8@how_to_play_common.header": {
+      "$text": "rules.sectioneight.header" } },
+    { "header_9@how_to_play_common.header": {
+      "$text": "rules.sectionnine.header" } },
   ]
 },
 "banlist_button@how_to_play_common.section_toggle_button": {
@@ -218,27 +231,22 @@
       "$text": "banlist.bannedplayer01.username" } },
       { "paragraph_3@how_to_play_common.paragraph": {
       "$text": "banlist.bannedplayer01.reason" } },
-      
      { "padding_2@how_to_play_common.padding": { } }, { "paragraph_4@how_to_play_common.paragraph": {
       "$text": "banlist.bannedplayer02.username" } },
       { "paragraph_5@how_to_play_common.paragraph": {
       "$text": "banlist.bannedplayer02.reason" } },
-      
      { "padding_3@how_to_play_common.padding": { } }, { "paragraph_6@how_to_play_common.paragraph": {
       "$text": "banlist.bannedplayer03.username" } },
       { "paragraph_7@how_to_play_common.paragraph": {
       "$text": "banlist.bannedplayer03.reason" } },
-    
      { "padding_4@how_to_play_common.padding": { } }, { "paragraph_8@how_to_play_common.paragraph": {
       "$text": "banlist.bannedplayer04.username" } },
       { "paragraph_9@how_to_play_common.paragraph": {
       "$text": "banlist.bannedplayer04.reason" } },
      { "padding_5@how_to_play_common.padding": { } }, { "paragraph_10@how_to_play_common.paragraph": {
       "$text": "banlist.bannedplayer05.username" } },
-      
       { "paragraph_11@how_to_play_common.paragraph": {
       "$text": "banlist.bannedplayers05.reason" } },
-      
      { "padding_6@how_to_play_common.padding": { } }, { "paragraph_12@how_to_play_common.paragraph": {
       "$text": "banlist.bannedplayer06.username" } },
       { "paragraph_13@how_to_play_common.paragraph": {

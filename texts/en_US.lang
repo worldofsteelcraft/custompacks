@@ -10,10 +10,6 @@ patchnotes.paragraph.featurepatch01=Releases the User Interface for the annoucem
 howtoplay.announcements=Announcements
 howtoplay.announcements.button=Announcements
 howtoplay.announcements.title=Announcements
-announcements.header.announcement0=Announcements
-announcements.paragraph.announcement01=User Interface Patch Release
-
-
 
 //Always update it when something updated
 announcements.last.updated=Last updated: September 7 2021
