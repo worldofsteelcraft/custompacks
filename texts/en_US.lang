@@ -14,7 +14,7 @@ howtoplay.announcements.title=Announcements
 //Always update it when something updated
 announcements.last.updated=Last updated: September 7 2021
 patchnotes.last.released=Last updated: September 7 2021
-rules.publish.date=
+rules.publish.date=Last updated:
 
 //Announcements section, use blank characters for not used lines
 //when adding pictures to the announcement
