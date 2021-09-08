@@ -510,7 +510,15 @@
       "$text": "rules.sectionnine.g" } },
     { "padding30_@how_to_play_common.padding": { } },
     { "paragraph_45@how_to_play_common.paragraph": {
-      "$text": "rules.publish.date" } }
+      "$text": "rules.publish.date" } },
+    { "header_10@how_to_play_common.header": {
+      "$text": "rules.otherlanguage.header" } },
+    { "paragraph_46@how_to_play_common.paragraph": {
+    "$text": "rules.otherlanguage.paragraph" } },
+    { "paragraph_47@how_to_play_common.paragraph": {
+      "$text": "rules.otherlanguage.enlink" } },
+    { "paragraph_48@how_to_play_common.paragraph": {
+      "$text": "rules.otherlanguage.fillink" } }
   ]
 },
 "banlist_button@how_to_play_common.section_toggle_button": {
