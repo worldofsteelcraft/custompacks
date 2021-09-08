@@ -1,29 +1,29 @@
 adventureMode
 
 
-armorStand
-banners
-beacons
 
 
-blocks
-bookAndQuill
 
 
-chat
+
+
+
+
+
+
 
 
 commands
-vr
-controls
+
+
 worldBuilder
 permissionBlocks
 chalkboard
 portfolio
 classroomMode
 codeBuilder
-crafting
-craftingTable
+
+
 creativeMode
 difficulty
 
@@ -39,11 +39,11 @@ endCities
 
 
 
-gameSettings
+
 
 hostAndPlayerOptions
-HUD
-inventory
+
+
 
 
 
@@ -52,17 +52,17 @@ inventory
 
 
 pets
-raids
+
 ranching
 
 
-resourceAndBehaviorPacks
 
 
-shulkerBoxes
+
+
 
 theStore
-tools
+
 trading
 
 
