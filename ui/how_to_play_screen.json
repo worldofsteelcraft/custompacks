@@ -31,6 +31,7 @@
             { "announcements_button@how_to_play.announcements_button": { "$toggle_group_forced_index": 1 } },
             { "patchnotes_button@how_to_play.patchnotes_button": { "$toggle_group_forced_index": 2 } },
             { "events_button@how_to_play.events_button": { "$toggle_group_forced_index": 3 } },
+            { "banlist_button@how_to_play.banlist_button": { "$toggle_group_forced_index": 4 } },
             
             
             {
@@ -61,7 +62,8 @@
             { "patchnotes_section@how_to_play.patchnotes_section": { } },
             { "announcements_section@how_to_play.announcements_section": { } },
             { "serverrules_section@how_to_play.serverrules_section": { } },
-            { "events_section@how_to_play.serverrules_section": { } },
+            { "events_section@how_to_play.events_section": { } },
+            { "banlist_section@how_to_play.banlist_section": { } },
             {
               "section_contents_footer@how_to_play_common.section_contents_footer": { }
             }
@@ -365,7 +367,7 @@
     "bindings": [
       {
         "binding_type": "view",
-        "source_control_name": "announcements_button_toggle",
+        "source_control_name": "events_button_toggle",
         "source_property_name": "#toggle_state",
         "target_property_name": "#visible"
       }
@@ -378,7 +380,8 @@
       { "paragraph_0@how_to_play_common.paragraph": {
       "$text": "events.content.paragraphone" } },
      { "paragraph_2@how_to_play_common.paragraph": {
-      "$text": "events.content.mechanicsone" } } { "paragraph_1@how_to_play_common.paragraph": {
+      "$text": "events.content.mechanicsone" } }, 
+      { "paragraph_1@how_to_play_common.paragraph": {
       "$text": "events.content.paragraphtwo" } },
        { "paragraph_2@how_to_play_common.paragraph": {
       "$text": "events.content.mechanicsone" } },
@@ -399,10 +402,10 @@
       { "paragraph_10@how_to_play_common.paragraph": {
       "$text": "events.content.mechanicsnine" } },
       { "paragraph_11@how_to_play_common.paragraph": {
-      "$text": "events.content.mechanicsten" } },
-      
-     { "padding_1@how_to_play_common.padding": { } }, { "paragraph_12@how_to_play_common.paragraph": {
+      "$text": "events.content.mechanicsten" } }, 
+     { "padding_1@how_to_play_common.padding": { } }, 
+     { "paragraph_12@how_to_play_common.paragraph": {
       "$text": "events.content.mechanicsone" } }
   ]
-},
+}
 }
