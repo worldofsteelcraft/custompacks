@@ -375,7 +375,7 @@
     "controls": [
       { "image_0@how_to_play_common.image": {
       "texture": "textures/events/cover" } },
-      { "header_0@how_to_play_common.paragraph": {
+      { "header_0@how_to_play_common.header": {
       "$text": "events.content.header" } },
       { "paragraph_0@how_to_play_common.paragraph": {
       "$text": "events.content.paragraphone" } },
