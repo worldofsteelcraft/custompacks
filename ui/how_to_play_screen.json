@@ -381,6 +381,7 @@
       "$text": "events.content.paragraphone" } },
      { "paragraph_2@how_to_play_common.paragraph": {
       "$text": "events.content.mechanicsone" } }, 
+      { "padding_2@how_to_play_common.padding": { } },
       { "paragraph_1@how_to_play_common.paragraph": {
       "$text": "events.content.paragraphtwo" } },
        { "paragraph_2@how_to_play_common.paragraph": {
@@ -405,7 +406,7 @@
       "$text": "events.content.mechanicsten" } }, 
      { "padding_1@how_to_play_common.padding": { } }, 
      { "paragraph_12@how_to_play_common.paragraph": {
-      "$text": "events.content.mechanicsone" } }
+      "$text": "events.content.paragraphthree" } }
   ]
 }
 }
