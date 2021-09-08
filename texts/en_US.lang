@@ -1,37 +1,35 @@
-menu.howToPlay=WoSC Information Area
-howtoplay.category.wosc=World of SteelCraft
+announcements.content.header=Announcement
+announcements.content.lineone=Line one
+announcements.content.linetwo=Line two
+announcements.content.linethree=Line three
+announcements.content.linefour=Line four
+announcements.content.linefive=Line five
+announcements.publish.date=Published: September 7 2021
 
-howtoplay.patchnotes.button=Feature Patch Notes
-howtoplay.patchnotes= Feature Patch Notes
-howtoplay.patchnotes.title=Feature Patch Notes
-patchnotes.header.featurepatch0=User Interface Patch Release
-patchnotes.paragraph.featurepatch01=Releases the User Interface for the annoucements and server information
+events.content.header=No Existing Events
+events.content.paragraphone=
+events.content.paragraphtwo=
+events.content.mechanicsone=
+events.content.mechanicstwo=
+events.content.mechanicsthree=
+events.content.mechanicsfour=
+events.content.mechanicsfive4
+events.content.mechanicssix=
+events.content.mechanicsseven=
+events.content.mechanicseight=
+events.content.mechanicsnine=
+events.content.mechanicsten=
+events.content.paragraphthree=
 
-howtoplay.announcements=Announcements
-howtoplay.announcements.button=Announcements
-howtoplay.announcements.title=Announcements
-
-//Always update it when something updated
-announcements.last.updated=Last updated: September 7 2021
+patchnotes.content.releasetopic=Information Area on How to Play Page Release
+patchnotes.content.description= This release covers the Information Area that will display some information about server.
+patchnotes.content.changeone= Added Patch Notes
+patchnotes.content.changetwo=Added Announcements
+patchnotes.content.changethree=Added Rules
+patchnotes.content.changefour= Added Member Ban List
+patchnotes.content.changefive= Added Events
 patchnotes.last.released=Last updated: September 7 2021
-rules.publish.date=Last updated:
 
-//Announcements section, use blank characters for not used lines
-//when adding pictures to the announcement
-announcements.content.lineone=
-announcements.content.linetwo=
-announcements.content.linethree=
-announcements.content.linefour=
-announcements.content.linefive=
-
-//Patch notes, only add content or change content when release was uploaded
-patchnotes.content.releasetopic=
-patchnotes.content.description=
-patchnotes.content.changeone=
-patchnotes.content.changetwo=
-patchnotes.content.changethree=
-patchnotes.content.changefour=
-patchnotes.content.changefive=
 
 //Links, seek attention when adding or removing content
 links.discord.server=[Contact an admin to give you a link]
@@ -104,6 +102,17 @@ rules.otherlanguage.header=Other Language Links
 rules.otherlanguage.paragraph=This is the links for the English and Filipino Translation of the rules for easier understanding
 rules.otherlanguage.enlink=English Rules: https://worldofsteelcraft.tk/rules/en
 rules.otherlanguage.fillink=Filipino Rules: https://worldofsteelcraft.tk/rules/fil
+rules.publish.date=August 1 2021
 
-
-menu.howToPlay.generalMessage=Information area of World of SteelCraft Server
+menu.howToPlay=WoSC Information Area
+howtoplay.category.wosc=World of SteelCraft
+menu.howToPlay.generalMessage=Information area of World of SteelCraft
+howtoplay.announcements=Announcements
+howtoplay.announcements.button=Announcements
+howtoplay.announcements.title=Announcements
+howtoplay.patchnotes.button=Feature Patch Notes
+howtoplay.patchnotes=Feature Patch Notes
+howtoplay.patchnotes.title=Feature Patch Notes
+howtoplay.banlist=Member Ban List
+howtoplay.banlist.title=Member Ban List
+howtoplay.banlist.button=Ban List
