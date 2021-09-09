@@ -13,7 +13,7 @@ adventureMode
 
 
 
-commands
+
 
 
 worldBuilder
@@ -24,14 +24,15 @@ classroomMode
 codeBuilder
 
 
-creativeMode
-difficulty
 
 
 
 
 
-endCities
+
+
+
+
 
 
 
@@ -51,9 +52,9 @@ hostAndPlayerOptions
 
 
 
-pets
 
-ranching
+
+
 
 
 
@@ -63,7 +64,7 @@ ranching
 
 theStore
 
-trading
+
 
 
 
