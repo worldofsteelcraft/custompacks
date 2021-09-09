@@ -293,23 +293,25 @@
       { "image_0@how_to_play_common.image": {
         "texture": "textures/patchnotes/cover" } },
       { "header_0@how_to_play_common.header": {
-        "$text": "patchnotes.content.header" } },
+        "$text": "patchnotes.content.releasetopic" } },
         { "paragraph_0@how_to_play_common.paragraph": {
-          "$text": "patchnotes.content.lineone" } },
+          "$text": "patchnotes.content.description" } },
         { "padding_0@how_to_play_common.padding": { } },
         { "paragraph_1@how_to_play_common.paragraph": {
-          "$text": "patchnotes.content.linetwo" } },
+          "$text": "patchnotes.content.changeone" } },
         { "padding_1@how_to_play_common.padding": { } },
         { "paragraph_2@how_to_play_common.paragraph": {
-          "$text": "patchnotes.content.linethree" } },
+          "$text": "patchnotes.content.changetwo" } },
         { "padding_2@how_to_play_common.padding": { } },
         { "paragraph_3@how_to_play_common.paragraph": {
-          "$text": "patchnotes.content.linefour" } },
+          "$text": "patchnotes.content.changethree" } },
         { "padding_3@how_to_play_common.padding": { } },
         { "paragraph_4@how_to_play_common.paragraph": {
-          "$text": "patchnotes.content.linefive" } },
+          "$text": "patchnotes.content.changefour" } },
+        { "paragraph_5@how_to_play_common.paragraph": {
+          "$text": "patchnotes.content.changefive" } },
         { "padding_4@how_to_play_common.padding": { } },
-        { "paragraph_0@how_to_play_common.paragraph": {
+        { "paragraph_6@how_to_play_common.paragraph": {
           "$text": "patchnotes.last.released" } } 
   ]
 },
