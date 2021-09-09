@@ -22,12 +22,12 @@ events.content.mechanicsten=ㅤ
 events.content.paragraphthree=ㅤ
 
 patchnotes.content.releasetopic=Information Area on How to Play Page Release
-patchnotes.content.description= This release covers the Information Area that will display some information about server.
-patchnotes.content.changeone= Added Patch Notes
+patchnotes.content.description=This release covers the Information Area that will display some information about server.
+patchnotes.content.changeone=Added Patch Notes
 patchnotes.content.changetwo=Added Announcements
 patchnotes.content.changethree=Added Rules
-patchnotes.content.changefour= Added Member Ban List
-patchnotes.content.changefive= Added Events
+patchnotes.content.changefour=Added Member Ban List
+patchnotes.content.changefive=Added Events
 patchnotes.last.released=Last updated: September 7 2021
 
 
