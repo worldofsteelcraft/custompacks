@@ -290,6 +290,8 @@
       }
     ],
     "controls": [
+      { "image_0@how_to_play_common.image": {
+        "texture": "textures/patchnotes/cover" } },
       { "header_0@how_to_play_common.header": {
         "$text": "patchnotes.content.header" } },
         { "paragraph_0@how_to_play_common.paragraph": {

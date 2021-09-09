@@ -7,19 +7,19 @@ announcements.content.linefive=Line five
 announcements.publish.date=Published: September 7 2021
 
 events.content.header=No Existing Events
-events.content.paragraphone=
-events.content.paragraphtwo=
-events.content.mechanicsone=
-events.content.mechanicstwo=
-events.content.mechanicsthree=
-events.content.mechanicsfour=
-events.content.mechanicsfive4
-events.content.mechanicssix=
-events.content.mechanicsseven=
-events.content.mechanicseight=
-events.content.mechanicsnine=
-events.content.mechanicsten=
-events.content.paragraphthree=
+events.content.paragraphone=ㅤ
+events.content.paragraphtwo=ㅤ
+events.content.mechanicsone=ㅤ
+events.content.mechanicstwo=ㅤ
+events.content.mechanicsthree=ㅤ
+events.content.mechanicsfour=ㅤ
+events.content.mechanicsfive=ㅤ
+events.content.mechanicssix=ㅤ
+events.content.mechanicsseven=ㅤ
+events.content.mechanicseight=ㅤ
+events.content.mechanicsnine=ㅤ
+events.content.mechanicsten=ㅤ
+events.content.paragraphthree=ㅤ
 
 patchnotes.content.releasetopic=Information Area on How to Play Page Release
 patchnotes.content.description= This release covers the Information Area that will display some information about server.
