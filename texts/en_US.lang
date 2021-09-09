@@ -1,11 +1,13 @@
+//Announcements, use filler characters when line is vacant
 announcements.content.header=Announcement
-announcements.content.lineone=Line one
-announcements.content.linetwo=Line two
-announcements.content.linethree=Line three
-announcements.content.linefour=Line four
-announcements.content.linefive=Line five
-announcements.publish.date=Published: September 7 2021
+announcements.content.lineone=Nothing
+announcements.content.linetwo=ㅤ
+announcements.content.linethree=ㅤ
+announcements.content.linefour=ㅤ
+announcements.content.linefive=ㅤ
+announcements.publish.date=Published September 10, 2020
 
+//Events, if contains cover image, seek attention
 events.content.header=No Existing Events
 events.content.paragraphone=ㅤ
 events.content.paragraphtwo=ㅤ
@@ -21,6 +23,7 @@ events.content.mechanicsnine=ㅤ
 events.content.mechanicsten=ㅤ
 events.content.paragraphthree=ㅤ
 
+//Patchnotes, only change when announcements to be pushed
 patchnotes.content.releasetopic=Information Area on How to Play Page Release
 patchnotes.content.description=This release covers the Information Area that will display some information about server.
 patchnotes.content.changeone=Added Patch Notes
@@ -28,7 +31,7 @@ patchnotes.content.changetwo=Added Announcements
 patchnotes.content.changethree=Added Rules
 patchnotes.content.changefour=Added Member Ban List
 patchnotes.content.changefive=Added Events
-patchnotes.last.released=Last updated: September 7 2021
+patchnotes.last.released=Last updated: September 10 2021
 
 
 //Links, seek attention when adding or removing content
