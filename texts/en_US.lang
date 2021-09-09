@@ -104,6 +104,27 @@ rules.otherlanguage.enlink=English Rules: https://worldofsteelcraft.tk/rules/en
 rules.otherlanguage.fillink=Filipino Rules: https://worldofsteelcraft.tk/rules/fil
 rules.publish.date=August 1 2021
 
+banlist.content.header=Banned Members List
+banlist.content.description=These users are banned to World of SteelCraft, in any platform of games and communication due to the violation of rules or excessive disobedience
+banlist.last.updated=Last Updated 
+banlist.fulllist.header=Full List
+banlist.bannedplayer01.username=
+banlist.bannedplayer01.reason=
+banlist.bannedplayer02.username=
+banlist.bannedplayer02.reason=
+banlist.bannedplayer03.username=
+banlist.bannedplayer03.reason=
+banlist.bannedplayer04.username=
+banlist.bannedplayer05.reason=
+banlist.bannedplayer06.username=
+banlist.bannedplayer06.reason=
+banlist.bannedplayer07.username=
+banlist.bannedplayer07.reason=
+
+
+
+
+
 menu.howToPlay=WoSC Information Area
 howtoplay.category.wosc=World of SteelCraft
 menu.howToPlay.generalMessage=Information area of World of SteelCraft
