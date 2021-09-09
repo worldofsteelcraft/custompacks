@@ -108,18 +108,20 @@ banlist.content.header=Banned Members List
 banlist.content.description=These users are banned to World of SteelCraft, in any platform of games and communication due to the violation of rules or excessive disobedience
 banlist.last.updated=Last Updated 
 banlist.fulllist.header=Full List
-banlist.bannedplayer01.username=
-banlist.bannedplayer01.reason=
-banlist.bannedplayer02.username=
-banlist.bannedplayer02.reason=
-banlist.bannedplayer03.username=
-banlist.bannedplayer03.reason=
-banlist.bannedplayer04.username=
-banlist.bannedplayer05.reason=
-banlist.bannedplayer06.username=
-banlist.bannedplayer06.reason=
-banlist.bannedplayer07.username=
-banlist.bannedplayer07.reason=
+banlist.bannedplayer01.username=ExaminedPurse23
+banlist.bannedplayer01.reason=Looting
+banlist.bannedplayer02.username=FluppyPanPan
+banlist.bannedplayer02.reason=Cheating by Duplication Glitch Abuse
+banlist.bannedplayer03.username=Arowaii
+banlist.bannedplayer03.reason=Cheating by Duplication Glitch Abuse and Griefing
+banlist.bannedplayer04.username=Daisann
+banlist.bannedplayer04.reason=Arowaiii's Accessory to the Crime
+banlist.bannedplayer05.username=BananaGuy2324
+banlist.bannedplayer05.reason=Engaging Illegal Nation War Activities, Excessive Disobidience, and Griefing
+banlist.bannedplayer06.username=MarkTheNoob06/M4rkTheMinerYT
+banlist.bannedplayer06.reason=Engaging Illegal Nation War Activities, Excessive Disobidience, and Griefing
+banlist.bannedplayer07.username=Dream7320
+banlist.bannedplayer07.reason=Using Cheat Client on Server Premises
 
 
 
