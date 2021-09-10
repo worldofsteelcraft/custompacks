@@ -1,0 +1,14 @@
+{
+	"format_version": 1.1,
+	"minecraft:item": {
+		"description": {
+			"identifier": "rings:attack_ring",
+			"category": "Equipment"
+		},
+		"components": {
+			"minecraft:icon": "attack_ring",
+			"minecraft:render_offsets": "tools",
+			"minecraft:hover_text_color": "light_purple"
+		}
+	}
+}
