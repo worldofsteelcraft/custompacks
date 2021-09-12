@@ -32,7 +32,7 @@
             { "patchnotes_button@how_to_play.patchnotes_button": { "$toggle_group_forced_index": 2 } },
             { "events_button@how_to_play.events_button": { "$toggle_group_forced_index": 3 } },
             { "banlist_button@how_to_play.banlist_button": { "$toggle_group_forced_index": 4 } },
-            { "aboutwosc_button@how_to_play.banlist_button": { "$toggle_group_forced_index": 5 } },
+            { "aboutwosc_button@how_to_play.aboutwosc_button": { "$toggle_group_forced_index": 5 } },
             { "basics_category@how_to_play_common.topic_category": { "$category": "basics" } },
             {
               "vr_button@how_to_play.vr_button": {
@@ -108,22 +108,22 @@
             { "adventure_mode_button@how_to_play.adventure_mode_button": { "$toggle_group_forced_index": 57 } },
             { "creative_mode_button@how_to_play.creative_mode_button": { "$toggle_group_forced_index": 58 } },
             { "commands_button@how_to_play.commands_button": { "$toggle_group_forced_index": 59 } },
-            { "host_and_player_options_button@how_to_play.host_and_player_options_button": { "$toggle_group_forced_index": 58 } },
-            { "command_blocks_button@how_to_play.command_blocks_button": { "$toggle_group_forced_index": 60 } },
+            { "host_and_player_options_button@how_to_play.host_and_player_options_button": { "$toggle_group_forced_index": 60 } },
+            { "command_blocks_button@how_to_play.command_blocks_button": { "$toggle_group_forced_index": 61 } },
 
             { "engineering_category@how_to_play_common.topic_category": { "$category": "engineering" } },
-            { "redstone_button@how_to_play.redstone_button": { "$toggle_group_forced_index": 61 } },
-            { "hoppers_button@how_to_play.hoppers_button": { "$toggle_group_forced_index": 62 } },
-            { "droppers_button@how_to_play.droppers_button": { "$toggle_group_forced_index": 63 } },
-            { "dispensers_button@how_to_play.dispensers_button": { "$toggle_group_forced_index": 64 } },
-            { "jukebox_button@how_to_play.jukebox_button": { "$toggle_group_forced_index": 65 } },
+            { "redstone_button@how_to_play.redstone_button": { "$toggle_group_forced_index": 62 } },
+            { "hoppers_button@how_to_play.hoppers_button": { "$toggle_group_forced_index": 63 } },
+            { "droppers_button@how_to_play.droppers_button": { "$toggle_group_forced_index": 64 } },
+            { "dispensers_button@how_to_play.dispensers_button": { "$toggle_group_forced_index": 65 } },
+            { "jukebox_button@how_to_play.jukebox_button": { "$toggle_group_forced_index": 66 } },
 
             { "the_end_category@how_to_play_common.topic_category": { "$category": "theEnd" } },
-            { "eye_of_ender_button@how_to_play.eye_of_ender_button": { "$toggle_group_forced_index": 66 } },
-            { "the_end_button@how_to_play.the_end_button": { "$toggle_group_forced_index": 67 } },
-            { "end_cities_button@how_to_play.end_cities_button": { "$toggle_group_forced_index": 68 } },
-            { "elytra_button@how_to_play.elytra_button": { "$toggle_group_forced_index": 69 } },
-            { "shulker_boxes_button@how_to_play.shulker_boxes_button": { "$toggle_group_forced_index": 70 } },
+            { "eye_of_ender_button@how_to_play.eye_of_ender_button": { "$toggle_group_forced_index": 67 } },
+            { "the_end_button@how_to_play.the_end_button": { "$toggle_group_forced_index": 68 } },
+            { "end_cities_button@how_to_play.end_cities_button": { "$toggle_group_forced_index": 69 } },
+            { "elytra_button@how_to_play.elytra_button": { "$toggle_group_forced_index": 70 } },
+            { "shulker_boxes_button@how_to_play.shulker_boxes_button": { "$toggle_group_forced_index": 71 } },
 
             {
               "enhanced_play_category@how_to_play_common.topic_category": {
@@ -133,13 +133,13 @@
             },
             {
               "multiplayer_button@how_to_play.multiplayer_button": {
-                "$toggle_group_forced_index": 70,
+                "$toggle_group_forced_index": 72,
                 "ignored": "$education_edition"
               }
             },
             {
               "realms_button@how_to_play.realms_button": {
-                "$toggle_group_forced_index": 71,
+                "$toggle_group_forced_index": 73,
                 "ignored": "($education_edition or (not $is_realms_enabled and $nx_os) or (not $is_realms_enabled and $is_ps4))",
                 "bindings": [
                   {
@@ -151,19 +151,19 @@
             },
             {
               "servers_button@how_to_play.servers_button": {
-                "$toggle_group_forced_index": 72,
+                "$toggle_group_forced_index": 74,
                 "ignored": "($education_edition or ($ignore_3rd_party_servers and $nx_os) or ($ignore_3rd_party_servers and $is_ps4))"
               }
             },
             {
               "the_store_button@how_to_play.the_store_button": {
-                "$toggle_group_forced_index": 73,
+                "$toggle_group_forced_index": 75,
                 "ignored": "$education_edition"
               }
             },
             {
               "resource_and_behavior_packs_button@how_to_play.resource_and_behavior_packs_button": {
-                "$toggle_group_forced_index": 74,
+                "$toggle_group_forced_index": 76,
                 "ignored": "$education_edition"
               }
             },
@@ -295,23 +295,29 @@
       { "image_0@how_to_play_common.image": {
         "texture": "textures/patchnotes/cover" } },
       { "header_0@how_to_play_common.header": {
-        "$text": "patchnotes.content.releasetopic" } },
+        "$text": "patchnotes.currentchange.releasetopic" } },
         { "paragraph_0@how_to_play_common.paragraph": {
-          "$text": "patchnotes.content.description" } },
+          "$text": "patchnotes.currentchange.description" } },
         { "padding_0@how_to_play_common.padding": { } },
         { "paragraph_1@how_to_play_common.paragraph": {
-          "$text": "patchnotes.content.changeone" } },
+          "$text": "patchnotes.currentchange.changeone" } },
         { "paragraph_2@how_to_play_common.paragraph": {
-          "$text": "patchnotes.content.changetwo" } },
+          "$text": "patchnotes.currentchange.changetwo" } },
         { "paragraph_3@how_to_play_common.paragraph": {
-          "$text": "patchnotes.content.changethree" } },
+          "$text": "patchnotes.currentchange.changethree" } },
         { "paragraph_4@how_to_play_common.paragraph": {
-          "$text": "patchnotes.content.changefour" } },
+          "$text": "patchnotes.currentchange.changefour" } },
         { "paragraph_5@how_to_play_common.paragraph": {
-          "$text": "patchnotes.content.changefive" } },
+          "$text": "patchnotes.currentchange.changefive" } },
         { "padding_4@how_to_play_common.padding": { } },
         { "paragraph_6@how_to_play_common.paragraph": {
-          "$text": "patchnotes.last.released" } } 
+          "$text": "patchnotes.currentchange.date" } } ,
+        { "padding_5@how_to_play_common.padding": { } },  
+        { "header_1@how_to_play_common.header": {
+        "$text": "patchnotes.previouschange.releasetopic" } },
+        { "paragraph_7@how_to_play_common.paragraph": {
+          "$text": "patchnotes.previouschange.summary" } }
+        
   ]
 },
 
@@ -632,17 +638,20 @@
       "$text": "events.content.paragraphthree" } }
   ]
 },
+"aboutwosc_button@how_to_play_common.section_toggle_button": {
+  "$section_topic": "aboutwosc"
+},
 "aboutwosc_section@how_to_play_common.main_sections": {
-    "bindings": [
-      {
-        "binding_type": "view",
-        "source_control_name": "aboutwosc_button_toggle",
-        "source_property_name": "#toggle_state",
-        "target_property_name": "#visible"
-      }
-    ],
-    "controls": [
-      { "image_0@how_to_play_common.image": {
+  "bindings": [
+    {
+      "binding_type": "view",
+      "source_control_name": "aboutwosc_button_toggle",
+      "source_property_name": "#toggle_state",
+      "target_property_name": "#visible"
+    }
+  ],
+  "controls": [
+    { "image_0@how_to_play_common.image": {
       "texture": "textures/aboutwosc/cover" } },
       { "header_0@how_to_play_common.header": {
         "$text": "aboutwosc.content.header" } },
@@ -652,34 +661,30 @@
         
         { "paragraph_1@how_to_play_common.paragraph": {
           "$text": "aboutwosc.content.currentseason" } },
-        { "padding_@how_to_play_common.padding": { } },
+        { "padding_2@how_to_play_common.padding": { } },
         
         { "paragraph_2@how_to_play_common.paragraph": {
           "$text": "aboutwosc.content.managementintroduction" } },
         { "image_1@how_to_play_common.image": {
           "texture": "textures/aboutwosc/admintree" } },
-        
+        { "padding_3@how_to_play_common.padding": { } },
         { "paragraph_3@how_to_play_common.paragraph": {
           "$text": "aboutwosc.content.links" } },
-        
         { "paragraph_4@how_to_play_common.paragraph": {
           "$text": "aboutwosc.content.discordlink" } },
         { "paragraph_5@how_to_play_common.paragraph": {
           "$text": "links.discord.server" } },
-        
         { "paragraph_6@how_to_play_common.paragraph": {
           "$text": "aboutwosc.content.serverinfolink" } },
         { "paragraph_7@how_to_play_common.paragraph": {
           "$text": "links.server.info" } },
-
         { "paragraph_8@how_to_play_common.paragraph": {
           "$text": "aboutwosc.content.serverwebsitelink" } },
         { "paragraph_9@how_to_play_common.paragraph": {
           "$text": "links.server.website" } },
-        
         { "padding_4@how_to_play_common.padding": { } },
         { "paragraph_3@how_to_play_common.paragraph": {
           "$text": "aboutwosc.last.updated" } }
-  ]
+]
 }
 }

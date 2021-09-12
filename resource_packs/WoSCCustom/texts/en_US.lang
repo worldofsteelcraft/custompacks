@@ -24,15 +24,16 @@ events.content.mechanicsten=ㅤ
 events.content.paragraphthree=ㅤ
 
 //Patchnotes, only change when announcements to be pushed
-patchnotes.content.releasetopic=Information Area on How to Play Page Release
-patchnotes.content.description=This release covers the Information Area that will display some information about server.
-patchnotes.content.changeone=Added Patch Notes
-patchnotes.content.changetwo=Added Announcements
-patchnotes.content.changethree=Added Rules
-patchnotes.content.changefour=Added Member Ban List
-patchnotes.content.changefive=Added Events
-patchnotes.last.released=Last updated: September 10 2021
-
+patchnotes.currentchange.releasetopic=Information Area on How to Play Page Release
+patchnotes.currentchange.description=This release covers the Information Area that will display some information about server.
+patchnotes.currentchange.changeone=Added Patch Notes
+patchnotes.currentchange.changetwo=Added Announcements
+patchnotes.currentchange.changethree=Added Rules
+patchnotes.currentchange.changefour=Added Member Ban List
+patchnotes.currentchange.changefive=Added Events
+patchnotes.currentchange.date=Last updated: September 10 2021
+patchnotes.previouschange.releasetopic=Previous Release: Nothing
+patchnotes.previouschange.summary=Previous Releases Not Available
 
 //Links, seek attention when adding or removing content
 links.discord.server=[Contact an admin to give you a link]
@@ -127,6 +128,16 @@ banlist.bannedplayer06.reason=Engaging Illegal Nation War Activities, Excessive 
 banlist.bannedplayer07.username=Dream7320
 banlist.bannedplayer07.reason=Using Cheat Client on Server Premises
 
+aboutwosc.content.header=
+aboutwosc.content.introduction=
+aboutwosc.content.currentseason=The current season is Season 7,
+aboutwosc.content.managementintroduction
+aboutwosc.content.links=Links for WoSC Related Stuff:
+aboutwosc.content.discordlink=Discord Server:
+aboutwosc.content.serverinfolink=SMP Server Information:
+aboutwosc.content.serverwebsitelink=Website:
+aboutwosc.last.updated=Last updated September 12 2021
+
 menu.howToPlay=WoSC Information Area
 howtoplay.category.wosc=World of SteelCraft
 menu.howToPlay.generalMessage=Information area of World of SteelCraft
@@ -142,7 +153,9 @@ howtoplay.banlist.button=Ban List
 howtoplay.events=Events
 howtoplay.events.title=Events
 howtoplay.events.button=Events
-
+howtoplay.aboutwosc=About World of SteelCraft
+howtoplay.aboutwosc.title=About World of SteelCraft
+howtoplay.aboutwosc.button=About WoSC
 
 pack.name=WoSC Custom Resource Pack
 pack.description=Release 1.3-Introducing Information Area to World of SteelCraft

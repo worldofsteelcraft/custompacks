@@ -1,0 +1,24 @@
+{
+	"resource_pack_name": "woscitemproj",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"gold_coin": {
+			"textures": "textures/items/coin_gold"
+		},
+		"iron_coin": {
+			"textures": "textures/items/coin_iron"
+		},
+		"diamond_coin": {
+			"textures": "textures/items/coin_nether"
+		},
+		"life_ring": {
+			"textures": "textures/items/life_ring"
+		},
+		"speed_ring": {
+			"textures": "textures/items/speed_ring"
+		},
+		"attack_ring": {
+			"textures": "textures/items/attack_ring"
+		}
+	}
+}
