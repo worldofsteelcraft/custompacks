@@ -37,6 +37,7 @@ patchnotes.last.released=Last updated: September 10 2021
 //Links, seek attention when adding or removing content
 links.discord.server=[Contact an admin to give you a link]
 links.server.info=https://worldofsteelcraft.tk/server/info
+links.server.website=https://worldofsteelcraft.tk
 
 //Rules Section, seek attention when changing it's content
 howtoplay.serverrules=WoSC Rules
