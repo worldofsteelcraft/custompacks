@@ -1,42 +1,44 @@
-//Announcements, use filler characters when line is vacant
-announcements.content.header=Announcement
-announcements.content.lineone=Nothing
-announcements.content.linetwo=ㅤ
-announcements.content.linethree=ㅤ
-announcements.content.linefour=ㅤ
-announcements.content.linefive=ㅤ
-announcements.publish.date=Published September 10, 2021
+//Announcements, use "-" character when line is vacant
+announcements.content.header=Ender Fight Announcement
+announcements.content.lineone=In September 18, players will now be allowed to open the end portals and end fight will start.
+announcements.content.linetwo=Be ready for the End Fight
+announcements.content.linethree=-
+announcements.content.linefour=-
+announcements.content.linefive=-
+announcements.publish.date=Published September 13, 2021
 
-//Events, if contains cover image, seek attention
+//Events, if contains cover image, change /textures/events/cover.png
 events.content.header=No Existing Events
-events.content.paragraphone=ㅤ
-events.content.paragraphtwo=ㅤ
-events.content.mechanicsone=ㅤ
-events.content.mechanicstwo=ㅤ
-events.content.mechanicsthree=ㅤ
-events.content.mechanicsfour=ㅤ
-events.content.mechanicsfive=ㅤ
-events.content.mechanicssix=ㅤ
-events.content.mechanicsseven=ㅤ
-events.content.mechanicseight=ㅤ
-events.content.mechanicsnine=ㅤ
-events.content.mechanicsten=ㅤ
-events.content.paragraphthree=ㅤ
+events.content.paragraphone=-
+events.content.paragraphtwo=-
+events.content.mechanicsone=-
+events.content.mechanicstwo=-
+events.content.mechanicsthree=-
+events.content.mechanicsfour=-
+events.content.mechanicsfive=-
+events.content.mechanicssix=-
+events.content.mechanicsseven=-
+events.content.mechanicseight=-
+events.content.mechanicsnine=-
+events.content.mechanicsten=-
+events.content.paragraphthree=-
 
-//Patchnotes, only change when announcements to be pushed
-patchnotes.content.releasetopic=Information Area on How to Play Page Release
-patchnotes.content.description=This release covers the Information Area that will display some information about server.
-patchnotes.content.changeone=Added Patch Notes
-patchnotes.content.changetwo=Added Announcements
-patchnotes.content.changethree=Added Rules
-patchnotes.content.changefour=Added Member Ban List
-patchnotes.content.changefive=Added Events
-patchnotes.last.released=Last updated: September 10 2021
-
+//Patchnotes, only change when a feature was released
+patchnotes.currentchange.releasetopic=Release 2 of Information Area on How To Play Page(1.3.12)
+patchnotes.currentchange.description=This release covers added some  Area that will display some information 
+patchnotes.currentchange.changeone=+ Adding the Previous Release Patch Notes Summary
+patchnotes.currentchange.changetwo=+ Added About World of SteelCraft
+patchnotes.currentchange.changethree=+ 
+patchnotes.currentchange.changefour=+ 
+patchnotes.currentchange.changefive=+ 
+patchnotes.currentchange.date=Last updated: September 13 2021
+patchnotes.previouschange.releasetopic=Previous Release: Release 1 of Information Area on How To Play Page
+patchnotes.previouschange.summary=Added Patch Notes, Announcements, Rules, Member Ban Lists and Events
 
 //Links, seek attention when adding or removing content
 links.discord.server=[Contact an admin to give you a link]
 links.server.info=https://worldofsteelcraft.tk/server/info
+links.server.website=https://worldofsteelcraft.tk
 
 //Rules Section, seek attention when changing it's content
 howtoplay.serverrules=WoSC Rules
@@ -126,6 +128,16 @@ banlist.bannedplayer06.reason=Engaging Illegal Nation War Activities, Excessive 
 banlist.bannedplayer07.username=Dream7320
 banlist.bannedplayer07.reason=Using Cheat Client on Server Premises
 
+aboutwosc.content.header=About World of SteelCraft
+aboutwosc.content.introduction=World of SteelCraft started on July 27, 2020 and is owned by Scary Master 36 and managed by him and the admins.
+aboutwosc.content.currentseason=The current season is Season 7, started on August 6 2021 and is currently not scheduled to end.
+aboutwosc.content.managementintroduction=These are the admins that currently managing the server and community:
+aboutwosc.content.links=Links for WoSC Related Stuff:
+aboutwosc.content.discordlink=Discord Server:
+aboutwosc.content.serverinfolink=SMP Server Information:
+aboutwosc.content.serverwebsitelink=Website:
+aboutwosc.last.updated=Last updated September 13 2021
+
 menu.howToPlay=WoSC Information Area
 howtoplay.category.wosc=World of SteelCraft
 menu.howToPlay.generalMessage=Information area of World of SteelCraft
@@ -141,11 +153,12 @@ howtoplay.banlist.button=Ban List
 howtoplay.events=Events
 howtoplay.events.title=Events
 howtoplay.events.button=Events
-
+howtoplay.aboutwosc=About World of SteelCraft
+howtoplay.aboutwosc.title=About World of SteelCraft
+howtoplay.aboutwosc.button=About WoSC
 
 pack.name=WoSC Custom Resource Pack
 pack.description=Release 1.3-Introducing Information Area to World of SteelCraft
-
 
 item.coins:iron_coin.name=Iron Coin
 item.coins:gold_coin.name=Gold Coin
