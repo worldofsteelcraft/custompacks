@@ -156,15 +156,3 @@ howtoplay.events.button=Events
 howtoplay.aboutwosc=About World of SteelCraft
 howtoplay.aboutwosc.title=About World of SteelCraft
 howtoplay.aboutwosc.button=About WoSC
-
-pack.name=WoSC Custom Resource Pack
-pack.description=Release 1.3-Introducing Information Area to World of SteelCraft
-
-item.coins:iron_coin.name=Iron Coin
-item.coins:gold_coin.name=Gold Coin
-item.coins:nether_coin.name=Nether Coin
-item.coins:ender_coin.name=Ender Coin
-
-item.rings:speed_ring.name=Speed Ring
-item.rings:life_ring.name=Life Ring
-item.rings:attack_ring.name=Attack Ring
