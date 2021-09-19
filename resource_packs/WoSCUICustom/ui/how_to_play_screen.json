@@ -575,7 +575,7 @@
      { "paragraph_10@how_to_play_common.paragraph": {
       "$text": "banlist.bannedplayer05.username" } },
       { "paragraph_11@how_to_play_common.paragraph": {
-      "$text": "banlist.bannedplayers05.reason" } },
+      "$text": "banlist.bannedplayer05.reason" } },
      { "padding_6@how_to_play_common.padding": { } }, 
      { "paragraph_12@how_to_play_common.paragraph": {
       "$text": "banlist.bannedplayer06.username" } },
