@@ -620,30 +620,30 @@
      { "paragraph_1@how_to_play_common.paragraph": {
       "$text": "events.content.mechanicsone" } }, 
       { "padding_2@how_to_play_common.padding": { } },
-      { "paragraph_1@how_to_play_common.paragraph": {
+      { "paragraph_2@how_to_play_common.paragraph": {
       "$text": "events.content.paragraphtwo" } },
-       { "paragraph_2@how_to_play_common.paragraph": {
+       { "paragraph_3@how_to_play_common.paragraph": {
       "$text": "events.content.mechanicsone" } },
-      { "paragraph_3@how_to_play_common.paragraph": {
-      "$text": "events.content.mechanicstwo" } },
       { "paragraph_4@how_to_play_common.paragraph": {
-      "$text": "events.content.mechanicsthree" } },
+      "$text": "events.content.mechanicstwo" } },
       { "paragraph_5@how_to_play_common.paragraph": {
-      "$text": "events.content.mechanicsfour" } },
+      "$text": "events.content.mechanicsthree" } },
       { "paragraph_6@how_to_play_common.paragraph": {
-      "$text": "events.content.mechanicsfive" } },
+      "$text": "events.content.mechanicsfour" } },
       { "paragraph_7@how_to_play_common.paragraph": {
-      "$text": "events.content.mechanicssix" } },
+      "$text": "events.content.mechanicsfive" } },
       { "paragraph_8@how_to_play_common.paragraph": {
-      "$text": "events.content.mechanicsseven" } },
+      "$text": "events.content.mechanicssix" } },
       { "paragraph_9@how_to_play_common.paragraph": {
-      "$text": "events.content.mechanicseight" } },
+      "$text": "events.content.mechanicsseven" } },
       { "paragraph_10@how_to_play_common.paragraph": {
-      "$text": "events.content.mechanicsnine" } },
+      "$text": "events.content.mechanicseight" } },
       { "paragraph_11@how_to_play_common.paragraph": {
+      "$text": "events.content.mechanicsnine" } },
+      { "paragraph_12@how_to_play_common.paragraph": {
       "$text": "events.content.mechanicsten" } }, 
      { "padding_1@how_to_play_common.padding": { } }, 
-     { "paragraph_12@how_to_play_common.paragraph": {
+     { "paragraph_13@how_to_play_common.paragraph": {
       "$text": "events.content.paragraphthree" } }
   ]
 },
