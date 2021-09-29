@@ -1,11 +1,11 @@
 //Announcements, use "-" character when line is vacant
-announcements.content.header=Ender Fight Announcement
-announcements.content.lineone=In September 18, players will now be allowed to open the end portals and end fight will start.
-announcements.content.linetwo=Be ready for the End Fight
-announcements.content.linethree=-
-announcements.content.linefour=-
-announcements.content.linefive=-
-announcements.publish.date=Published September 13, 2021
+announcements.content.header=Host Changes Announcement
+announcements.content.lineone=We're sad to announce that
+announcements.content.linetwo=In October 1, we will move to Europe hosted server because our host will discontinue the nearest node.
+announcements.content.linethree=-We'll keep the server not laggy as much as possible
+announcements.content.linefour=The server port will be announced at the day of the move.
+announcements.content.linefive=-Thanks for sticking with us even with these hardships.
+announcements.publish.date=Published September 29, 2021
 
 //Events, if contains cover image, change /textures/events/cover.png
 events.content.header=No Existing Events
