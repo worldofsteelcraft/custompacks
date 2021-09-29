@@ -24,16 +24,16 @@ events.content.mechanicsten=-
 events.content.paragraphthree=-
 
 //Patchnotes, only change when a feature was released
-patchnotes.currentchange.releasetopic=Release 2 of Information Area on How To Play Page(1.3.12)
-patchnotes.currentchange.description=This release covers added some  Area that will display some information 
-patchnotes.currentchange.changeone=+ Adding the Previous Release Patch Notes Summary
-patchnotes.currentchange.changetwo=+ Added About World of SteelCraft
+patchnotes.currentchange.releasetopic=Minecraft 1.17.30 Server Update
+patchnotes.currentchange.description=This release covers the current Minecraft Bedrock Update which gives various bug fixes 
+patchnotes.currentchange.changeone=+ Check the Minecraft Changelog for more info
+patchnotes.currentchange.changetwo=+ 
 patchnotes.currentchange.changethree=+ 
 patchnotes.currentchange.changefour=+ 
 patchnotes.currentchange.changefive=+ 
-patchnotes.currentchange.date=Last updated: September 13 2021
-patchnotes.previouschange.releasetopic=Previous Release: Release 1 of Information Area on How To Play Page
-patchnotes.previouschange.summary=Added Patch Notes, Announcements, Rules, Member Ban Lists and Events
+patchnotes.currentchange.date=Last updated: September 22 2021
+patchnotes.previouschange.releasetopic=Previous Release: Release 2 of Information Area on How To Play Page
+patchnotes.previouschange.summary=Added About World of SteelCraft, Previous update summary
 
 //Links, seek attention when adding or removing content
 links.discord.server=[Contact an admin to give you a link]
