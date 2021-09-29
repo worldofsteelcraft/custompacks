@@ -585,8 +585,17 @@
      { "paragraph_14@how_to_play_common.paragraph": {
       "$text": "banlist.bannedplayer07.username"} }, 
       { "paragraph_15@how_to_play_common.paragraph": {
-      "$text": "banlist.bannedplayer07.reason" } }
-      
+      "$text": "banlist.bannedplayer07.reason" } },
+      { "padding_8@how_to_play_common.padding": { } }, 
+     { "paragraph_16@how_to_play_common.paragraph": {
+      "$text": "banlist.bannedplayer08.username"} }, 
+      { "paragraph_17@how_to_play_common.paragraph": {
+      "$text": "banlist.bannedplayer08.reason" } },
+      { "padding_9@how_to_play_common.padding": { } }, 
+     { "paragraph_18@how_to_play_common.paragraph": {
+      "$text": "banlist.bannedplayer09.username"} }, 
+      { "paragraph_19@how_to_play_common.paragraph": {
+      "$text": "banlist.bannedplayer09.reason" } }
     ]
   },
 "events_button@how_to_play_common.section_toggle_button": {
