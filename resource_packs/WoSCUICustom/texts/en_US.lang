@@ -1,11 +1,11 @@
 //Announcements, use "-" character when line is vacant
-announcements.content.header=Ender Fight Announcement
-announcements.content.lineone=In September 18, players will now be allowed to open the end portals and end fight will start.
-announcements.content.linetwo=Be ready for the End Fight
-announcements.content.linethree=-
-announcements.content.linefour=-
-announcements.content.linefive=-
-announcements.publish.date=Published September 13, 2021
+announcements.content.header=Host Changes Announcement
+announcements.content.lineone=We're sad to announce that
+announcements.content.linetwo=In October 1, we will move to Europe hosted server because our host will discontinue the nearest node.
+announcements.content.linethree=-We'll keep the server not laggy as much as possible
+announcements.content.linefour=The server port will be announced at the day of the move.
+announcements.content.linefive=-Thanks for sticking with us even with these hardships.
+announcements.publish.date=Published September 29, 2021
 
 //Events, if contains cover image, change /textures/events/cover.png
 events.content.header=No Existing Events
@@ -111,7 +111,7 @@ rules.publish.date=August 1 2021
 
 banlist.content.header=Banned Members List
 banlist.content.description=These users are banned to World of SteelCraft, in any platform of games and communication due to the violation of rules or excessive disobedience
-banlist.last.updated=Last Updated June 4 2021
+banlist.last.updated=Last Updated September 23 2021
 banlist.fulllist.header=Full List
 banlist.bannedplayer01.username=ExaminedPurse23
 banlist.bannedplayer01.reason=Looting
@@ -121,12 +121,16 @@ banlist.bannedplayer03.username=Arowaii
 banlist.bannedplayer03.reason=Cheating by Duplication Glitch Abuse and Griefing
 banlist.bannedplayer04.username=Daisann
 banlist.bannedplayer04.reason=Arowaiii's Accessory to the Crime
-banlist.bannedplayer05.username=BananaGuy2324
-banlist.bannedplayer05.reason=Engaging Illegal Nation War Activities, Excessive Disobidience, and Griefing
-banlist.bannedplayer06.username=MarkTheNoob06/M4rkTheMinerYT
-banlist.bannedplayer06.reason=Engaging Illegal Nation War Activities, Excessive Disobidience, and Griefing
-banlist.bannedplayer07.username=Dream7320
-banlist.bannedplayer07.reason=Using Cheat Client on Server Premises
+banlist.bannedplayer05.username=GabrielOof2164
+banlist.bannedplayer05.reason=Creating 32K Weapons, Using Cheat Client on Server Premises
+banlist.bannedplayer06.username=Badboyhalo8350|IdyllicCircle46
+banlist.bannedplayer06.reason=GabrielOof's Accessory to the Crime
+banlist.bannedplayer07.username=BananaGuy2324
+banlist.bannedplayer07.reason=Engaging Illegal Nation War Activities, Excessive Disobidience, and Griefing
+banlist.bannedplayer08.username=MarkTheNoob06/M4rkTheMinerYT
+banlist.bannedplayer08.reason=Engaging Illegal Nation War Activities, Excessive Disobidience, and Griefing
+banlist.bannedplayer09.username=Dream7320
+banlist.bannedplayer09.reason=Using Cheat Client on Server Premises
 
 aboutwosc.content.header=About World of SteelCraft
 aboutwosc.content.introduction=World of SteelCraft started on July 27, 2020 and is owned by Scary Master 36 and managed by him and the admins.
