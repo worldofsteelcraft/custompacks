@@ -1,18 +1,18 @@
 {
     "format_version": 2,
     "header": {
-      "description": "Release 1.4-Splitting Information Area",
+      "description": "Release 1.4.1-Coin Redesign",
       "name": "World of SteelCraft General Custom Pack",
       "uuid":"296849a8-11cb-4991-ba42-2c71acc20139",
-      "version": [1, 4, 0],
+      "version": [1, 4, 1],
       "min_engine_version": [1, 16, 0]
     },
     "modules": [
       {
-        "description": "Release 1.4-Splitting Information Area",
+        "description": "Release 1.4.1-Coin Redesign",
         "type": "resources",
         "uuid": "46729324-ccdc-4703-9a52-83bdaa7710dc",
-        "version": [1, 4, 0]
+        "version": [1, 4, 1]
       }
     ]
 }
