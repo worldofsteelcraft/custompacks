@@ -24,16 +24,16 @@ events.content.mechanicsten=-
 events.content.paragraphthree=-
 
 //Patchnotes, only change when a feature was released
-patchnotes.currentchange.releasetopic=Minecraft 1.17.30 Server Update
-patchnotes.currentchange.description=This release covers the current Minecraft Bedrock Update which gives various bug fixes 
-patchnotes.currentchange.changeone=+ Check the Minecraft Changelog for more info
-patchnotes.currentchange.changetwo=+ 
+patchnotes.currentchange.releasetopic=GP1.1.2-Coins Redesign
+patchnotes.currentchange.description=This release covers about the Coin Redesign 
+patchnotes.currentchange.changeone=+Redesigning the Iron and Gold Coins.(We're still need your opinions about this)
+patchnotes.currentchange.changetwo=+Side update: Re-added the Server Logo
 patchnotes.currentchange.changethree=+ 
-patchnotes.currentchange.changefour=+ 
+patchnotes.currentchange.changefour=+
 patchnotes.currentchange.changefive=+ 
-patchnotes.currentchange.date=Last updated: September 22 2021
-patchnotes.previouschange.releasetopic=Previous Release: Release 2 of Information Area on How To Play Page
-patchnotes.previouschange.summary=Added About World of SteelCraft, Previous update summary
+patchnotes.currentchange.date=Last updated: September 30 2021
+patchnotes.previouschange.releasetopic=Previous Release: Minecraft 1.17.30 Server Update
+patchnotes.previouschange.summary=Added Check the Minecraft Changelog for more info
 
 //Links, seek attention when adding or removing content
 links.discord.server=[Contact an admin to give you a link]
