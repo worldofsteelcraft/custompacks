@@ -11,5 +11,5 @@ These are the guides for pushing announcements
 - To always update the branches, pull the *main* branch and merge it to *immediatedata* or *beta*
 - Follow the formats of the announcements
 - Auto deploy is scheduled every 11:45AM and 11:45PM UTC+08, so always request an update 30 minutes or earlier than deployment time.
-- Testing autodeployment
+- Testing autodeployment, will keep the timely deploy
 
