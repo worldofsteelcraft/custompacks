@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "This pack will resolve incompatibilities within packs by merging the player.json files",
+      "name": "WoSC Global player.json pack",
+      "uuid":"2cd88d3d-855a-46d5-8dbe-e195c846f0d4",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 16, 0]
+    },
+    "modules": [
+      {
+        "description": "This pack will resolve incompatibilities within packs by merging the player.json files",
+        "type": "data",
+        "uuid": "eacf966f-449a-4cb6-86d0-e0c283342608",
+        "version": [1, 0, 0]
+      }
+    ]
+}
