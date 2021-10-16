@@ -8,8 +8,11 @@
       "is_experimental": false,
       
       "animations": {
+        "light": "controller.animation.light",
+			  "dark": "controller.animation.dark",
+
         "ops_check": "controller.animation.fxnt.ops_check",
-	"ops_run": "animation.fxnt.ops_run",
+        "ops_run": "animation.fxnt.ops_run",
         "command_block": "controller.animation.add_command_block",
         "master": "controller.animation.master",
         "mount_fix": "controller.animation.mount_fix",
@@ -538,7 +541,8 @@
       "scripts": {
         "animate": [
           "ops_check",
-
+          "light",
+				  "dark",
           "command_block",
           "master",
           "mount_fix",
@@ -1305,13 +1309,9 @@
               ]
             },
             "event": "minecraft:trigger_raid"
-          },
-
-          // JOIN //
+          },    
 
           { "filters": { "all_of": [ { "test": "has_tag", "value": "joined", "subject": "self" } ] }, "event": "ljp:join" },
-
-          // LIGHT //
 
           { "filters": { "all_of": [ { "test": "light_level", "value": 16, "subject": "self" }, { "test": "has_tag", "value": "light_16","subject": "self" } ] }, "event": "ljp:light_16" },
           { "filters": { "all_of": [ { "test": "light_level", "value": 16, "subject": "self", "operator": "not" }, { "test": "has_tag", "value": "light_16", "subject": "self", "operator": "not" } ] }, "event": "ljp:not_light_16" },
@@ -1348,24 +1348,20 @@
           { "filters": { "all_of": [ { "test": "light_level", "value": 0, "subject": "self" }, { "test": "has_tag", "value": "light_0","subject": "self" } ] }, "event": "ljp:light_0" }, 
           { "filters": { "all_of": [ { "test": "light_level", "value": 0, "subject": "self", "operator": "not" }, { "test": "has_tag", "value": "light_0", "subject": "self", "operator": "not" } ] }, "event": "ljp:not_light_0" },
 
-          // DIFFICULTY //
 
           { "filters": { "all_of": [ { "test": "is_difficulty", "value": "peaceful", "subject": "self" }, { "test": "has_tag", "value": "peaceful","subject": "self" } ] }, "event": "ljp:peaceful" },
           { "filters": { "all_of": [ { "test": "is_difficulty", "value": "easy", "subject": "self" }, { "test": "has_tag", "value": "easy","subject": "self" } ] }, "event": "ljp:easy" },
           { "filters": { "all_of": [ { "test": "is_difficulty", "value": "normal", "subject": "self" }, { "test": "has_tag", "value": "normal","subject": "self" } ] }, "event": "ljp:normal" },
           { "filters": { "all_of": [ { "test": "is_difficulty", "value": "hard", "subject": "self" }, { "test": "has_tag", "value": "hard","subject": "self" } ] }, "event": "ljp:hard" },
 
-          // IN VILLAGE //
 
           { "filters": { "all_of": [ { "test": "is_in_village", "value": true, "subject": "self" }, { "test": "has_tag", "value": "is_in_village","subject": "self" } ] }, "event": "ljp:is_in_village" },
           { "filters": { "all_of": [ { "test": "is_in_village", "value": false, "subject": "self" }, { "test": "has_tag", "value": "is_in_village", "subject": "self", "operator": "not" } ] }, "event": "ljp:not_is_in_village" },
 
-          // IS UNDERGROUND //
 
           { "filters": { "all_of": [ { "test": "is_underground", "value": true, "subject": "self" }, { "test": "has_tag", "value": "is_underground","subject": "self" } ] }, "event": "ljp:is_underground" },
           { "filters": { "all_of": [ { "test": "is_underground", "value": false, "subject": "self" }, { "test": "has_tag", "value": "is_underground", "subject": "self", "operator": "not" } ] }, "event": "ljp:not_is_underground" },
 
-          // WEATHER //
 
           {"filters":{"all_of":[{"test":"has_biome_tag","value":"overworld","subject":"self"}, { "test": "has_tag", "value": "is_raining","subject": "self" }],"any_of":[{"test":"weather","value":"precipitation","subject":"self"},{"test":"weather","value":"thunderstorm","subject":"self"}]},"event":"ljp:weather_tag_rain"},
           {"filters":{"all_of":[{"test":"has_biome_tag","value":"mutated","subject":"self"}, { "test": "has_tag", "value": "is_raining","subject": "self" }],"any_of":[{"test":"weather","value":"precipitation","subject":"self"},{"test":"weather","value":"thunderstorm","subject":"self"}]},"event":"ljp:weather_tag_rain"},
