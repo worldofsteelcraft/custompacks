@@ -33,7 +33,7 @@ patchnotes.currentchange.changefour=+ Added Dynamic Lights Addon
 patchnotes.currentchange.changefive=+ 
 patchnotes.currentchange.date=Last updated: October 17, 2021
 patchnotes.previouschange.releasetopic=Previous Release: GP1.4.5-Coin Design Revamp
-patchnotes.previouschange.summary=Added Check the Minecraft Changelog for more info
+patchnotes.previouschange.summary=Redesigned the coins, brought back the logo
 
 //Links, seek attention when adding or removing content
 links.discord.server=[Contact an admin to give you a link]
