@@ -31,9 +31,8 @@
 		"pack_id" : "db7ef618-19bf-44c1-bfe2-fa96dd62eb70",
 		"version" : [ 1, 0, 0 ]
 	},
-	
 	{
 		"pack_id" : "e4f7d139-a2ed-41ff-84c1-cf32abf82ff6",
-		"version" : [ 1, 1, 3 ]
+    	"version" : [ 1, 1, 3 ]
 	}
 ]
