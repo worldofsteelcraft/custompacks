@@ -2,7 +2,14 @@
 ---
 # World of SteelCraft Custom Packs
 This is the repository of custom packs **World of SteelCraft** uses.
-
+---
+## Dependencies
+We are dependent on these addon for the server. 
+- FoxyNoTail's One Player Sleep
+- Lockable Chest Addon
+- Java Debug Menu
+- Bonsai Addon
+We are not stealing them, we're making it work to the server. This is the reason why the dependencies are only available within the main server
 ---
 ## Guides for pushing announcements, events, and patchnotes
 These are the guides for pushing announcements
