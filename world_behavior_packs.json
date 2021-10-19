@@ -15,12 +15,6 @@
 		"pack_id" : "e5b61a0f-ffce-4fe0-adcf-4caa725cc34b",
 		"version" : [ 2, 0, 1 ]
 	},
-	
-	{
-		"pack_id" : "5f4eb2ac-2e1f-4641-b559-bf183b7f3be0",
-		"version" : [ 0, 0, 5 ]
-	},
-	
 	{
 		"pack_id" : "8ed23a56-de29-458b-8af7-8627defef040",
 		"subpack" : "bright",
