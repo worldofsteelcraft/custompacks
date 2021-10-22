@@ -1,4 +1,4 @@
-![logo](https://files.worldofsteelcraft.tk/web/logo.png)
+![logo](https://files.worldofsteelcraft.tk/assets/web/logo.png)
 ---
 # World of SteelCraft Custom Packs
 This is the repository of custom packs **World of SteelCraft** uses.
