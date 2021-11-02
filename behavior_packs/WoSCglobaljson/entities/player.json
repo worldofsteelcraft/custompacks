@@ -9,7 +9,6 @@
       
       "animations": {
         "light": "controller.animation.light",
-			  "dark": "controller.animation.dark",
 
         "ops_check": "controller.animation.fxnt.ops_check",
         "ops_run": "animation.fxnt.ops_run",
@@ -542,7 +541,7 @@
         "animate": [
           "ops_check",
           "light",
-				  "dark",
+
           "command_block",
           "master",
           "mount_fix",
@@ -1132,6 +1131,18 @@
         "minecraft:spell_effects": {
           "remove_effects": "bad_omen"
         },
+        "light:torch_bullet": {
+          "minecraft:spawn_entity": [
+            {
+              "num_to_spawn": 1,
+              "single_use": true,
+              "min_wait_time": 0,
+              "max_wait_time": 0,
+              "spawn_entity": "light:torch_bullet"
+              
+            }
+          ]
+        },
         "rings:attack_ring": {
           "minecraft:attack": {
             "damage": 8
@@ -1468,7 +1479,12 @@
             "minecraft:life_ring" 
           ]
         }
-      }
+      },
+      "light:torch_bullet": {
+				"add": {
+					"component_groups": [ "light:torch_bullet" ]
+				}
+			}
     }
   }
 }
