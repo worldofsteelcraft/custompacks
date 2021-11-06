@@ -1,12 +1,11 @@
 //Announcements, use "-" character when line is vacant
-announcements.content.header=Host Changes Announcement
-announcements.content.lineone=We're sad to announce that
-announcements.content.linetwo=In October 1, we will move to Europe hosted server because our host will discontinue the nearest node.
-announcements.content.linethree=-We'll keep the server not laggy as much as possible
-announcements.content.linefour=The server port will be announced at the day of the move.
-announcements.content.linefive=-Thanks for sticking with us even with these hardships.
-announcements.publish.date=Published September 29, 2021
-
+announcements.content.header=Season 7 End
+announcements.content.lineone=Season 7 is scheduled to end at November 7, 2021, 3PM
+announcements.content.linetwo= We recommend backing up all of your inventory and ender chest contents into a chest so you can still access those items
+announcements.content.linethree=World Download will be available as soon as possible
+announcements.content.linefour=-
+announcements.content.linefive=See you on next season!
+announcements.publish.date=Published November 7, 2021
 //Events, if contains cover image, change /textures/events/cover.png
 events.content.header=No Existing Events
 events.content.paragraphone=-
