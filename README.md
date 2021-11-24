@@ -9,8 +9,6 @@ We are not stealing them, we're making it work to the server. This is the reason
 - [FoxyNoTail's One Player Sleep](https://foxynotail.com/addons/ops/)
 - [Lockable Chest Addon](https://mcpedl.com/lockable-chests-addon-1/)
 - [Bonsai Addon](https://mcpedl.com/easy-bonsai-add-on/)
-
-We are not stealing them, we're making it work to the server. This is the reason why the dependencies are only available within the main server
 ---
 ## Guides for pushing announcements, events, and patchnotes
 -Follow this naming
