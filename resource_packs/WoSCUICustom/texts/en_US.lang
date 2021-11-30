@@ -31,9 +31,9 @@ patchnotes.currentchange.changetwo=+
 patchnotes.currentchange.changethree=+
 patchnotes.currentchange.changefour=+
 patchnotes.currentchange.changefive=+
-patchnotes.currentchange.commitlist=dea9a1b, 6ccc134, 22e62da, da4b3cb
+patchnotes.currentchange.commitlist=dea9a1b, 6ccc134, 22e62da, da4b3cb, 369d745, c7b8073
 patchnotes.currentchange.date=Last updated: December 1, 2021
-patchnotes.previouschange.releasetopic=Previous update: Season 8
+patchnotes.previouschange.releasetopic=Previous release: Season 8
 patchnotes.previouschange.summary=Dropping and keeping some packs
 //Links, seek attention when adding or removing content
 links.discord.server=[Contact an admin to give you a link]
