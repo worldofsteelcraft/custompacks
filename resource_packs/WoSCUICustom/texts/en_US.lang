@@ -161,4 +161,4 @@ howtoplay.events.button=Events
 howtoplay.aboutwosc=About World of SteelCraft
 howtoplay.aboutwosc.title=About World of SteelCraft
 howtoplay.aboutwosc.button=About WoSC
-patchnotes.currentchange.optionalcommitlisttitle=Associated Commits:
+patchnotes.currentchange.commitlisttitle=Associated Commits:
