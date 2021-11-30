@@ -1,11 +1,11 @@
 //Announcements, use "-" character when line is vacant
-announcements.content.header=We now support 1.18
+announcements.content.header=We now support Minecraft 1.18!
 announcements.content.lineone=The update were released, so the support were released also
 announcements.content.linetwo=Enjoy playing and exploring!
 announcements.content.linethree=-
 announcements.content.linefour=-
 announcements.content.linefive=-
-announcements.publish.date=Published November 31, 2021
+announcements.publish.date=Published December 1, 2021
 
 //Events, if contains cover image, change /textures/events/cover.png
 events.content.header=No Existing Events
@@ -31,10 +31,9 @@ patchnotes.currentchange.changetwo=+
 patchnotes.currentchange.changethree=+
 patchnotes.currentchange.changefour=+
 patchnotes.currentchange.changefive=+
-patchnotes.currentchange.date=Last updated: November 30, 2021
+patchnotes.currentchange.date=Last updated: December 1, 2021
 patchnotes.previouschange.releasetopic=Previous update: Season 8
 patchnotes.previouschange.summary=Dropping and keeping some packs
-
 //Links, seek attention when adding or removing content
 links.discord.server=[Contact an admin to give you a link]
 links.server.info=https://worldofsteelcraft.tk/server/smp
