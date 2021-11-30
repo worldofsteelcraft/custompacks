@@ -312,7 +312,7 @@
         { "paragraph_6@how_to_play_common.paragraph": {
           "$text": "patchnotes.currentchange.optionalcommitlisttitle" } },
         { "paragraph_7@how_to_play_common.paragraph": {
-          "$text": "patchnotes.currentchange.optionalcommitlist" } },
+          "$text": "patchnotes.currentchange.commitlist" } },
         { "padding_4@how_to_play_common.padding": { } },
         { "paragraph_8@how_to_play_common.paragraph": {
           "$text": "patchnotes.currentchange.date" } } ,
