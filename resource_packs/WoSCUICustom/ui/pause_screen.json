@@ -1,0 +1,43 @@
+{
+  "pause_screen_menu": {
+    "type": "stack_panel",
+    "size": [ "fill", "100%" ],
+    "anchor_from": "top_middle",
+    "anchor_to": "top_middle",
+    "controls": [
+      {
+        "filler@pause.filler_panel": {
+          "size": [ "100%", 10 ]
+        }
+      },
+      {
+        "trialTime": {
+          "type": "custom",
+          "ignored": "(not $trial)",
+          "renderer": "trial_time_renderer",
+          "size": [ "default", 10 ],
+          "offset": [ -2, -4 ],
+          "layer": 3,
+          "anchor_from": "top_right",
+          "anchor_to": "top_right",
+          "bindings": [
+            {
+              "binding_name": "#is_trial_version",
+              "binding_name_override": "#visible",
+              "binding_type": "global"
+            }
+          ]
+        }
+      },
+      {
+        "pause_logo_panel@common_art.pause_logo_panel": {
+          "anchor_from": "top_middle",
+          "anchor_to": "top_middle",
+          "tts_ignore_count": true
+        }
+      },
+      { "the_rest_panel@pause.the_rest_panel": {} },
+      { "the_icon_panel@pause.the_icon_panel": {} }
+    ]
+  }
+}
