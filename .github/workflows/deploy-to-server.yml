@@ -20,4 +20,4 @@ jobs:
           remote-port: ${{ secrets.FTP_PORT }}
           remote-user: ${{ secrets.FTP_USERNAME }}
           remote-password: ${{ secrets.FTP_PASSWORD }}
-          remote-path: "/worlds/WoSCDeployTest/"
+          remote-path: ${{ secrets.FTP_REMOTEPATH }}
