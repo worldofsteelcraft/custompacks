@@ -17,6 +17,7 @@ jobs:
         with:
           remote-protocol: "sftp"
           remote-host: ${{ secrets.FTP_HOST }}
+          remote-port: ${{ secrets.FTP_PORT }}
           remote-user: ${{ secrets.FTP_USERNAME }}
           remote-password: ${{ secrets.FTP_PASSWORD }}
           remote-path: "/worlds/WoSCDeployTest/"
