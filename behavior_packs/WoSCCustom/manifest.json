@@ -4,7 +4,7 @@
       "description": "Coins and Rings!",
       "name": "WoSC Custom Items Project",
       "uuid":"e4f7d139-a2ed-41ff-84c1-cf32abf82ff6",
-      "version": [1, 1, 4],
+      "version": [2021, 1216, 0],
       "min_engine_version": [1, 16, 0]
     },
     "modules": [
@@ -12,13 +12,13 @@
         "description": "Coins and Rings!",
         "type": "data",
         "uuid": "e4687419-d676-4440-b495-377ad9a1dc81",
-        "version": [1, 1, 4]
+        "version": [2021, 1216, 0]
       }
     ],
     "dependencies": [
       {
         "uuid": "296849a8-11cb-4991-ba42-2c71acc20139",
-        "version": [1, 4, 2]
+        "version": [2021, 1216, 0]
       }
     ]
 }
