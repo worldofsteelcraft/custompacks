@@ -5,7 +5,7 @@ name: Deploy To SMP Server
       - main
 jobs:
   ci:
-    name: "main branch"
+    name: "Deploy to SMP Server"
     runs-on: ubuntu-latest
     steps:
       - name: "Checkout"
