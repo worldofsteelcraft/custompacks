@@ -7,7 +7,7 @@ announcements.content.linefour=-
 announcements.content.linefive=-
 announcements.publish.date=Published December 1, 2021
 
-//Events, if contains cover image, change /textures/events/cover.png
+//Events, if contains cover image, change /textures/events/cover
 events.content.header=No Existing Events
 events.content.paragraphone=-
 events.content.paragraphtwo=-
