@@ -33,7 +33,7 @@ patchnotes.currentchange.changefour=+
 patchnotes.currentchange.changefive=+
 patchnotes.currentchange.date=Last updated: December 22, 2021
 patchnotes.previouschange.releasetopic=Previous release: 2021.1201.0 | Minecraft 1.18 Support
-patchnotes.previouschange.summary=Dropping and keeping some packs
+patchnotes.previouschange.summary=Support for MCBE 1.18
 //Links, seek attention when adding or removing content
 links.discord.server=[Contact an admin to give you a link]
 links.server.info=https://worldofsteelcraft.tk/server/smp
