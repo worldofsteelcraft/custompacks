@@ -7,7 +7,7 @@ announcements.content.linefour=Thanks for those who keep staying!
 announcements.content.linefive=-From Admin dp
 announcements.publish.date=Published December 22, 2021
 
-//Events, if contains cover image, change /textures/events/cover
+//Events, if contains cover image, change /textures/events/cover.png
 events.content.header=No Existing Events
 events.content.paragraphone=-
 events.content.paragraphtwo=-
@@ -29,8 +29,8 @@ patchnotes.currentchange.description=This update covers the new season logo for 
 patchnotes.currentchange.changeone=Added Seasonal Logo (a6e20891)
 patchnotes.currentchange.changetwo=+ Removal of Associated Commitlist (f86d9032)
 patchnotes.currentchange.changethree=+ Announcements (5da5c5cc)
-patchnotes.currentchange.changefour=+
-patchnotes.currentchange.changefive=+
+patchnotes.currentchange.changefour=+ Hotfix layout (7763c41b, c7bfc5e5)
+patchnotes.currentchange.changefive=+ 
 patchnotes.currentchangehotfix.hotfixtopic=Hotfix: 
 patchnotes.currentchangehotfix.changeone=+                       +
 patchnotes.currentchangehotfix.changetwo=+ There's no hotfix yet +
