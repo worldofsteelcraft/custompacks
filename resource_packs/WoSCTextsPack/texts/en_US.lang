@@ -1,11 +1,11 @@
 //Announcements, use "-" character when line is vacant
-announcements.content.header=We now support Minecraft 1.18!
-announcements.content.lineone=The update were released, so the support were released also
-announcements.content.linetwo=Enjoy playing and exploring!
-announcements.content.linethree=-
-announcements.content.linefour=-
-announcements.content.linefive=-
-announcements.publish.date=Published December 1, 2021
+announcements.content.header=Happy Holidays Everyone!
+announcements.content.lineone=Hope you enjoying your vacation with your family and friends
+announcements.content.linetwo=What my(dp) wish is to keep safe and let's make this server active again as before
+announcements.content.linethree=We are now on the host that have little to no downtime so there's little to no interruptions on your gameplay here on server
+announcements.content.linefour=Thanks for those who keep staying!
+announcements.content.linefive=-From Admin dp
+announcements.publish.date=Published December 22, 2021
 
 //Events, if contains cover image, change /textures/events/cover
 events.content.header=No Existing Events
