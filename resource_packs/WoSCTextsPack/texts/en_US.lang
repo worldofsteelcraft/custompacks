@@ -24,15 +24,15 @@ events.content.mechanicsten=-
 events.content.paragraphthree=-
 
 //Patchnotes, only change when a feature was released
-patchnotes.currentchange.releasetopic=Minecraft Bedrock 1.18 Support
-patchnotes.currentchange.description=This update covers complete support for Minecraft 1.18 update
-patchnotes.currentchange.changeone=Please check the changelogs from the Minecraft
-patchnotes.currentchange.changetwo=+ Added Seasonal Logo (a6e20891)
-patchnotes.currentchange.changethree=+
+patchnotes.currentchange.releasetopic=2021.1222.0 | Season Logo Update
+patchnotes.currentchange.description=This update covers the new season logo for this month.
+patchnotes.currentchange.changeone=Added Seasonal Logo (a6e20891)
+patchnotes.currentchange.changetwo=+ Removal of Associated Commitlist (f86d9032)
+patchnotes.currentchange.changethree=+ 
 patchnotes.currentchange.changefour=+
 patchnotes.currentchange.changefive=+
-patchnotes.currentchange.date=Last updated: December 1, 2021
-patchnotes.previouschange.releasetopic=Previous release: Season 8
+patchnotes.currentchange.date=Last updated: December 22, 2021
+patchnotes.previouschange.releasetopic=Previous release: 2021.1201.0 | Minecraft 1.18 Support
 patchnotes.previouschange.summary=Dropping and keeping some packs
 //Links, seek attention when adding or removing content
 links.discord.server=[Contact an admin to give you a link]
