@@ -309,17 +309,13 @@
           "$text": "patchnotes.currentchange.changefour" } },
         { "paragraph_5@how_to_play_common.paragraph": {
           "$text": "patchnotes.currentchange.changefive" } },
-        { "paragraph_6@how_to_play_common.paragraph": {
-          "$text": "patchnotes.currentchange.commitlisttitle" } },
-        { "paragraph_7@how_to_play_common.paragraph": {
-          "$text": "patchnotes.currentchange.commitlist" } },
         { "padding_4@how_to_play_common.padding": { } },
-        { "paragraph_8@how_to_play_common.paragraph": {
+        { "paragraph_6@how_to_play_common.paragraph": {
           "$text": "patchnotes.currentchange.date" } } ,
         { "padding_5@how_to_play_common.padding": { } },  
         { "header_1@how_to_play_common.header": {
         "$text": "patchnotes.previouschange.releasetopic" } },
-        { "paragraph_9@how_to_play_common.paragraph": {
+        { "paragraph_7@how_to_play_common.paragraph": {
           "$text": "patchnotes.previouschange.summary" } }
         
   ]
