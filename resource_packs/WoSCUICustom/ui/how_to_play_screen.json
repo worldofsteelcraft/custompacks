@@ -318,12 +318,10 @@
         { "paragraph_9@how_to_play_common.paragraph": {
           "$text": "patchnotes.currentchangehotfix.changethree" } },
 		{ "padding_4@how_to_play_common.padding": { } },
-        { "paragraph_10@how_to_play_common.paragraph": {
-          "$text": "patchnotes.currentchange.date" } } ,
         { "padding_5@how_to_play_common.padding": { } },  
         { "header_1@how_to_play_common.header": {
         "$text": "patchnotes.previouschange.releasetopic" } },
-        { "paragraph_11@how_to_play_common.paragraph": {
+        { "paragraph_10@how_to_play_common.paragraph": {
           "$text": "patchnotes.previouschange.summary" } }
         
   ]
