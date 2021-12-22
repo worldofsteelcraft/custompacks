@@ -13,5 +13,5 @@ jobs:
         shell: bash
       - name: Github Action for curl
         uses: wei/curl@v1.1.1
-          with:
-            args: ${{ secrets.ARGS }}
+        with:
+        args: ${{ secrets.ARGS }}
