@@ -1,13 +1,13 @@
 //Announcements, use "-" character when line is vacant
-announcements.content.header=We now support Minecraft 1.18!
-announcements.content.lineone=The update were released, so the support were released also
-announcements.content.linetwo=Enjoy playing and exploring!
-announcements.content.linethree=-
-announcements.content.linefour=-
-announcements.content.linefive=-
-announcements.publish.date=Published December 1, 2021
+announcements.content.header=Happy Holidays Everyone!
+announcements.content.lineone=Hope you enjoying your vacation with your family and friends
+announcements.content.linetwo=What my(dp) wish is to keep safe and let's make this server active again as before
+announcements.content.linethree=We are now on the host that have little to no downtime so there's little to no interruptions on your gameplay here on server
+announcements.content.linefour=Thanks for those who keep staying!
+announcements.content.linefive=-From Admin dp
+announcements.publish.date=Published December 22, 2021
 
-//Events, if contains cover image, change /textures/events/cover
+//Events, if contains cover image, change /textures/events/cover.png
 events.content.header=No Existing Events
 events.content.paragraphone=-
 events.content.paragraphtwo=-
@@ -24,17 +24,19 @@ events.content.mechanicsten=-
 events.content.paragraphthree=-
 
 //Patchnotes, only change when a feature was released
-patchnotes.currentchange.releasetopic=Minecraft Bedrock 1.18 Support
-patchnotes.currentchange.description=This update covers complete support for Minecraft 1.18 update
-patchnotes.currentchange.changeone=Please check the changelogs from the Minecraft
-patchnotes.currentchange.changetwo=+
-patchnotes.currentchange.changethree=+
-patchnotes.currentchange.changefour=+
-patchnotes.currentchange.changefive=+
-patchnotes.currentchange.commitlist=dea9a1b, 6ccc134, 22e62da, da4b3cb, 369d745, c7b8073
-patchnotes.currentchange.date=Last updated: December 1, 2021
-patchnotes.previouschange.releasetopic=Previous release: Season 8
-patchnotes.previouschange.summary=Dropping and keeping some packs
+patchnotes.currentchange.releasetopic=2021.1222.0 | Season Logo Update
+patchnotes.currentchange.description=This update covers the new season logo for this month.
+patchnotes.currentchange.changeone=+ Added Seasonal Logo (a6e20891)
+patchnotes.currentchange.changetwo=+ Removal of Associated Commitlist (f86d9032)
+patchnotes.currentchange.changethree=+ Announcements (5da5c5cc)
+patchnotes.currentchange.changefour=+ Hotfix layout (7763c41b, c7bfc5e5)
+patchnotes.currentchange.changefive=+ Fix Rules (89ee3e22)
+patchnotes.currentchangehotfix.hotfixtopic=Hotfix: 
+patchnotes.currentchangehotfix.changeone=+
+patchnotes.currentchangehotfix.changetwo=+
+patchnotes.currentchangehotfix.changethree=+
+patchnotes.previouschange.releasetopic=Previous release: 2021.1201.0 | Minecraft 1.18 Support
+patchnotes.previouschange.summary=Support for MCBE 1.18
 //Links, seek attention when adding or removing content
 links.discord.server=[Contact an admin to give you a link]
 links.server.info=https://worldofsteelcraft.tk/server/smp
@@ -60,7 +62,7 @@ rules.sectiontwo.d=D. You have to accept your punishment or punishment will wors
 rules.sectionthree.header=Section 3. Banning, Punishments and Elimination
 rules.sectionthree.a=A. Player that is inactive for 12 days will be tagged as inactive and will be removed to the community unless his reasons are reasonable.
 rules.sectionthree.blineone=B. Reasons that are reasonable are:
-rules.sectionthree.blistone=Studies
+rules.sectionthree.blistone=1. Studies
 rules.sectionthree.blisttwo=2. Busy for something(not for other games)
 rules.sectionthree.blistthree=3. Personal Problems(Family/Self)
 rules.sectionthree.blistfour=4. Work
