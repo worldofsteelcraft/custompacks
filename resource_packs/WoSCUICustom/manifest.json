@@ -1,10 +1,10 @@
 {
     "format_version": 2,
     "header": {
-      "description": "Release 1.0-UI Pack That Is Responsible for Information Area and Server Logo",
+      "description": "UI Pack That Is Responsible for Information Area and Server Logo",
       "name": "World of SteelCraft UI Resource Pack",
       "uuid":"273f0693-4321-4f8d-923c-b1808a3ab194",
-      "version": [2021, 1222, 0],
+      "version": [2022, 0117, 0],
       "min_engine_version": [1, 16, 0]
     },
     "modules": [

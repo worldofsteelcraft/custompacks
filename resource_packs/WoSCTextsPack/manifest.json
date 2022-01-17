@@ -4,7 +4,7 @@
       "description": "UI Subpack That is responsible for texts within the UI packs",
       "name": "World of SteelCraft UI Texts Subpack",
       "uuid":"1b7d9e66-9021-4551-a868-55f0e005f16d",
-      "version": [2021, 1222, 0],
+      "version": [2022, 0117, 0],
       "min_engine_version": [1, 16, 0]
     },
     "modules": [
