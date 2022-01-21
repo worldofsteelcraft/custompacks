@@ -6,6 +6,7 @@
 
 This is the repository of custom packs **World of SteelCraft** uses.  
 ![latest tag version](https://img.shields.io/github/v/tag/worldofsteelcraft/wosccustompacks?style=plastic)
+![licensed under MIT License](https://img.shields.io/badge/license-MIT-green?style=plastic)
 ![actively maintaned](https://img.shields.io/maintenance/yes/2022?style=plastic)
 ![official website](https://img.shields.io/badge/Website-worldofsteelcraft.tk-green?style=plastic)
 ---
