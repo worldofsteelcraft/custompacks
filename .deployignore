@@ -1,3 +1,4 @@
 .gitignore
 .deployignore
-README.md
+*.md
+LICENSE
