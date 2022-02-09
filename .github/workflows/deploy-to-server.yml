@@ -4,7 +4,7 @@ name: Deploy To SMP Server
     branches:
       - main
 jobs:
-  ci:
+  sftp:
     name: "Deploy to SMP Server"
     runs-on: ubuntu-latest
     steps:
@@ -22,3 +22,17 @@ jobs:
           remote-password: ${{ secrets.SFTP_PASSWORD }}
           remote-path: ${{ secrets.SFTP_REMOTELOC }}
           sync: delta
+  api:
+    name: "Restart Server"
+    needs: sftp
+    runs-on: ubuntu-latest
+    steps:
+      - name: Restart Notice
+        run: ${{ secrets.API_RESTARTNOTICE }}
+        shell: bash
+      - name: Wait for 1 minute
+        run: sleep 60s
+        shell: bash
+      - name: Restart Server
+        run: ${{ secrets.API_RESTARTCMD }}
+        shell: bash
