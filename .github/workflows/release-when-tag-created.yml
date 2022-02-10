@@ -1,0 +1,52 @@
+name: Create Release Packs
+'on':
+  push:
+    tags:
+      - '*.*.*'
+jobs:
+  release:
+    name: "Create Release"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Checkout"
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Packing Resource Packs (Phase 1) 
+        uses: vimtor/action-zip@v1
+        with:
+          files: resource_packs/WoSCUICustom
+          recursive: false
+          dest: WoSCUICustomPack.mcpack
+      - name: Packing Resource Packs (Phase 2) 
+        uses: vimtor/action-zip@v1
+        with:
+          files: resource_packs/WoSCTextsPack
+          recursive: false
+          dest: WoSCUITextsPack.mcpack
+      - name: Packing Resource Packs (Phase 3) 
+        uses: vimtor/action-zip@v1
+        with:
+          files: resource_packs/WoSCGeneralCustom
+          recursive: false
+          dest: WoSCGeneralCustomPack.mcpack
+      - name: Packing Behavior Packs (Phase 1) 
+        uses: vimtor/action-zip@v1
+        with:
+          files: behavior_packs/WoSCCustom
+          recursive: false
+          dest: WoSCCustomBehaviorPack.mcaddon
+      - name: Display Files
+        run: tree
+        shell: bash
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: |
+            README.md
+            LICENSE
+            WoSCUICustomPack.mcpack
+            WoSCUITextsPack.mcpack
+            WoSCGeneralCustomPack.mcpack
+            WoSCCustomBehaviorPack.mcaddon
