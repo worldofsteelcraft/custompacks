@@ -1,11 +1,10 @@
 //Announcements, use "-" character when line is vacant
-announcements.content.header=Season 9 (Earth) Start
-announcements.content.lineone=Season 9 is now starting, we're using Earth Map in 1:4500
-announcements.content.linetwo=We also added addons that might catch your interest
-announcements.content.linethree=Hope you like and enjoy this season!
-announcements.content.linefour=About sudden Season 8 end, you can ask admins to open a temporary server to keep your items until January 21.
-announcements.content.linefive=-dp
-announcements.publish.date=Published January 17, 2022
+announcements.content.header=SMP Restructure and Season 10
+announcements.content.lineone=We have restructured the SMP Server, and changed how is the interaction with community and members
+announcements.content.linetwo=We also removed some mods in order to be aligned with the concept of Pure SMP Server. It doesn't mean that all mods were removed.
+announcements.content.linefour=Season also changed to S10 because of the issues of S9-Earth.
+announcements.content.linefive=We're requesting for your feedback on this changes. Please message us for suggestions and feedback (;
+announcements.publish.date=Published February 25, 2022
 
 //Events, if contains cover image, change /textures/events/cover.png
 events.content.header=No Existing Events
@@ -24,25 +23,25 @@ events.content.mechanicsten=-
 events.content.paragraphthree=-
 
 //Patchnotes, only change when a feature was released
-patchnotes.currentchange.releasetopic=2022.209.0 | MCBE 1.18.10 Support
-patchnotes.currentchange.description=This update supports 1.18.0, but drops support prior to this version. 
-patchnotes.currentchange.changeone=+ Check Minecraft Changelogs for Details
-patchnotes.currentchange.changetwo=+ 
-patchnotes.currentchange.changethree=+ 
-patchnotes.currentchange.changefour=+ 
-patchnotes.currentchange.changefive=+
+patchnotes.currentchange.releasetopic=2022.225.0 | Season 10, and SMP Restructure
+patchnotes.currentchange.description=This update contains the Season 10 shift and the current restructure of the system.
+patchnotes.currentchange.changeone=-Remove Rules Section 3G [Duplicate](ce815aab)
+patchnotes.currentchange.changetwo=-Remove One Player Sleep, Bonsai, Custom Behavior Pack
+patchnotes.currentchange.changethree==Keep Lockable Chests, Enderite Addon
+patchnotes.currentchange.changefour=+Add Origins
+patchnotes.currentchange.changefive= We can't add all the changes here, so please check for the whole announcement.
 patchnotes.currentchangehotfix.hotfixtopic=No Hotfix Yet
 patchnotes.currentchangehotfix.changeone=+
 patchnotes.currentchangehotfix.changetwo=+
 patchnotes.currentchangehotfix.changethree=+
-patchnotes.previouschange.releasetopic=Previous release: 2022.0117.0 | Season 9 Release
-patchnotes.previouschange.summary=This update covers the new season this month
+patchnotes.previouschange.releasetopic=Previous release: 2022.209.0 | MCBE 1.18.10 Support
+patchnotes.previouschange.summary=This update covers the support of 1.18.10 above
 //Links, seek attention when adding or removing content
 links.discord.server=[Contact an admin to give you a link]
 links.server.info=https://worldofsteelcraft.tk/server/smp
 links.server.website=https://worldofsteelcraft.tk
 
-//Rules Section, seek attention when changing it's content
+//Rules Section, updating it must be synchronous on UI Pack
 howtoplay.serverrules=WoSC Rules
 howtoplay.serverrules.title=WoSC Community and Server Rules
 rules.introduction.header=World of SteelCraft Community and Server Rules
