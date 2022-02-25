@@ -30,8 +30,8 @@ patchnotes.currentchange.changetwo=-Remove One Player Sleep, Bonsai, Custom Beha
 patchnotes.currentchange.changethree==Keep Lockable Chests, Enderite Addon
 patchnotes.currentchange.changefour=+Add Origins
 patchnotes.currentchange.changefive= We can't add all the changes here, so please check for the whole announcement.
-patchnotes.currentchangehotfix.hotfixtopic=No Hotfix Yet
-patchnotes.currentchangehotfix.changeone=+
+patchnotes.currentchangehotfix.hotfixtopic=Hotfix 2022.225.1
+patchnotes.currentchangehotfix.changeone=+Fix issues within Information Board Buttons
 patchnotes.currentchangehotfix.changetwo=+
 patchnotes.currentchangehotfix.changethree=+
 patchnotes.previouschange.releasetopic=Previous release: 2022.209.0 | MCBE 1.18.10 Support
