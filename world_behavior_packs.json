@@ -1,1 +1,14 @@
-[]
+
+[
+	
+	{
+		"pack_id" : "0d2a925b-314b-4211-a6fd-4f5f2d3b30fc",
+		"version" : [ 1, 4, 2 ]
+	},
+	
+	{
+		"pack_id" : "1f9121af-d33b-431f-8c42-710b12874733",
+		"subpack" : "veg_max",
+		"version" : [ 1, 7, 0 ]
+	}
+]
