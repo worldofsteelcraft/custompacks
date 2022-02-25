@@ -24,18 +24,6 @@ jobs:
           files: resource_packs/WoSCTextsPack
           recursive: false
           dest: WoSCUITextsPack.mcpack
-      - name: Packing Resource Packs (Phase 3) 
-        uses: vimtor/action-zip@v1
-        with:
-          files: resource_packs/WoSCGeneralCustom
-          recursive: false
-          dest: WoSCGeneralCustomPack.mcpack
-      - name: Packing Behavior Packs (Phase 1) 
-        uses: vimtor/action-zip@v1
-        with:
-          files: behavior_packs/WoSCCustom
-          recursive: false
-          dest: WoSCCustomBehaviorPack.mcaddon
       - name: Display Files
         run: tree
         shell: bash
@@ -48,5 +36,3 @@ jobs:
             LICENSE
             WoSCUICustomPack.mcpack
             WoSCUITextsPack.mcpack
-            WoSCGeneralCustomPack.mcpack
-            WoSCCustomBehaviorPack.mcaddon
