@@ -1,8 +1,0 @@
-item.coins:iron_coin.name=Iron Coin
-item.coins:gold_coin.name=Gold Coin
-item.coins:nether_coin.name=Nether Coin
-item.coins:ender_coin.name=Ender Coin
-
-item.rings:speed_ring.name=Speed Ring
-item.rings:life_ring.name=Life Ring
-item.rings:attack_ring.name=Attack Ring
