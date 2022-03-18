@@ -601,10 +601,10 @@
       "$text": "banlist.bannedplayer09.username"} }, 
       { "paragraph_19@how_to_play_common.paragraph": {
       "$text": "banlist.bannedplayer09.reason" } }
-            { "padding_10@how_to_play_common.padding": { } }, 
-            { "paragraph_20@how_to_play_common.paragraph": {
-      "$text": "banlist.bannedplayer10.reason" } }
-            { "paragraph_21@how_to_play_common.paragraph": {
+      { "padding_10@how_to_play_common.padding": { } }, 
+      { "paragraph_20@how_to_play_common.paragraph": {
+      "$text": "banlist.bannedplayer10.username" } }
+      { "paragraph_21@how_to_play_common.paragraph": {
       "$text": "banlist.bannedplayer10.reason" } }
     ]
   },
