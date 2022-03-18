@@ -23,18 +23,18 @@ events.content.mechanicsten=-
 events.content.paragraphthree=-
 
 //Patchnotes, only change when a feature was released
-patchnotes.currentchange.releasetopic=2022.225.0 | Season 10, and SMP Restructure
-patchnotes.currentchange.description=This update contains the Season 10 shift and the current restructure of the system.
-patchnotes.currentchange.changeone=-Remove Rules Section 3G [Duplicate](ce815aab)
-patchnotes.currentchange.changetwo=-Remove One Player Sleep, Bonsai, Custom Behavior Pack
-patchnotes.currentchange.changethree==Keep Lockable Chests, Enderite Addon
-patchnotes.currentchange.changefour=+Add Origins
-patchnotes.currentchange.changefive= We can't add all the changes here, so please check for the whole announcement.
-patchnotes.currentchangehotfix.hotfixtopic=Hotfix 2022.225.1
-patchnotes.currentchangehotfix.changeone=+Fix issues within Information Board Buttons
+patchnotes.currentchange.releasetopic=2022.318.0 | Ban Info 10
+patchnotes.currentchange.description=This update contains banning a cheat client user.
+patchnotes.currentchange.changeone=+ Ban Seendator(667ad679,6c6f718e)
+patchnotes.currentchange.changetwo=+
+patchnotes.currentchange.changethree=+
+patchnotes.currentchange.changefour=+
+patchnotes.currentchange.changefive= +
+patchnotes.currentchangehotfix.hotfixtopic=No Hotfix
+patchnotes.currentchangehotfix.changeone=+
 patchnotes.currentchangehotfix.changetwo=+
 patchnotes.currentchangehotfix.changethree=+
-patchnotes.previouschange.releasetopic=Previous release: 2022.209.0 | MCBE 1.18.10 Support
+patchnotes.previouschange.releasetopic=Previous release: 2022.225.0/1 | SMP Restructure
 patchnotes.previouschange.summary=This update covers the support of 1.18.10 above
 //Links, seek attention when adding or removing content
 links.discord.server=[Contact an admin to give you a link]
@@ -131,6 +131,8 @@ banlist.bannedplayer08.username=MarkTheNoob06/M4rkTheMinerYT
 banlist.bannedplayer08.reason=Engaging Illegal Nation War Activities, Excessive Disobidience, and Griefing
 banlist.bannedplayer09.username=Dream7320
 banlist.bannedplayer09.reason=Using Cheat Client on Server Premises
+banlist.bannedplayer10.username=Seendator
+banlist.bannedplayer10.reason=Using Cheat Client on Server Premises
 
 aboutwosc.content.header=About World of SteelCraft
 aboutwosc.content.introduction=World of SteelCraft started on July 27, 2020 and is owned by Scary Master 36 and managed by him and the admins.
