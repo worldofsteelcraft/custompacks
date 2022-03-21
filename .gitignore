@@ -1,1 +1,5 @@
 desktop.ini
+db/*
+level.dat*
+levelname.txt
+world_icon.jpeg
