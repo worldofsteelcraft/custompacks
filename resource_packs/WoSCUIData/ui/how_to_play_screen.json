@@ -59,8 +59,8 @@
             { "announcements_topic1_line1@how_to_play_common.paragraph": {
               "$text": "announcements.content.lineone" } },
             { "announcements_topic1_padding1@how_to_play_common.padding": { } },
-            { "@how_to_play_common.paragraph": {
-              "$text": "announcements_topic1_line2" } },
+            { "announcements_topic1_line2@how_to_play_common.paragraph": {
+              "$text": "announcements.content.linetree"} },
             { "announcements_topic1_padding2@how_to_play_common.padding": { } },
             { "announcements_topic1_line3@how_to_play_common.paragraph": {
               "$text": "announcements.content.linethree" } },
@@ -336,15 +336,15 @@
         "bindings": [
           {
             "binding_type": "view",
-            "source_control_name": "patchnotes_button_toggle",
+            "source_control_name": "aboutwosc_button_toggle",
             "source_property_name": "#toggle_state",
             "target_property_name": "#visible"
           }
         ],
         "controls": [
-          { "patchnotes_currentrelease_header_image@how_to_play_common.image": {
+            { "patchnotes_currentrelease_image@how_to_play_common.image": {
             "texture": "textures/default/header" } },
-          { "patchnotes_currentrelease_header_topic@how_to_play_common.header": {
+            { "patchnotes_currentrelease_header_topic@how_to_play_common.header": {
             "$text": "patchnotes.currentchange.releasetopic" } },
             { "patchnotes_currentrelease_description@how_to_play_common.paragraph": {
               "$text": "patchnotes.currentchange.description" } },
