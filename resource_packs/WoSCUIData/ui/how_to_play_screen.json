@@ -331,7 +331,7 @@
           { "events_header_text@how_to_play_common.header": {
           "$text": "events.content.header" } }
       ]
-    }
+    },
     "aboutwosc_section@how_to_play_common.main_sections": {
         "bindings": [
           {
