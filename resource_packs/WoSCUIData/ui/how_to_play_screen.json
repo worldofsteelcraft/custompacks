@@ -10,7 +10,7 @@
         ],
         "controls": [
           { "image_0@how_to_play_common.image": {
-            "texture": "textures/default/cover" } },
+            "texture": "textures/default/header" } },
           { "header_0@how_to_play_common.header": {
             "$text": "patchnotes.currentchange.releasetopic" } },
             { "paragraph_0@how_to_play_common.paragraph": {
@@ -84,7 +84,7 @@
       ],
         "controls": [
         { "serverrules_header_image@how_to_play_common.image": {
-          "texture": "textures/rules/header" } },
+          "texture": "textures/default/header" } },
         { "serverrules_header_text@how_to_play_common.header": {
            "$text": "rules.introduction.header" } },
         { "serverrules_header_introduction@how_to_play_common.paragraph": {
@@ -323,7 +323,7 @@
         ],
         "controls": [
           { "image_0@how_to_play_common.image": {
-          "texture": "textures/events/cover" } },
+          "texture": "textures/default/header" } },
           { "header_0@how_to_play_common.header": {
           "$text": "events.content.header" } },
           { "paragraph_0@how_to_play_common.paragraph": {
