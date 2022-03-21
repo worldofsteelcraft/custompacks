@@ -9,35 +9,35 @@
           }
         ],
         "controls": [
-          { "image_0@how_to_play_common.image": {
+          { "patchnotes_currentrelease_header_image@how_to_play_common.image": {
             "texture": "textures/default/header" } },
-          { "header_0@how_to_play_common.header": {
+          { "patchnotes_currentrelease_header_topic@how_to_play_common.header": {
             "$text": "patchnotes.currentchange.releasetopic" } },
-            { "paragraph_0@how_to_play_common.paragraph": {
+            { "patchnotes_currentrelease_description@how_to_play_common.paragraph": {
               "$text": "patchnotes.currentchange.description" } },
-            { "padding_0@how_to_play_common.padding": { } },
-            { "paragraph_1@how_to_play_common.paragraph": {
+            { "patchnotes_currentrelease_padding0@how_to_play_common.padding": { } },
+            { "patchnotes_currentrelease_change1@how_to_play_common.paragraph": {
               "$text": "patchnotes.currentchange.changeone" } },
-            { "paragraph_2@how_to_play_common.paragraph": {
+            { "patchnotes_currentrelease_change2@how_to_play_common.paragraph": {
               "$text": "patchnotes.currentchange.changetwo" } },
-            { "paragraph_3@how_to_play_common.paragraph": {
+            { "patchnotes_currentrelease_change3@how_to_play_common.paragraph": {
               "$text": "patchnotes.currentchange.changethree" } },
-            { "paragraph_4@how_to_play_common.paragraph": {
+            { "patchnotes_currentrelease_change4@how_to_play_common.paragraph": {
               "$text": "patchnotes.currentchange.changefour" } },
-            { "paragraph_5@how_to_play_common.paragraph": {
+            { "patchnotes_currentrelease_change5@how_to_play_common.paragraph": {
               "$text": "patchnotes.currentchange.changefive" } },
-            { "paragraph_6@how_to_play_common.paragraph": {
+            { "patchnotes_currentreleasehotfix_topic@how_to_play_common.paragraph": {
               "$text": "patchnotes.currentchangehotfix.hotfixtopic" } },
-            { "paragraph_7@how_to_play_common.paragraph": {
+            { "patchnotes_currentreleasehotfix_description@how_to_play_common.paragraph": {
               "$text": "patchnotes.currentchangehotfix.changeone" } },
-            { "paragraph_8@how_to_play_common.paragraph": {
+            { "patchnotes_currentreleasehotfix_fix1@how_to_play_common.paragraph": {
               "$text": "patchnotes.currentchangehotfix.changetwo" } },
-            { "paragraph_9@how_to_play_common.paragraph": {
+            { "patchnotes_currentreleasehotfix_fix2@how_to_play_common.paragraph": {
               "$text": "patchnotes.currentchangehotfix.changethree" } },
-            { "padding_4@how_to_play_common.padding": { } },  
-            { "header_1@how_to_play_common.header": {
+            { "patchnotes_currentrelease_padding2@how_to_play_common.padding": { } },  
+            { "patchnotes_previousrelease_topic@how_to_play_common.header": {
             "$text": "patchnotes.previouschange.releasetopic" } },
-            { "paragraph_10@how_to_play_common.paragraph": {
+            { "patchnores_previousrelease_summary@how_to_play_common.paragraph": {
               "$text": "patchnotes.previouschange.summary" } }
             
       ]
@@ -52,24 +52,26 @@
           }
         ],
         "controls": [
-          { "header_0@how_to_play_common.header": {
+           { "announcements_header_topic1_image@how_to_play_common.image": {
+          "texture": "textures/default/megaphone" } },
+          { "announcements_header_topic1_text@how_to_play_common.header": {
             "$text": "announcements.content.header" } },
-            { "paragraph_0@how_to_play_common.paragraph": {
+            { "announcements_topic1_line1@how_to_play_common.paragraph": {
               "$text": "announcements.content.lineone" } },
-            { "padding_0@how_to_play_common.padding": { } },
-            { "paragraph_1@how_to_play_common.paragraph": {
-              "$text": "announcements.content.linetwo" } },
-            { "padding_1@how_to_play_common.padding": { } },
-            { "paragraph_2@how_to_play_common.paragraph": {
+            { "announcements_topic1_padding1@how_to_play_common.padding": { } },
+            { "@how_to_play_common.paragraph": {
+              "$text": "announcements_topic1_line2" } },
+            { "announcements_topic1_padding2@how_to_play_common.padding": { } },
+            { "announcements_topic1_line3@how_to_play_common.paragraph": {
               "$text": "announcements.content.linethree" } },
-            { "padding_2@how_to_play_common.padding": { } },
-            { "paragraph_3@how_to_play_common.paragraph": {
+            { "announcements_topic1_padding3@how_to_play_common.padding": { } },
+            { "announcements_topic1_line4@how_to_play_common.paragraph": {
               "$text": "announcements.content.linefour" } },
-            { "padding_3@how_to_play_common.padding": { } },
-            { "paragraph_4@how_to_play_common.paragraph": {
+            { "announcements_topic1_padding4@how_to_play_common.padding": { } },
+            { "announcements_topic1_line5@how_to_play_common.paragraph": {
               "$text": "announcements.content.linefive" } },
-            { "padding_4@how_to_play_common.padding": { } },
-            { "paragraph_5@how_to_play_common.paragraph": {
+            { "announcements_topic1_padding5@how_to_play_common.padding": { } },
+            { "announcements_topic1_publishdate@how_to_play_common.paragraph": {
               "$text": "announcements.publish.date" } }
       ]
     },
@@ -109,136 +111,136 @@
           "$text": "rules.sectiontwo.alisttwo" } },
         { "serverrules_section2_alisttree@how_to_play_common.paragraph": {
           "$text": "rules.sectiontwo.alistthree" } },
-        { "paragraph_7@how_to_play_common.paragraph": {
+        { "serverrules_section2_alinetwo@how_to_play_common.paragraph": {
           "$text": "rules.sectiontwo.alinetwo" } },
-        { "padding_4@how_to_play_common.padding": { } },
-        { "paragraph_8@how_to_play_common.paragraph": {
+        { "serverrules_section2_padding1@how_to_play_common.padding1": { } },
+        { "serverrules_section2.b@how_to_play_common.paragraph": {
           "$text": "rules.sectiontwo.b" } },
-        { "padding_5@how_to_play_common.padding": { } },
-        { "paragraph_9@how_to_play_common.paragraph": {
+        { "serverrules_section2_padding2@how_to_play_common.padding": { } },
+        { "serverrules_section2_c@how_to_play_common.paragraph": {
           "$text": "rules.sectiontwo.c" } },
-        { "padding_6@how_to_play_common.padding": { } },
-        { "paragraph_10@how_to_play_common.paragraph": {
+        { "serverrules_section2_padding3@how_to_play_common.padding": { } },
+        { "serverrules_section2_d@how_to_play_common.paragraph": {
           "$text": "rules.sectiontwo.d" } }, 
-        { "header_3@how_to_play_common.header": {
+        { "serverrules_section3_header@how_to_play_common.header": {
           "$text": "rules.sectionthree.header" } },
-        { "paragraph_11@how_to_play_common.paragraph": {
+        { "serverrules_section3_a@how_to_play_common.paragraph": {
           "$text": "rules.sectionthree.a" } },
-        { "padding_7@how_to_play_common.padding": { } },
-        { "paragraph_12@how_to_play_common.paragraph": {
+        { "serverrules_section3_padding1@how_to_play_common.padding": { } },
+        { "serverrules_section3_blineone@how_to_play_common.paragraph": {
           "$text": "rules.sectionthree.blineone" } },
-        { "paragraph_13@how_to_play_common.paragraph": {
+        { "serverrules_section3_blistone@how_to_play_common.paragraph": {
           "$text": "rules.sectionthree.blistone" } },
-        { "paragraph_14@how_to_play_common.paragraph": {
+        { "serverrules_section3_blisttwo@how_to_play_common.paragraph": {
           "$text": "rules.sectionthree.blisttwo" } },
-        { "paragraph_15@how_to_play_common.paragraph": {
+        { "serverrules_section3_blistthree@how_to_play_common.paragraph": {
           "$text": "rules.sectionthree.blistthree" } },
-        { "paragraph_16@how_to_play_common.paragraph": {
+        { "serverrules_section3_blistfour@how_to_play_common.paragraph": {
           "$text": "rules.sectionthree.blistfour" } },
-        { "padding_8@how_to_play_common.padding": { } },
-        { "paragraph_17@how_to_play_common.paragraph": {
+        { "serverrules_section3_padding2@how_to_play_common.padding": { } },
+        { "serverrules_section3_c@how_to_play_common.paragraph": {
           "$text": "rules.sectionthree.c" } },
-        { "padding_9@how_to_play_common.padding": { } },
-        { "paragraph_18@how_to_play_common.paragraph": {
+        { "serverrules_section3_padding3@how_to_play_common.padding": { } },
+        { "serverrules_section3_d@how_to_play_common.paragraph": {
           "$text": "rules.sectionthree.d" } },
-        { "padding_10@how_to_play_common.padding": { } },
-        { "paragraph_19@how_to_play_common.paragraph": {
+        { "serverrules_section3_padding4@how_to_play_common.padding": { } },
+        { "serverrules_section3_e@how_to_play_common.paragraph": {
           "$text": "rules.sectionthree.e" } },
-        { "padding_11@how_to_play_common.padding": { } },
-        { "paragraph_20@how_to_play_common.paragraph": {
+        { "serverrules_section3_padding5@how_to_play_common.padding": { } },
+        { "serverrules_section3_flineone@how_to_play_common.paragraph": {
           "$text": "rules.sectionthree.flineone" } },
-        { "paragraph_21@how_to_play_common.paragraph": {
+        { "serverrules_section3_flistone@how_to_play_common.paragraph": {
           "$text": "rules.sectionthree.flistone" } },
-        { "paragraph_22@how_to_play_common.paragraph": {
+        { "serverrules_section3_flisttwo@how_to_play_common.paragraph": {
           "$text": "rules.sectionthree.flisttwo" } },
-        { "paragraph_23@how_to_play_common.paragraph": {
+        { "serverrules_section3_flistthree@how_to_play_common.paragraph": {
           "$text": "rules.sectionthree.flistthree" } },
-        { "padding_12@how_to_play_common.padding": { } },
-        { "paragraph_24@how_to_play_common.paragraph": {
+        { "serverrules_section3_padding6@how_to_play_common.padding": { } },
+        { "serverrules_section3_g@how_to_play_common.paragraph": {
           "$text": "rules.sectionthree.g" } },
-        { "padding_13@how_to_play_common.padding": { } },
-        { "paragraph_25@how_to_play_common.paragraph": {
+        { "serverrules_section3_padding7@how_to_play_common.padding": { } },
+        { "serverrules_section3_h@how_to_play_common.paragraph": {
           "$text": "rules.sectionthree.h" } },
-        { "padding_14@how_to_play_common.padding": { } },
-        { "paragraph_26@how_to_play_common.paragraph": {
+        { "serverrules_section3_padding8@how_to_play_common.padding": { } },
+        { "serverrules_section3_i@how_to_play_common.paragraph": {
           "$text": "rules.sectionthree.i" } },
-        { "padding_15@how_to_play_common.padding": { } },
-        { "paragraph_27@how_to_play_common.paragraph": {
+        { "serverrules_section3_padding9@how_to_play_common.padding": { } },
+        { "serverrules_section3_j@how_to_play_common.paragraph": {
           "$text": "rules.sectionthree.j" } },
-        { "padding_16@how_to_play_common.padding": { } },
-        { "header_4@how_to_play_common.header": {
+        { "serverrules_section3_padding10@how_to_play_common.padding": { } },
+        { "serverrules_section4_header@how_to_play_common.header": {
           "$text": "rules.sectionfour.header" } },
-        { "paragraph_28@how_to_play_common.paragraph": {
+        { "serverrules_section4_a@how_to_play_common.paragraph": {
           "$text": "rules.sectionfour.a" } }, 
-        { "padding_17@how_to_play_common.padding": { } },
-        { "paragraph_29@how_to_play_common.paragraph": {
+        { "serverrules_section4_padding1@how_to_play_common.padding": { } },
+        { "serverrules_section4_b@how_to_play_common.paragraph": {
           "$text": "rules.sectionfour.b" } },
-        { "header_5@how_to_play_common.header": {
+        { "serverrules_section5_header@how_to_play_common.header": {
           "$text": "rules.sectionfive.header" } },
-        { "paragraph_30@how_to_play_common.paragraph": {
+        { "serverrules_section5_a@how_to_play_common.paragraph": {
           "$text": "rules.sectionfive.a" } },
-        { "padding_18@how_to_play_common.padding": { } },
-        { "paragraph_31@how_to_play_common.paragraph": {
+        { "serverrules_section5_padding1@how_to_play_common.padding": { } },
+        { "serverrules_section5_b@how_to_play_common.paragraph": {
           "$text": "rules.sectionfive.b" } },
-        { "padding_19@how_to_play_common.padding": { } },
-        { "paragraph_32@how_to_play_common.paragraph": {
+        { "serverrules_section5_padding2@how_to_play_common.padding": { } },
+        { "serverrules_section5_c@how_to_play_common.paragraph": {
           "$text": "rules.sectionfive.c" } },
-        { "header_6@how_to_play_common.header": {
+        { "serverrules_section6_header@how_to_play_common.header": {
           "$text": "rules.sectionsix.header" } },
-        { "paragraph_33@how_to_play_common.paragraph": {
+        { "serverrules_section6_a@how_to_play_common.paragraph": {
           "$text": "rules.sectionsix.a" } },
-        { "padding_20@how_to_play_common.padding": { } },
-        { "paragraph_34@how_to_play_common.paragraph": {
+        { "serverrules_section6_padding1@how_to_play_common.padding": { } },
+        { "serverrules_section6_b@how_to_play_common.paragraph": {
           "$text": "rules.sectionsix.b" } },
-        { "padding_21@how_to_play_common.padding": { } },
-        { "paragraph_35@how_to_play_common.paragraph": {
+        { "serverrules_section6_padding2@how_to_play_common.padding": { } },
+        { "serverrules_section6_c@how_to_play_common.paragraph": {
           "$text": "rules.sectionsix.c" } },
-        { "header_7@how_to_play_common.header": {
+        { "serverrules_section7_header@how_to_play_common.header": {
           "$text": "rules.sectionseven.header" } },
-        { "paragraph_36@how_to_play_common.paragraph": {
+        { "serverrules_section7_a@how_to_play_common.paragraph": {
           "$text": "rules.sectionseven.a" } },
-        { "padding_22@how_to_play_common.padding": { } },
-        { "paragraph_37@how_to_play_common.paragraph": {
+        { "serverrules_section7_padding1@how_to_play_common.padding": { } },
+        { "serverrules_section7_b@how_to_play_common.paragraph": {
           "$text": "rules.sectionseven.b" } },
-        { "header_8@how_to_play_common.header": {
+        { "serverrules_section8_header@how_to_play_common.header": {
           "$text": "rules.sectioneight.header" } },
-        { "paragraph_38@how_to_play_common.paragraph": {
+        { "serverrules_section8_a@how_to_play_common.paragraph": {
           "$text": "rules.sectioneight.a" } },
-        { "padding_24@how_to_play_common.padding": { } },
-        { "paragraph_39@how_to_play_common.paragraph": {
+        { "serverrules_section8_padding1@how_to_play_common.padding": { } },
+        { "serverrules_section8_b@how_to_play_common.paragraph": {
           "$text": "rules.sectioneight.b" } },
-        { "header_9@how_to_play_common.header": {
+        { "serverrules_section9_header@how_to_play_common.header": {
           "$text": "rules.sectionnine.header" } },
-        { "paragraph_40@how_to_play_common.paragraph": {
+        { "serverrules_section9_a@how_to_play_common.paragraph": {
           "$text": "rules.sectionnine.a" } },
-        { "padding_25@how_to_play_common.padding": { } },
-        { "paragraph_41@how_to_play_common.paragraph": {
+        { "serverrules_section9_padding1@how_to_play_common.padding": { } },
+        { "serverrules_section9_b@how_to_play_common.paragraph": {
           "$text": "rules.sectionnine.b" } },
-        { "padding_26@how_to_play_common.padding": { } },
-        { "paragraph_42@how_to_play_common.paragraph": {
+        { "serverrules_section9_padding2@how_to_play_common.padding": { } },
+        { "serverrules_section9_c@how_to_play_common.paragraph": {
           "$text": "rules.sectionnine.c" } },
-        { "padding_27@how_to_play_common.padding": { } },
-        { "paragraph_43@how_to_play_common.paragraph": {
+        { "serverrules_section9_padding3@how_to_play_common.padding": { } },
+        { "serverrules_section9_d@how_to_play_common.paragraph": {
           "$text": "rules.sectionnine.d" } },
-        { "padding_28@how_to_play_common.padding": { } },
-        { "paragraph_44@how_to_play_common.paragraph": {
+        { "serverrules_section9_padding4@how_to_play_common.padding": { } },
+        { "serverrules_section9_e@how_to_play_common.paragraph": {
           "$text": "rules.sectionnine.e" } },
-        { "padding_29@how_to_play_common.padding": { } },
-        { "paragraph_45@how_to_play_common.paragraph": {
+        { "serverrules_section9_padding5@how_to_play_common.padding": { } },
+        { "serverrules_section9_f@how_to_play_common.paragraph": {
           "$text": "rules.sectionnine.f" } },
-        { "padding_30@how_to_play_common.padding": { } },
-        { "paragraph_46@how_to_play_common.paragraph": {
+        { "serverrules_section9_padding6@how_to_play_common.padding": { } },
+        { "serverrules_section9_g@how_to_play_common.paragraph": {
           "$text": "rules.sectionnine.g" } },
-        { "padding_31@how_to_play_common.padding": { } },
-        { "paragraph_47@how_to_play_common.paragraph": {
+        { "serverrules_section9_padding7@how_to_play_common.padding": { } },
+        { "serverrules_content_publishdate@how_to_play_common.paragraph": {
           "$text": "rules.publish.date" } },
-        { "header_10@how_to_play_common.header": {
+        { "serverrules_otherlanguage_header@how_to_play_common.header": {
           "$text": "rules.otherlanguage.header" } },
-        { "paragraph_48@how_to_play_common.paragraph": {
+        { "serverrules_otherlanguage_introduction@how_to_play_common.paragraph": {
         "$text": "rules.otherlanguage.paragraph" } },
-        { "paragraph_49@how_to_play_common.paragraph": {
+        { "serverrules_otherlanguage_enurl@how_to_play_common.paragraph": {
           "$text": "rules.otherlanguage.enlink" } },
-        { "paragraph_50@how_to_play_common.paragraph": {
+        { "serverrules_otherlanguage_filurl@how_to_play_common.paragraph": {
           "$text": "rules.otherlanguage.fillink" } }
       ]
     },
@@ -252,63 +254,65 @@
         }
       ],
      "controls": [
-        { "header_0@how_to_play_common.header": {
+        { "banlist_header_image@how_to_play_common.image": {
+          "texture": "textures/default/banhammer" } },
+        { "banlist_header_text@how_to_play_common.header": {
           "$text": "banlist.content.header" } },
-          { "paragraph_0@how_to_play_common.paragraph": {
-            "$text": "banlist.content.description" } },
-        { "paragraph_1@how_to_play_common.paragraph": {
+          { "banlist_header_introduction@how_to_play_common.paragraph": {
+            "$text": "banlist.header.description" } },
+        { "banlist_content_lastupdated@how_to_play_common.paragraph": {
           "$text": "banlist.last.updated" } },
-         { "padding_0@how_to_play_common.padding": { } }, 
-         { "header_1@how_to_play_common.header": {
+         { "banlist_header_padding1@how_to_play_common.padding": { } }, 
+         { "banlist_content_header@how_to_play_common.header": {
           "$text": "banlist.fulllist.header" } },
-          { "paragraph_2@how_to_play_common.paragraph": {
+          { "banlist_ban1_username@how_to_play_common.paragraph": {
           "$text": "banlist.bannedplayer01.username" } },
-          { "paragraph_3@how_to_play_common.paragraph": {
+          { "banlist_ban1_reason@how_to_play_common.paragraph": {
           "$text": "banlist.bannedplayer01.reason" } },
-         { "padding_2@how_to_play_common.padding": { } }, 
-         { "paragraph_4@how_to_play_common.paragraph": {
+         { "banlist_content_padding1@how_to_play_common.padding": { } }, 
+         { "banlist_ban2_username@how_to_play_common.paragraph": {
           "$text": "banlist.bannedplayer02.username" } },
-          { "paragraph_5@how_to_play_common.paragraph": {
+          { "banlist_ban2_reason@how_to_play_common.paragraph": {
           "$text": "banlist.bannedplayer02.reason" } },
-         { "padding_3@how_to_play_common.padding": { } }, 
-         { "paragraph_6@how_to_play_common.paragraph": {
+         { "banlist_content_padding2@how_to_play_common.padding": { } }, 
+         { "banlist_ban3_username@how_to_play_common.paragraph": {
           "$text": "banlist.bannedplayer03.username" } },
-          { "paragraph_7@how_to_play_common.paragraph": {
+          { "banlist_ban3_reason@how_to_play_common.paragraph": {
           "$text": "banlist.bannedplayer03.reason" } },
-         { "padding_4@how_to_play_common.padding": { } }, 
-         { "paragraph_8@how_to_play_common.paragraph": {
+         { "banlist_content_padding3@how_to_play_common.padding": { } }, 
+         { "banlist_ban4_username@how_to_play_common.paragraph": {
           "$text": "banlist.bannedplayer04.username" } },
-          { "paragraph_9@how_to_play_common.paragraph": {
+          { "banlist_ban4_reason@how_to_play_common.paragraph": {
           "$text": "banlist.bannedplayer04.reason" } },
-         { "padding_5@how_to_play_common.padding": { } }, 
-         { "paragraph_10@how_to_play_common.paragraph": {
+         { "banlist_content_padding4@how_to_play_common.padding": { } }, 
+         { "banlist_ban5_username@how_to_play_common.paragraph": {
           "$text": "banlist.bannedplayer05.username" } },
-          { "paragraph_11@how_to_play_common.paragraph": {
+          { "banlist_ban5_reason@how_to_play_common.paragraph": {
           "$text": "banlist.bannedplayer05.reason" } },
-         { "padding_6@how_to_play_common.padding": { } }, 
-         { "paragraph_12@how_to_play_common.paragraph": {
+         { "banlist_content_padding5@how_to_play_common.padding": { } }, 
+         { "banlist_ban6_username@how_to_play_common.paragraph": {
           "$text": "banlist.bannedplayer06.username" } },
-          { "paragraph_13@how_to_play_common.paragraph": {
+          { "banlist_ban6_reason@how_to_play_common.paragraph": {
           "$text": "banlist.bannedplayer06.reason" } },
-         { "padding_7@how_to_play_common.padding": { } }, 
-         { "paragraph_14@how_to_play_common.paragraph": {
+         { "banlist_content_padding6@how_to_play_common.padding": { } }, 
+         { "banlist_ban7_username@how_to_play_common.paragraph": {
           "$text": "banlist.bannedplayer07.username"} }, 
-          { "paragraph_15@how_to_play_common.paragraph": {
+          { "banlist_ban7_reason@how_to_play_common.paragraph": {
           "$text": "banlist.bannedplayer07.reason" } },
-          { "padding_8@how_to_play_common.padding": { } }, 
-         { "paragraph_16@how_to_play_common.paragraph": {
+          { "banlist_content_padding7@how_to_play_common.padding": { } }, 
+         { "banlist_ban8_username@how_to_play_common.paragraph": {
           "$text": "banlist.bannedplayer08.username"} }, 
-          { "paragraph_17@how_to_play_common.paragraph": {
+          { "banlist_ban8_reason@how_to_play_common.paragraph": {
           "$text": "banlist.bannedplayer08.reason" } },
-          { "padding_9@how_to_play_common.padding": { } }, 
-         { "paragraph_18@how_to_play_common.paragraph": {
+          { "banlist_content_padding8@how_to_play_common.padding": { } }, 
+         { "banlist_ban9_username@how_to_play_common.paragraph": {
           "$text": "banlist.bannedplayer09.username"} }, 
-          { "paragraph_19@how_to_play_common.paragraph": {
+          { "banlist_ban9_reason@how_to_play_common.paragraph": {
           "$text": "banlist.bannedplayer09.reason" } },
-          { "padding_10@how_to_play_common.padding": { } }, 
-          { "paragraph_20@how_to_play_common.paragraph": {
+          { "banlist_content_padding@how_to_play_common.padding": { } }, 
+          { "banlist_ban10_username@how_to_play_common.paragraph": {
           "$text": "banlist.bannedplayer10.username" } },
-          { "paragraph_21@how_to_play_common.paragraph": {
+          { "banlist_ban10_reason@how_to_play_common.paragraph": {
           "$text": "banlist.bannedplayer10.reason" } }
         ]
       },
@@ -322,41 +326,52 @@
           }
         ],
         "controls": [
-          { "image_0@how_to_play_common.image": {
+          { "events_header_image@how_to_play_common.image": {
           "texture": "textures/default/header" } },
-          { "header_0@how_to_play_common.header": {
-          "$text": "events.content.header" } },
-          { "paragraph_0@how_to_play_common.paragraph": {
-          "$text": "events.content.paragraphone" } },
-         { "paragraph_1@how_to_play_common.paragraph": {
-          "$text": "events.content.mechanicsone" } }, 
-          { "padding_2@how_to_play_common.padding": { } },
-          { "paragraph_2@how_to_play_common.paragraph": {
-          "$text": "events.content.paragraphtwo" } },
-           { "paragraph_3@how_to_play_common.paragraph": {
-          "$text": "events.content.mechanicsone" } },
-          { "paragraph_4@how_to_play_common.paragraph": {
-          "$text": "events.content.mechanicstwo" } },
-          { "paragraph_5@how_to_play_common.paragraph": {
-          "$text": "events.content.mechanicsthree" } },
-          { "paragraph_6@how_to_play_common.paragraph": {
-          "$text": "events.content.mechanicsfour" } },
-          { "paragraph_7@how_to_play_common.paragraph": {
-          "$text": "events.content.mechanicsfive" } },
-          { "paragraph_8@how_to_play_common.paragraph": {
-          "$text": "events.content.mechanicssix" } },
-          { "paragraph_9@how_to_play_common.paragraph": {
-          "$text": "events.content.mechanicsseven" } },
-          { "paragraph_10@how_to_play_common.paragraph": {
-          "$text": "events.content.mechanicseight" } },
-          { "paragraph_11@how_to_play_common.paragraph": {
-          "$text": "events.content.mechanicsnine" } },
-          { "paragraph_12@how_to_play_common.paragraph": {
-          "$text": "events.content.mechanicsten" } }, 
-         { "padding_1@how_to_play_common.padding": { } }, 
-         { "paragraph_13@how_to_play_common.paragraph": {
-          "$text": "events.content.paragraphthree" } }
+          { "events_header_text@how_to_play_common.header": {
+          "$text": "events.content.header" } }
       ]
     }
-    
+    "aboutwosc_section@how_to_play_common.main_sections": {
+        "bindings": [
+          {
+            "binding_type": "view",
+            "source_control_name": "patchnotes_button_toggle",
+            "source_property_name": "#toggle_state",
+            "target_property_name": "#visible"
+          }
+        ],
+        "controls": [
+          { "patchnotes_currentrelease_header_image@how_to_play_common.image": {
+            "texture": "textures/default/header" } },
+          { "patchnotes_currentrelease_header_topic@how_to_play_common.header": {
+            "$text": "patchnotes.currentchange.releasetopic" } },
+            { "patchnotes_currentrelease_description@how_to_play_common.paragraph": {
+              "$text": "patchnotes.currentchange.description" } },
+            { "patchnotes_currentrelease_padding0@how_to_play_common.padding": { } },
+            { "patchnotes_currentrelease_change1@how_to_play_common.paragraph": {
+              "$text": "patchnotes.currentchange.changeone" } },
+            { "patchnotes_currentrelease_change2@how_to_play_common.paragraph": {
+              "$text": "patchnotes.currentchange.changetwo" } },
+            { "patchnotes_currentrelease_change3@how_to_play_common.paragraph": {
+              "$text": "patchnotes.currentchange.changethree" } },
+            { "patchnotes_currentrelease_change4@how_to_play_common.paragraph": {
+              "$text": "patchnotes.currentchange.changefour" } },
+            { "patchnotes_currentrelease_change5@how_to_play_common.paragraph": {
+              "$text": "patchnotes.currentchange.changefive" } },
+            { "patchnotes_currentreleasehotfix_topic@how_to_play_common.paragraph": {
+              "$text": "patchnotes.currentchangehotfix.hotfixtopic" } },
+            { "patchnotes_currentreleasehotfix_description@how_to_play_common.paragraph": {
+              "$text": "patchnotes.currentchangehotfix.changeone" } },
+            { "patchnotes_currentreleasehotfix_fix1@how_to_play_common.paragraph": {
+              "$text": "patchnotes.currentchangehotfix.changetwo" } },
+            { "patchnotes_currentreleasehotfix_fix2@how_to_play_common.paragraph": {
+              "$text": "patchnotes.currentchangehotfix.changethree" } },
+            { "patchnotes_currentrelease_padding2@how_to_play_common.padding": { } },  
+            { "patchnotes_previousrelease_topic@how_to_play_common.header": {
+            "$text": "patchnotes.previouschange.releasetopic" } },
+            { "patchnores_previousrelease_summary@how_to_play_common.paragraph": {
+              "$text": "patchnotes.previouschange.summary" } }      
+      ]
+    }
 }
