@@ -344,20 +344,38 @@
         ],
         "controls": [
             { "aboutwosc_headerimage@how_to_play_common.image": {
-            "texture": "textures/aboutwosc/header" } },
+             "texture": "textures/aboutwosc/cover" } },
             { "aboutwosc_header_text@how_to_play_common.header": {
-            "$text": "aboutwosc.content.header" } },
+              "$text": "aboutwosc.content.header" } },
             { "aboutwosc_header_introduction@how_to_play_common.paragraph": {
               "$text": "aboutwosc.content.introduction" } },
             { "aboutwosc_content_padding1@how_to_play_common.padding": { } },
             { "aboutwosc_content_currentseason@how_to_play_common.paragraph": {
               "$text": "aboutwosc.content.currentseason" } },
-            {
-            { "aboutwosc_content_padding2@how_to_play_common.padding": { } }, "aboutwosc_content_management_introduction@how_to_play_common.paragraph": {
+            { "aboutwosc_content_padding2@how_to_play_common.padding": { } },
+            { "aboutwosc_content_managementintroduction@how_to_play_common.paragraph": {
               "$text": "aboutwosc.content.managementintroduction" } },
+            { "aboutwosc_content_managementtree@how_to_play_common.image": {
+              "texture": "textures/aboutwosc/admintree" } },
             { "aboutwosc_content_padding3@how_to_play_common.padding": { } },
-            { "aboutwosc_content_links_introduction": {
-              "$text": "aboutwosc.content.links" } }
+            { "aboutwosc_links_intro@how_to_play_common.paragraph": {
+              "$text": "aboutwosc.content.links" } },
+            { "aboutwosc_link1_name@how_to_play_common.paragraph": {
+              "$text": "aboutwosc.content.discordlink" } },
+            { "aboutwosc_link1_url@how_to_play_common.paragraph": {
+              "$text": "links.discord.server" } },
+            { "aboutwosc_link2_name@how_to_play_common.paragraph": {
+              "$text": "aboutwosc.content.serverinfolink" } },
+            { "aboutwosc_link2_url@how_to_play_common.paragraph": {
+              "$text": "links.server.info" } },
+            { "aboutwosc_link3_name@how_to_play_common.paragraph": {
+              "$text": "aboutwosc.content.smpsavelink" } },
+            { "aboutwosc_link3_url@how_to_play_common.paragraph": {
+              "$text": "links.server.save" } },
+            { "aboutwosc_link4_name@how_to_play_common.paragraph": {
+              "$text": "aboutwosc.content.serverwebsitelink" } },
+            { "aboutwosc_link4_url@how_to_play_common.paragraph": {
+              "$text": "links.server.website" } }       
       ]
     }
 }
