@@ -343,36 +343,21 @@
           }
         ],
         "controls": [
-            { "patchnotes_currentrelease_image@how_to_play_common.image": {
-            "texture": "textures/default/header" } },
-            { "patchnotes_currentrelease_header_topic@how_to_play_common.header": {
-            "$text": "patchnotes.currentchange.releasetopic" } },
-            { "patchnotes_currentrelease_description@how_to_play_common.paragraph": {
-              "$text": "patchnotes.currentchange.description" } },
-            { "patchnotes_currentrelease_padding0@how_to_play_common.padding": { } },
-            { "patchnotes_currentrelease_change1@how_to_play_common.paragraph": {
-              "$text": "patchnotes.currentchange.changeone" } },
-            { "patchnotes_currentrelease_change2@how_to_play_common.paragraph": {
-              "$text": "patchnotes.currentchange.changetwo" } },
-            { "patchnotes_currentrelease_change3@how_to_play_common.paragraph": {
-              "$text": "patchnotes.currentchange.changethree" } },
-            { "patchnotes_currentrelease_change4@how_to_play_common.paragraph": {
-              "$text": "patchnotes.currentchange.changefour" } },
-            { "patchnotes_currentrelease_change5@how_to_play_common.paragraph": {
-              "$text": "patchnotes.currentchange.changefive" } },
-            { "patchnotes_currentreleasehotfix_topic@how_to_play_common.paragraph": {
-              "$text": "patchnotes.currentchangehotfix.hotfixtopic" } },
-            { "patchnotes_currentreleasehotfix_description@how_to_play_common.paragraph": {
-              "$text": "patchnotes.currentchangehotfix.changeone" } },
-            { "patchnotes_currentreleasehotfix_fix1@how_to_play_common.paragraph": {
-              "$text": "patchnotes.currentchangehotfix.changetwo" } },
-            { "patchnotes_currentreleasehotfix_fix2@how_to_play_common.paragraph": {
-              "$text": "patchnotes.currentchangehotfix.changethree" } },
-            { "patchnotes_currentrelease_padding2@how_to_play_common.padding": { } },  
-            { "patchnotes_previousrelease_topic@how_to_play_common.header": {
-            "$text": "patchnotes.previouschange.releasetopic" } },
-            { "patchnores_previousrelease_summary@how_to_play_common.paragraph": {
-              "$text": "patchnotes.previouschange.summary" } }      
+            { "aboutwosc_headerimage@how_to_play_common.image": {
+            "texture": "textures/aboutwosc/header" } },
+            { "aboutwosc_header_text@how_to_play_common.header": {
+            "$text": "aboutwosc.content.header" } },
+            { "aboutwosc_header_introduction@how_to_play_common.paragraph": {
+              "$text": "aboutwosc.content.introduction" } },
+            { "aboutwosc_content_padding1@how_to_play_common.padding": { } },
+            { "aboutwosc_content_currentseason@how_to_play_common.paragraph": {
+              "$text": "aboutwosc.content.currentseason" } },
+            {
+            { "aboutwosc_content_padding2@how_to_play_common.padding": { } }, "aboutwosc_content_management_introduction@how_to_play_common.paragraph": {
+              "$text": "aboutwosc.content.managementintroduction" } },
+            { "aboutwosc_content_padding3@how_to_play_common.padding": { } },
+            { "aboutwosc_content_links_introduction": {
+              "$text": "aboutwosc.content.links" } }
       ]
     }
 }
