@@ -1,8 +1,8 @@
 name: Deploy To SMP Server
 'on':
   push:
-    branches:
-      - main
+    tags: 
+      - '*.*.*'
 jobs:
   sftp:
     name: "Deploy to SMP Server"
