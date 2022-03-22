@@ -110,7 +110,7 @@ rules.otherlanguage.fillink=Filipino Rules: https://worldofsteelcraft.tk/rules/f
 rules.publish.date=August 1 2021
 
 banlist.content.header=Banned Members List
-banlist.content.description=These users are banned to World of SteelCraft, in any platform of games and communication due to the violation of rules or excessive disobedience
+banlist.header.description=These users are banned to World of SteelCraft, in any platform of games and communication due to the violation of rules or excessive disobedience
 banlist.last.updated=Last Updated September 23 2021
 banlist.fulllist.header=Full List
 banlist.bannedplayer01.username=ExaminedPurse23

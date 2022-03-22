@@ -60,7 +60,7 @@
               "$text": "announcements.content.lineone" } },
             { "announcements_topic1_padding1@how_to_play_common.padding": { } },
             { "announcements_topic1_line2@how_to_play_common.paragraph": {
-              "$text": "announcements.content.linetree"} },
+              "$text": "announcements.content.linetwo"} },
             { "announcements_topic1_padding2@how_to_play_common.padding": { } },
             { "announcements_topic1_line3@how_to_play_common.paragraph": {
               "$text": "announcements.content.linethree" } },
