@@ -23,18 +23,18 @@ events.content.mechanicsten=-
 events.content.paragraphthree=-
 
 //Patchnotes, only change when a feature was released
-patchnotes.currentchange.releasetopic=2022.318.0 | Ban Info 10
-patchnotes.currentchange.description=This update contains banning a cheat client user.
-patchnotes.currentchange.changeone=+ Ban Seendator(667ad679,6c6f718e)
-patchnotes.currentchange.changetwo=+
+patchnotes.currentchange.releasetopic=2022.322.0 | UI
+patchnotes.currentchange.description=This update contains changes within the UI Packs to make it readable and efficient
+patchnotes.currentchange.changeone=+ Update is too technical to get understand. Nothing to get interesed :)
+patchnotes.currentchange.changetwo=+ 
 patchnotes.currentchange.changethree=+
 patchnotes.currentchange.changefour=+
 patchnotes.currentchange.changefive= +
-patchnotes.currentchangehotfix.hotfixtopic= Hotfix 2022.318.1
-patchnotes.currentchangehotfix.changeone=+ Fix Packs Just Displaying How To Play
+patchnotes.currentchangehotfix.hotfixtopic= 2022.322.1 | Last Changes for the day
+patchnotes.currentchangehotfix.changeone=+ Add more information on loading screen
 patchnotes.currentchangehotfix.changetwo=+
 patchnotes.currentchangehotfix.changethree=+
-patchnotes.previouschange.releasetopic=Previous release: 2022.225.0/1 | SMP Restructure
+patchnotes.previouschange.releasetopic=Previous release: 2022.318.0 | Ban Info 10
 patchnotes.previouschange.summary=This update covers the support of 1.18.10 above
 //Links, seek attention when adding or removing content
 links.discord.server=https://discord.gg/DEMvpNuyXx
@@ -167,3 +167,6 @@ howtoplay.aboutwosc.title=About World of SteelCraft
 howtoplay.aboutwosc.button=About WoSC
 patchnotes.currentchange.commitlisttitle=Associated Commits:
 howtoplay.category.keyyard-emoji-addon=Keyyard Emoji Addon
+
+progressScreen.message.updatingContent=Updating %1 of %2 Packs, Please Wait
+progressScreen.message.locating=Connecting to the Server, Please Wait
