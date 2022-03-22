@@ -28,11 +28,29 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Restart Notice
-        run: ${{ secrets.API_RESTARTNOTICE }}
+        run: |
+          curl "${{ secrets.API_URL }}/command" \
+          -H 'Accept: application/json' \
+          -H 'Content-Type: application/json' \
+          -H 'Authorization: Bearer ${{ secrets.API_KEY }}' \
+          -X POST \
+          -b 'pterodactyl_session'='${{ secrets.API_SESSION }}' \
+          -d '{
+            "command": "say Server will restart after 1 minute to apply changes to the Custom Packs. Please go to a safe place before server shuts down. You can just join after server restarted. Sorry for inconvenience, but this will improve your experience here."
+          }' 
         shell: bash
       - name: Wait for 1 minute
         run: sleep 60s
         shell: bash
       - name: Restart Server
-        run: ${{ secrets.API_RESTARTCMD }}
+        run: |
+          curl "${{ secrets.API_URL }}/power" \
+          -H 'Accept: application/json' \
+          -H 'Content-Type: application/json' \
+          -H 'Authorization: Bearer ${{ secrets.API_KEY }}' \
+          -X POST \
+          -b 'pterodactyl_session'='${{ secrets.API_SESSION }}' \
+          -d '{
+            "signal": "restart"
+          }'
         shell: bash
