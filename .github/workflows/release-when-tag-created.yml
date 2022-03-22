@@ -15,15 +15,15 @@ jobs:
       - name: Packing Resource Packs (Phase 1) 
         uses: vimtor/action-zip@v1
         with:
-          files: resource_packs/WoSCUICustom
+          files: resource_packs/WoSCUICore
           recursive: false
-          dest: WoSCUICustomPack.mcpack
+          dest: WoSCUICore.mcpack
       - name: Packing Resource Packs (Phase 2) 
         uses: vimtor/action-zip@v1
         with:
-          files: resource_packs/WoSCTextsPack
+          files: resource_packs/WoSCUIData
           recursive: false
-          dest: WoSCUITextsPack.mcpack
+          dest: WoSCUIData.mcpack
       - name: Display Files
         run: tree
         shell: bash
@@ -34,5 +34,5 @@ jobs:
           files: |
             README.md
             LICENSE
-            WoSCUICustomPack.mcpack
-            WoSCUITextsPack.mcpack
+            WoSCUICore.mcpack
+            WoSCUIData.mcpack

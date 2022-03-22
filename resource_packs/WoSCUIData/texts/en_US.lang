@@ -37,9 +37,10 @@ patchnotes.currentchangehotfix.changethree=+
 patchnotes.previouschange.releasetopic=Previous release: 2022.225.0/1 | SMP Restructure
 patchnotes.previouschange.summary=This update covers the support of 1.18.10 above
 //Links, seek attention when adding or removing content
-links.discord.server=[Contact an admin to give you a link]
+links.discord.server=https://discord.gg/DEMvpNuyXx
 links.server.info=https://worldofsteelcraft.tk/server/smp
 links.server.website=https://worldofsteelcraft.tk
+links.server.save=https://wosc.tk/smp-save
 
 //Rules Section, updating it must be synchronous on UI Pack
 howtoplay.serverrules=WoSC Rules
@@ -110,8 +111,8 @@ rules.otherlanguage.fillink=Filipino Rules: https://worldofsteelcraft.tk/rules/f
 rules.publish.date=August 1 2021
 
 banlist.content.header=Banned Members List
-banlist.content.description=These users are banned to World of SteelCraft, in any platform of games and communication due to the violation of rules or excessive disobedience
-banlist.last.updated=Last Updated September 23 2021
+banlist.header.description=These users are banned to World of SteelCraft, in any platform of games and communication due to the violation of rules or excessive disobedience
+banlist.last.updated=Last Updated March 22, 2022
 banlist.fulllist.header=Full List
 banlist.bannedplayer01.username=ExaminedPurse23
 banlist.bannedplayer01.reason=Looting
@@ -143,7 +144,8 @@ aboutwosc.content.links=Links for WoSC Related Stuff:
 aboutwosc.content.discordlink=Discord Server:
 aboutwosc.content.serverinfolink=SMP Server Information:
 aboutwosc.content.serverwebsitelink=Website:
-aboutwosc.last.updated=Last updated February 5, 2022
+aboutwosc.content.smpsavelink=SMP Save Link:
+aboutwosc.last.updated=Last updated March 22, 2022
 
 menu.howToPlay=WoSC Information Area
 howtoplay.category.wosc=World of SteelCraft
