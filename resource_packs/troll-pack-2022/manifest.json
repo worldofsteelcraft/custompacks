@@ -4,7 +4,7 @@
         "description": "April 1 2022 Pack",
         "name": "April 1 2022 Pack",
         "uuid": "0bcf2a2e-c207-4962-a773-cdb614cf4582",
-        "version": [2022, 4, 1],
+        "version": [2022, 401, 0],
         "min_engine_version": [ 1, 18, 10 ]
     },
     "modules": [
@@ -12,7 +12,7 @@
             "description": "April 1 2022 Pack",
             "type": "resources",
             "uuid": "699bfc10-f228-4d00-9d5f-f1c9be66c5a8",
-            "version": [2022, 4, 1]
+            "version": [2022, 401, 0]
         }
     ]
 }
