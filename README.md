@@ -10,7 +10,7 @@
   </p>
 </p>
 
-This is the repository of custom packs **World of SteelCraft** uses.  
+This is the repository of custom packs **[World of SteelCraft](https://worldofsteelcraft.tk/server/smp)** uses.  
 ---
 
 
@@ -18,7 +18,6 @@ This is the repository of custom packs **World of SteelCraft** uses.
 We are dependent on these addon for the server.  
 - Enderite Addon
 - Origins Addon
-- 
 
 <p>We are not stealing them, we're making it work to the server. This is the reason why the dependencies are only available within the main server</p>
 
