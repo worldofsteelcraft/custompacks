@@ -4,7 +4,7 @@ name: Deploy To SMP Server
     branches:
       - main
     paths-ignore:
-      -'README.md'
+       -'README.md'
 jobs:
   sftp:
     name: "Deploy to SMP Server"
