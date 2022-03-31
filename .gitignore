@@ -3,3 +3,8 @@ db/*
 level.dat*
 levelname.txt
 world_icon.jpeg
+behavior_packs
+Origins+v1
+v1
+world_behavior_packs.json
+world_resource_packs.json

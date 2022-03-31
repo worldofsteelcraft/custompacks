@@ -68,9 +68,6 @@
             { "announcements_topic1_line4@how_to_play_common.paragraph": {
               "$text": "announcements.content.linefour" } },
             { "announcements_topic1_padding4@how_to_play_common.padding": { } },
-            { "announcements_topic1_line5@how_to_play_common.paragraph": {
-              "$text": "announcements.content.linefive" } },
-            { "announcements_topic1_padding5@how_to_play_common.padding": { } },
             { "announcements_topic1_publishdate@how_to_play_common.paragraph": {
               "$text": "announcements.publish.date" } }
 
