@@ -1,10 +1,10 @@
 //Announcements, use "-" character when line is vacant
-announcements.content.header=SMP Restructure and Season 10
-announcements.content.lineone=We have restructured the SMP Server, and changed how is the interaction with community and members
+announcements.content.header=Happy April Fools Day!
+announcements.content.lineone=You probably thinking WTF is happening, now you know the answer
 announcements.content.linetwo=We also removed some mods in order to be aligned with the concept of Pure SMP Server. It doesn't mean that all mods were removed.
-announcements.content.linefour=Season also changed to S10 because of the issues of S9-Earth.
-announcements.content.linefive=We're requesting for your feedback on this changes. Please message us for suggestions and feedback (;
-announcements.publish.date=Published February 25, 2022
+announcements.content.linethree=Please don't share screenshots to GC or Discord Server, so we can troll more.
+announcements.content.linefour=Encourage them to join get more players trolled
+announcements.publish.date=Published April 1, 2022
 
 //Events, if contains cover image, change /textures/events/cover.png
 events.content.header=No Existing Events
