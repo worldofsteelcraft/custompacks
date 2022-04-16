@@ -47,12 +47,12 @@ jobs:
       - name: Restart Server
         run: |
           curl "https://${{ secrets.PANEL_HOSTNAME }}/api/client/servers/${{ secrets.PANEL_SERVERID }}/power" \
-          -H 'Accept: application/json' \
-          -H 'Content-Type: application/json' \
-          -H 'Authorization: Bearer ${{ secrets.API_KEY }}' \
-          -X POST \
-          -b 'pterodactyl_session'='${{ secrets.API_SESSION }}' \
-          -d '{
-            "signal": "restart"
-          }'
+            -H 'Accept: application/json' \
+            -H 'Content-Type: application/json' \
+            -H 'Authorization: Bearer ${{ secrets.PANEL_APIKEY }}' \
+            -X POST \
+            -b 'pterodactyl_session'='${{ secrets.API_SESSION }}' \
+            -d '{
+              "signal": "restart"
+            }'
         shell: bash
