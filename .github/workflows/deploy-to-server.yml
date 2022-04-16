@@ -31,10 +31,10 @@ jobs:
     steps:
       - name: Restart Notice
         run: |
-          curl "${{ secrets.API_URL }}/command" \
+          curl "https://${{ secrets.PANEL_HOSTNAME }}/api/client/servers/${{ secrets.PANEL_SERVERID }}/command" \
           -H 'Accept: application/json' \
           -H 'Content-Type: application/json' \
-          -H 'Authorization: Bearer ${{ secrets.API_KEY }}' \
+          -H 'Authorization: Bearer ${{ secrets.PANEL_APIKEY }}' \
           -X POST \
           -b 'pterodactyl_session'='${{ secrets.API_SESSION }}' \
           -d '{
@@ -46,7 +46,7 @@ jobs:
         shell: bash
       - name: Restart Server
         run: |
-          curl "${{ secrets.API_URL }}/power" \
+          curl "https://${{ secrets.PANEL_HOSTNAME }}/api/client/servers/${{ secrets.PANEL_SERVERID }}/power" \
           -H 'Accept: application/json' \
           -H 'Content-Type: application/json' \
           -H 'Authorization: Bearer ${{ secrets.API_KEY }}' \
