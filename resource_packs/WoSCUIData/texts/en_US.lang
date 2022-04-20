@@ -23,16 +23,16 @@ events.content.mechanicsten=-
 events.content.paragraphthree=-
 
 //Patchnotes, only change when a feature was released
-patchnotes.currentchange.releasetopic=2022.420.0 | MCBE 1.18.30 Support and Origin Changes
-patchnotes.currentchange.description=This update contains support for 1.18.30 and Major Changes within Origin Addon
-patchnotes.currentchange.changeone=+ Updated server to support 1.18.30. This will drop support for 1.18.12 below.
-patchnotes.currentchange.changetwo=+ Replaced Origins Addon with a more updated one. Please Report when you experience issues.
-patchnotes.currentchange.changethree=+ Brought Back Emoji Chat Addon. Catalog for the emoji still not applied to the UI Pack, please bear with us.
-patchnotes.currentchange.changefour=+ Reenable Gametest Framework. That powers the mentioned packs.
-patchnotes.currentchange.changefive=+-
-patchnotes.currentchangehotfix.hotfixtopic= No Hotfix Yet
-patchnotes.currentchangehotfix.changeone=+-
-patchnotes.currentchangehotfix.changetwo=+-
+patchnotes.currentchange.releasetopic=2022.322.0 | UI
+patchnotes.currentchange.description=This update contains changes within the UI Packs to make it readable and efficient
+patchnotes.currentchange.changeone=+ Update is too technical to get understand. Nothing to get interesed :)
+patchnotes.currentchange.changetwo=+ 
+patchnotes.currentchange.changethree=+
+patchnotes.currentchange.changefour=+
+patchnotes.currentchange.changefive= +
+patchnotes.currentchangehotfix.hotfixtopic= 2022.322.1 | Last Changes for the day
+patchnotes.currentchangehotfix.changeone=+ Add more information on loading screen
+patchnotes.currentchangehotfix.changetwo=+
 patchnotes.currentchangehotfix.changethree=+
 patchnotes.previouschange.releasetopic=Previous release: 2022.318.0 | Ban Info 10
 patchnotes.previouschange.summary=This update covers the support of 1.18.10 above
