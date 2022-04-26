@@ -23,19 +23,19 @@ events.content.mechanicsten=-
 events.content.paragraphthree=-
 
 //Patchnotes, only change when a feature was released
-patchnotes.currentchange.releasetopic=2022.322.0 | UI
-patchnotes.currentchange.description=This update contains changes within the UI Packs to make it readable and efficient
-patchnotes.currentchange.changeone=+ Update is too technical to get understand. Nothing to get interesed :)
-patchnotes.currentchange.changetwo=+ 
-patchnotes.currentchange.changethree=+
-patchnotes.currentchange.changefour=+
-patchnotes.currentchange.changefive= +
-patchnotes.currentchangehotfix.hotfixtopic= 2022.322.1 | Last Changes for the day
-patchnotes.currentchangehotfix.changeone=+ Add more information on loading screen
-patchnotes.currentchangehotfix.changetwo=+
-patchnotes.currentchangehotfix.changethree=+
-patchnotes.previouschange.releasetopic=Previous release: 2022.318.0 | Ban Info 10
-patchnotes.previouschange.summary=This update covers the support of 1.18.10 above
+patchnotes.currentchange.releasetopic=2022.420.0 | MCBE 1.18.30 Support
+patchnotes.currentchange.description=This update contains support for MCBE 1.18.30 
+patchnotes.currentchange.changeone=+Updated server to support 1.18.30. This will drop support for versions 1.18.12 and earlier
+patchnotes.currentchange.changetwo=+-
+patchnotes.currentchange.changethree=+-
+patchnotes.currentchange.changefour=+-
+patchnotes.currentchange.changefive= +-
+patchnotes.currentchangehotfix.hotfixtopic=+-
+patchnotes.currentchangehotfix.changeone=+-
+patchnotes.currentchangehotfix.changetwo=+-
+patchnotes.currentchangehotfix.changethree=+-
+patchnotes.previouschange.releasetopic=Previous release: 2022.322.0-1 | UI Changes
+patchnotes.previouschange.summary=This update covers the technical changes within UI
 //Links, seek attention when adding or removing content
 links.discord.server=https://discord.gg/DEMvpNuyXx
 links.server.info=https://worldofsteelcraft.tk/server/smp
