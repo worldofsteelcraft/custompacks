@@ -172,6 +172,37 @@
     ]
   },
 
+  "header_background": {
+    "type": "image",
+    "size": [ "100%", "20px" ],
+    "offset": [ 0, "-2px" ],
+    "anchor_from": "bottom_middle",
+    "anchor_to": "bottom_middle",
+    "texture": "textures/ui/Banners",
+    "controls": [
+      {
+        "header_label": {
+          "type": "label",
+          "color": "$body_text_color",
+          "layer": 1,
+          "anchor_from": "center",
+          "anchor_to": "center",
+          "text_alignment": "center",
+          "max_size": [ "95%", 10 ],
+          "text": "$text"
+        }
+      }
+    ]
+  },
+
+  "header": {
+    "type": "panel",
+    "size": [ "100%", "28px" ],
+    "controls": [
+      { "header@how_to_play_common.header_background": { } }
+    ]
+  },
+
   "paragraph": {
     "type": "label",
     "color": "$body_text_color",
