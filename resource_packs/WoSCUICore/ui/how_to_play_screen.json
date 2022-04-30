@@ -33,8 +33,11 @@
             { "events_button@how_to_play.events_button": { "$toggle_group_forced_index": 3 } },
             { "banlist_button@how_to_play.banlist_button": { "$toggle_group_forced_index": 4 } },
             { "aboutwosc_button@how_to_play.aboutwosc_button": { "$toggle_group_forced_index": 5 } },
-            { "wosc_wiki_category@how_to_play_common.topic_category": { "$category": "wosc-wiki" } },
-            { "wosc_wiki_1_button@how_to_play.wosc_wiki_button": { "$toggle_group_forced_index": 6 } },
+            
+            { "wosc_wiki_category@how_to_play_common.topic_category": { "$category": "wosc_wiki" } },
+            { "wosc_wiki_introduction_button@how_to_play.wosc_wiki_introduction_button": { "$toggle_group_forced_index": 10 } },
+            
+            
             { "basics_category@how_to_play_common.topic_category": { "$category": "basics" } },
 
             {
@@ -202,6 +205,10 @@
             { "events_section@how_to_play.events_section": { } },
             { "banlist_section@how_to_play.banlist_section": { } },
             { "aboutwosc_section@how_to_play.aboutwosc_section": { } },
+            
+            { "wosc_wiki_introduction_section@how_to_play.wosc_wiki_introduction_section": { } },
+            
+            
             { "adventure_mode_section@how_to_play.adventure_mode_section": {} },
             { "anvil_section@how_to_play.anvil_section": {} },
             { "armor_section@how_to_play.armor_section": {} },
@@ -305,7 +312,9 @@
 "aboutwosc_button@how_to_play_common.section_toggle_button": {
   "$section_topic": "aboutwosc"
   },
-"wosc_wiki_button@how_to_play_common.section_toggle_button": {
-  "$section_topic": "wosc_wiki"
-  }
+
+
+  "wosc_wiki_introduction_button@how_to_play_common.section_toggle_button": {
+  "$section_topic": "wosc_wiki_introduction"
+  } 
 }

@@ -168,5 +168,14 @@ howtoplay.aboutwosc.button=About WoSC
 patchnotes.currentchange.commitlisttitle=Associated Commits:
 howtoplay.category.keyyard-emoji-addon=Keyyard Emoji Addon
 
+
+howtoplay.category.wosc_wiki=WoSC Wiki
+
+howtoplay.wosc_wiki_introduction=Introduction
+howtoplay.wosc_wiki_introduction.title=WoSC Wiki Introduction
+wosc_wiki.introduction.header=Wiki Introduction
+wosc_wiki.introduction.headercontent=This is the wiki of World of SteelCraft integrated within server. This will give some more in-depth information about the community and the server. 
+wosc_wiki.introduction.wipnotice=This is a working-in-progress feature, expect weird behaviors.
+
 progressScreen.message.updatingContent=Updating %1 of %2 Packs, Please Wait
 progressScreen.message.locating=Connecting to the Server, Please Wait
