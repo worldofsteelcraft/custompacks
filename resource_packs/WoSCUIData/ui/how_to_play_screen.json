@@ -230,6 +230,38 @@
         { "serverrules_section9_g@how_to_play_common.paragraph": {
           "$text": "rules.sectionnine.g" } },
         { "serverrules_section9_padding7@how_to_play_common.padding": { } },
+        { "serverrules_section10_header@how_to_play_common.header": {
+          "$text": "rules.sectionten.header" } },
+        { "serverrules_section10_a@how_to_play_common.paragraph": {
+          "$text": "rules.sectionnine.a" } },
+        { "serverrules_section10_padding1@how_to_play_common.padding": { } },
+        { "serverrules_section10_b@how_to_play_common.paragraph": {
+          "$text": "rules.sectionnine.b" } },
+        { "serverrules_section10_padding2@how_to_play_common.padding": { } },
+        { "serverrules_section10_c@how_to_play_common.paragraph": {
+          "$text": "rules.sectionten.c" } },
+        { "serverrules_section10_padding3@how_to_play_common.padding": { } },
+        { "serverrules_section10_d@how_to_play_common.paragraph": {
+          "$text": "rules.sectionten.d" } },
+        { "serverrules_section10_padding4@how_to_play_common.padding": { } },
+        { "serverrules_section10_e@how_to_play_common.paragraph": {
+          "$text": "rules.sectionten.e" } },
+        { "serverrules_section10_padding5@how_to_play_common.padding": { } },
+        { "serverrules_section10_f@how_to_play_common.paragraph": {
+          "$text": "rules.sectionten.f" } },
+        { "serverrules_section10_padding6@how_to_play_common.padding": { } },
+        { "serverrules_section10_g@how_to_play_common.paragraph": {
+          "$text": "rules.sectionten.g" } },
+        { "serverrules_section10_padding7@how_to_play_common.padding": { } },
+       { "serverrules_section10_h@how_to_play_common.paragraph": {
+          "$text": "rules.sectionten.h" } },
+        { "serverrules_section10_padding8@how_to_play_common.padding": { } },
+       { "serverrules_section10_i@how_to_play_common.paragraph": {
+          "$text": "rules.sectionten.i" } },
+        { "serverrules_section10_padding9@how_to_play_common.padding": { } },
+       { "serverrules_section10_j@how_to_play_common.paragraph": {
+          "$text": "rules.sectionten.j" } },
+        { "serverrules_section9_padding10@how_to_play_common.padding": { } },
         { "serverrules_content_publishdate@how_to_play_common.paragraph": {
           "$text": "rules.publish.date" } },
         { "serverrules_otherlanguage_header@how_to_play_common.header": {
