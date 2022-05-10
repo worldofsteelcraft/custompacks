@@ -233,10 +233,10 @@
         { "serverrules_section10_header@how_to_play_common.header": {
           "$text": "rules.sectionten.header" } },
         { "serverrules_section10_a@how_to_play_common.paragraph": {
-          "$text": "rules.sectionnine.a" } },
+          "$text": "rules.sectionten.a" } },
         { "serverrules_section10_padding1@how_to_play_common.padding": { } },
         { "serverrules_section10_b@how_to_play_common.paragraph": {
-          "$text": "rules.sectionnine.b" } },
+          "$text": "rules.sectionten.b" } },
         { "serverrules_section10_padding2@how_to_play_common.padding": { } },
         { "serverrules_section10_c@how_to_play_common.paragraph": {
           "$text": "rules.sectionten.c" } },
