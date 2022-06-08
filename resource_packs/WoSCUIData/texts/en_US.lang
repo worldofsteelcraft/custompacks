@@ -99,16 +99,30 @@ rules.sectionnine.header=Section 9: Community Guidelines
 rules.sectionnine.a=A. Profanity should be avoided or minimal
 rules.sectionnine.b=B. NSFW or Mature Contents is prohibited
 rules.sectionnine.c=C. Sharing malicious links, sites or files is prohibited
-rules.
 rules.sectionnine.d=D. Talking about other games should be minimal
 rules.sectionnine.e=E. Harassing members, hacking their accounts or exposing their identity are extremely prohibited
 rules.sectionnine.f=F. Talking about illegal stuff or any topic that is prohibited by law is prohibited
 rules.sectionnine.g=G. Community guidelines of every messaging platform(Facebook Messenger/Discord) must be followed
+rules.sectionten.header=Section 10: Clan Guidelines
+rules.sectionten.a=A. Clan must have 2-3 members in order to be considered a clan
+rules.sectionten.b=B. Clan must have certain goal in order to be considered clan
+rules.sectionten.c=C. During the war, clan is allowed to attack other clans anything what is the reason of it
+rules.sectionten.d=D. There will be exception to Section 1B when there’s war.
+rules.sectionten.e=E. War should be Clan-to-Clan in order to be considered war
+rules.sectionten.f=F.  It will not be considered war when the involved parties are Player-To-Clan attack or Clan-to-Player attack.
+rules.sectionten.g=GLeader should be responsible with their members. Leaders have the authority to punish, or kick them from their clan
+rules.sectionten.i=H. he loosing side of the war should give winning side a reparation
+rules.sectionten.i=I. Admin will regulate the reparation
+rules.sectionten.j=J. Clan member should follow the nickname pattern: <username> | <clan name>
+rules.sectioneleven.header=Section 11: Moderator Role
+rules.sectioneleven.a=A. Enforce members to obey the rules/law that exists
+rules.sectioneleven.b=B. Follow rules/law that exist
+rules.sectioneleven.c=C. Report rule-breaking activities that member committed to admins.
 rules.otherlanguage.header=Other Language Links
 rules.otherlanguage.paragraph=This is the links for the English and Filipino Translation of the rules for easier understanding
 rules.otherlanguage.enlink=English Rules: https://worldofsteelcraft.tk/rules/en
 rules.otherlanguage.fillink=Filipino Rules: https://worldofsteelcraft.tk/rules/fil
-rules.publish.date=August 1 2021
+rules.publish.date=Last Updated April 30, 2022
 
 banlist.content.header=Banned Members List
 banlist.header.description=These users are banned to World of SteelCraft, in any platform of games and communication due to the violation of rules or excessive disobedience
@@ -167,6 +181,15 @@ howtoplay.aboutwosc.title=About World of SteelCraft
 howtoplay.aboutwosc.button=About WoSC
 patchnotes.currentchange.commitlisttitle=Associated Commits:
 howtoplay.category.keyyard-emoji-addon=Keyyard Emoji Addon
+
+
+howtoplay.category.wosc_wiki=WoSC Wiki
+
+howtoplay.wosc_wiki_introduction=Introduction
+howtoplay.wosc_wiki_introduction.title=WoSC Wiki Introduction
+wosc_wiki.introduction.header=Wiki Introduction
+wosc_wiki.introduction.headercontent=This is the wiki of World of SteelCraft integrated within server. This will give some more in-depth information about the community and the server. 
+wosc_wiki.introduction.wipnotice=This is a working-in-progress feature, expect weird behaviors.
 
 progressScreen.message.updatingContent=Updating %1 of %2 Packs, Please Wait
 progressScreen.message.locating=Connecting to the Server, Please Wait
