@@ -10,5 +10,10 @@
 		"pack_id" : "1f9121af-d33b-431f-8c42-710b12874733",
 		"subpack" : "new_gen",
 		"version" : [ 2, 3, 5 ]
+	},
+	
+	{
+		"pack_id" : "6afe8264-66dd-7217-890b-accdf672ffde",
+		"version" : [ 1, 0, 1000 ]
 	}
 ]
