@@ -1,8 +1,8 @@
 //Announcements, use "-" character when line is vacant
 announcements.content.header=Season 11
 announcements.content.lineone=We decided to move to Season 11 to provide more features but stable for everyone.
-announcements.content.linetwo=We will NOT BRING MORE BEHAVIOR PACKS until the NEXT SEASON came to give stability. 
-announcements.content.linethree=Season 11 will also end at October 22, 2022, marking 4 months limit for upcoming Season!
+announcements.content.linetwo=We will NOT ADD BEHAVIOR PACKS FOR NOW to give Stability and Achievements. 
+announcements.content.linethree=Season 11 will also end at October 23, 2022, marking 4 months limit for upcoming Season!
 announcements.content.linefour=Have fun!
 announcements.publish.date=Published June 22, 2022
 
@@ -23,11 +23,11 @@ events.content.mechanicsten=-
 events.content.paragraphthree=-
 
 //Patchnotes, only change when a feature was released
-patchnotes.currentchange.releasetopic=2022.608.0 | MCBE 1.19.0-1x Support
+patchnotes.currentchange.releasetopic=2022.623.0 | Season 11 Transition
 patchnotes.currentchange.description=This update covers the Season 11 transition.
 patchnotes.currentchange.changeone=+/ Moved to Season 11
 patchnotes.currentchange.changetwo=+/ Marked upcoming seasons a 4-Months Limit
-patchnotes.currentchange.changethree=+/ Updated Enderite Addon to it's latest version
+patchnotes.currentchange.changethree=- Removed all addons for this Season
 patchnotes.currentchange.changefour=+-
 patchnotes.currentchange.changefive= +-
 patchnotes.currentchangehotfix.hotfixtopic=+-
