@@ -4,7 +4,7 @@ level.dat*
 levelname.txt
 world_icon.jpeg
 behavior_packs
-resource_packs
+resource_packs/*
 !resource_packs/WoSCUIData
 !resource_packs/WoSCUICore
 Origins+v1
