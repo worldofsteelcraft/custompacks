@@ -193,3 +193,5 @@ wosc_wiki.introduction.wipnotice=This is a working-in-progress feature, expect w
 
 progressScreen.message.updatingContent=Updating %1 of %2 Packs, Please Wait
 progressScreen.message.locating=Connecting to the Server, Please Wait
+
+woscreporting.reportingdisabled.lol=Reporting disabled on this server
