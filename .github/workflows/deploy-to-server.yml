@@ -24,35 +24,35 @@ jobs:
           remote-password: ${{ secrets.SFTP_PASSWORD }}
           remote-path: ${{ secrets.SFTP_REMOTELOC }}
           sync: delta
-#  api:
-#    name: "Restart Server"
-#    needs: sftp
-#    runs-on: ubuntu-latest
-#    steps:
-#      - name: Restart Notice
-#        run: |
-#          curl "https://${{ secrets.PANEL_HOSTNAME }}/api/client/servers/${{ secrets.PANEL_SERVERID }}/command" \
-#          -H 'Accept: application/json' \
-#          -H 'Content-Type: application/json' \
-#          -H 'Authorization: Bearer ${{ secrets.PANEL_APIKEY }}' \
-#          -X POST \
-#          -b 'pterodactyl_session'='${{ secrets.API_SESSION }}' \
-#          -d '{
-#            "command": "say Server will restart after 1 minute to apply changes to the Custom Packs. Please go to a safe place before server shuts down. You can just join after server restarted. Sorry for inconvenience, but this will improve your experience here."
-#          }' 
-#        shell: bash
-#      - name: Wait for 1 minute
-#        run: sleep 60s
-#        shell: bash
-#      - name: Restart Server
-#        run: |
-#          curl "https://${{ secrets.PANEL_HOSTNAME }}/api/client/servers/${{ secrets.PANEL_SERVERID }}/power" \
-#            -H 'Accept: application/json' \
-#            -H 'Content-Type: application/json' \
-#            -H 'Authorization: Bearer ${{ secrets.PANEL_APIKEY }}' \
-#            -X POST \
-#            -b 'pterodactyl_session'='${{ secrets.API_SESSION }}' \
-#            -d '{
-#              "signal": "restart"
-#            }'
-#        shell: bash
+  api:
+    name: "Restart Server"
+    needs: sftp
+    runs-on: ubuntu-latest
+    steps:
+      - name: Restart Notice
+        run: |
+          curl "https://${{ secrets.PANEL_HOSTNAME }}/api/client/servers/${{ secrets.PANEL_SERVERID }}/command" \
+          -H 'Accept: application/json' \
+          -H 'Content-Type: application/json' \
+          -H 'Authorization: Bearer ${{ secrets.PANEL_APIKEY }}' \
+          -X POST \
+          -b 'pterodactyl_session'='${{ secrets.API_SESSION }}' \
+          -d '{
+            "command": "say Server will restart after 1 minute to apply changes to the Custom Packs. Please go to a safe place before server shuts down. You can just join after server restarted. Sorry for inconvenience, but this will improve your experience here."
+          }' 
+        shell: bash
+      - name: Wait for 1 minute
+        run: sleep 60s
+        shell: bash
+      - name: Restart Server
+        run: |
+          curl "https://${{ secrets.PANEL_HOSTNAME }}/api/client/servers/${{ secrets.PANEL_SERVERID }}/power" \
+            -H 'Accept: application/json' \
+            -H 'Content-Type: application/json' \
+            -H 'Authorization: Bearer ${{ secrets.PANEL_APIKEY }}' \
+            -X POST \
+            -b 'pterodactyl_session'='${{ secrets.API_SESSION }}' \
+            -d '{
+              "signal": "restart"
+            }'
+        shell: bash
