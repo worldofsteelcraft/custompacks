@@ -1,19 +1,19 @@
 //Announcements, use "-" character when line is vacant
-announcements.content.header=Season 11
-announcements.content.lineone=We decided to move to Season 11 to provide more features but stable for everyone.
-announcements.content.linetwo=We will NOT ADD BEHAVIOR PACKS FOR NOW to give Stability and Achievements. 
-announcements.content.linethree=Season 11 will also end at October 23, 2022, marking 4 months limit for upcoming Season!
-announcements.content.linefour=Have fun!
-announcements.publish.date=Published June 23, 2022
+announcements.content.header=2nd Anniversary of WoSC
+announcements.content.lineone=We're celebrating the 2nd year of World of SteelCraft's existence.
+announcements.content.linetwo=We've experienced so many hardships and success
+announcements.content.linethree=We're thankful for the another year given to us and those members who stay
+announcements.content.linefour=Happy 2nd Anniversary WoSC!
+announcements.publish.date=Published July 27, 2022
 
 //Events, if contains cover image, change /textures/events/cover.png
-events.content.header=No Existing Events
-events.content.paragraphone=-
-events.content.paragraphtwo=-
-events.content.mechanicsone=-
-events.content.mechanicstwo=-
-events.content.mechanicsthree=-
-events.content.mechanicsfour=-
+events.content.header=2nd Anniversary Event
+events.content.paragraphone=July 27, 2022 marks the day as the foundation day of the World of SteelCraft. 
+events.content.paragraphtwo=We hosted an off-server event that will take place at July 27, 2022 at 1pm.
+events.content.mechanicsone=1. Join using these information: events.worldofsteelcraft.tk:21952
+events.content.mechanicstwo=2. Participate to the event that will be hosted.
+events.content.mechanicsthree=Those who will participate will get a 2nd Anniversary Participation Badge
+events.content.mechanicsfour=We're expecting for your cooperation.
 events.content.mechanicsfive=-
 events.content.mechanicssix=-
 events.content.mechanicsseven=-
