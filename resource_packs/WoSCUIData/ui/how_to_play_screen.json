@@ -53,7 +53,7 @@
         ],
         "controls": [
            { "announcements_header_topic1_image@how_to_play_common.image": {
-          "texture": "textures/default/header" } },
+          "texture": "textures/publications/2ndanniversarybanner" } },
           { "announcements_header_topic1_text@how_to_play_common.header": {
             "$text": "announcements.content.header" } },
             { "announcements_topic1_line1@how_to_play_common.paragraph": {
@@ -368,9 +368,19 @@
         ],
         "controls": [
           { "events_header_image@how_to_play_common.image": {
-          "texture": "textures/default/header" } },
+          "texture": "textures/publications/2ndanniversarybanner" } },
           { "events_header_text@how_to_play_common.header": {
-          "$text": "events.content.header" } }
+          "$text": "events.content.header" } },
+          { "events_paragraph_line1@how_to_play_common.paragraph": {
+            "$text": "events.content.paragraphone" } },
+            { "events_paragraph_line2@how_to_play_common.paragraph": {
+            "$text": "events.content.paragraphtwo" } },
+           { "events_mechanics_line1@how_to_play_common.paragraph": {
+            "$text": "events.content.mechanicsone" } },
+            { "events_mechanics_line2@how_to_play_common.paragraph": {
+            "$text": "events.content.mechanicstwo" } }, 
+           { "events_mechanics_line3@how_to_play_common.paragraph": {
+            "$text": "events.content.mechanicsthree" } }
       ]
     },
     "aboutwosc_section@how_to_play_common.main_sections": {
