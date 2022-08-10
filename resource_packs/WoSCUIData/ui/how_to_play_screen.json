@@ -53,9 +53,23 @@
         ],
         "controls": [
            { "announcements_header_topic1_image@how_to_play_common.image": {
-          "texture": "textures/default/header" } },
+          "texture": "textures/publications/2ndanniversarybanner" } },
           { "announcements_header_topic1_text@how_to_play_common.header": {
-            "$text": "No Upcoming/Existing Events" } }
+            "$text": "announcements.content.header" } },
+            { "announcements_topic1_line1@how_to_play_common.paragraph": {
+              "$text": "announcements.content.lineone" } },
+            { "announcements_topic1_padding1@how_to_play_common.padding": { } },
+            { "announcements_topic1_line2@how_to_play_common.paragraph": {
+              "$text": "announcements.content.linetwo"} },
+            { "announcements_topic1_padding2@how_to_play_common.padding": { } },
+            { "announcements_topic1_line3@how_to_play_common.paragraph": {
+              "$text": "announcements.content.linethree" } },
+            { "announcements_topic1_padding3@how_to_play_common.padding": { } },
+            { "announcements_topic1_line4@how_to_play_common.paragraph": {
+              "$text": "announcements.content.linefour" } },
+            { "announcements_topic1_padding4@how_to_play_common.padding": { } },
+            { "announcements_topic1_publishdate@how_to_play_common.paragraph": {
+              "$text": "announcements.publish.date" } }
 
       ]
     },
@@ -354,19 +368,9 @@
         ],
         "controls": [
           { "events_header_image@how_to_play_common.image": {
-          "texture": "textures/publications/2ndanniversarybanner" } },
+          "texture": "textures/default/header" } },
           { "events_header_text@how_to_play_common.header": {
-          "$text": "events.content.header" } },
-          { "events_paragraph_line1@how_to_play_common.paragraph": {
-            "$text": "events.content.paragraphone" } },
-            { "events_paragraph_line2@how_to_play_common.paragraph": {
-            "$text": "events.content.paragraphtwo" } },
-           { "events_mechanics_line1@how_to_play_common.paragraph": {
-            "$text": "events.content.mechanicsone" } },
-            { "events_mechanics_line2@how_to_play_common.paragraph": {
-            "$text": "events.content.mechanicstwo" } }, 
-           { "events_mechanics_line3@how_to_play_common.paragraph": {
-            "$text": "events.content.mechanicsthree" } }
+          "$text": "No Upcoming or Existing Events" } }
       ]
     },
     "aboutwosc_section@how_to_play_common.main_sections": {
