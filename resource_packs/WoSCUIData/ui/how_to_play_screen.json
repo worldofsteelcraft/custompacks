@@ -53,23 +53,9 @@
         ],
         "controls": [
            { "announcements_header_topic1_image@how_to_play_common.image": {
-          "texture": "textures/publications/2ndanniversarybanner" } },
+          "texture": "textures/default/header" } },
           { "announcements_header_topic1_text@how_to_play_common.header": {
-            "$text": "announcements.content.header" } },
-            { "announcements_topic1_line1@how_to_play_common.paragraph": {
-              "$text": "announcements.content.lineone" } },
-            { "announcements_topic1_padding1@how_to_play_common.padding": { } },
-            { "announcements_topic1_line2@how_to_play_common.paragraph": {
-              "$text": "announcements.content.linetwo"} },
-            { "announcements_topic1_padding2@how_to_play_common.padding": { } },
-            { "announcements_topic1_line3@how_to_play_common.paragraph": {
-              "$text": "announcements.content.linethree" } },
-            { "announcements_topic1_padding3@how_to_play_common.padding": { } },
-            { "announcements_topic1_line4@how_to_play_common.paragraph": {
-              "$text": "announcements.content.linefour" } },
-            { "announcements_topic1_padding4@how_to_play_common.padding": { } },
-            { "announcements_topic1_publishdate@how_to_play_common.paragraph": {
-              "$text": "announcements.publish.date" } }
+            "$text": "No Upcoming/Existing Events" } }
 
       ]
     },
