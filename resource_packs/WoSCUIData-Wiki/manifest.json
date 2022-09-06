@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "UI Subpack that is responsible for the wiki data being displayed",
+      "name": "[WIKI/KB]World of SteelCraft UI Data Subpack 2",
+      "uuid":"89ca2a1e-b0b3-4540-a966-8ec354e24768",
+      "version": [2022, 906, 0],
+      "min_engine_version": [1, 16, 0]
+    },
+    "modules": [
+      {
+        "description": "UI Subpack that is responsible for the wiki data being displayed",
+        "type": "resources",
+        "uuid": "7b43a03f-a98c-4f08-adb5-c095b32b79ea",
+        "version": [2022, 906, 0]
+      }
+    ]
+}

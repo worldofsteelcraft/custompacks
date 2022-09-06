@@ -2,17 +2,17 @@
     "format_version": 2,
     "header": {
       "description": "UI Subpack that is responsible for the data being displayed",
-      "name": "World of SteelCraft UI Data Subpack",
-      "uuid":"1b7d9e66-9021-4551-a868-55f0e005f16d",
-      "version": [2022, 829, 0],
+      "name": "[EVENTS]World of SteelCraft UI Data Subpack 1",
+      "uuid":"d4f50ca3-a142-4af1-92b2-5981ac2c7599",
+      "version": [2022, 906, 0],
       "min_engine_version": [1, 16, 0]
     },
     "modules": [
       {
         "description": "UI Subpack that is responsible for the data being displayed",
         "type": "resources",
-        "uuid": "2a95068f-c9a6-4e9b-9a19-c0745160f432",
-        "version": [2022, 829, 0]
+        "uuid": "c18b8f03-89d0-4a19-b057-39d28b15d87f",
+        "version": [2022, 906, 0]
       }
     ]
 }
