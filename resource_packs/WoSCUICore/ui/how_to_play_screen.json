@@ -35,7 +35,7 @@
             { "aboutwosc_button@how_to_play.aboutwosc_button": { "$toggle_group_forced_index": 5 } },
 
             { "wosc_wiki_category@how_to_play_common.topic_category": { "$category": "wosc_wiki" } },
-            { "wosc_wiki_introduction_button@how_to_play.wosc_wiki_introduction_button": { "$toggle_group_forced_index": 10 } },
+            { "wosc_wiki_introduction_button@how_to_play.wosc_wiki_introduction_button": { "$toggle_group_forced_index": 6 } },
 
 
             { "basics_category@how_to_play_common.topic_category": { "$category": "basics" } },
@@ -293,24 +293,119 @@
    "patchnotes_button@how_to_play_common.section_toggle_button": {
     "$section_topic": "patchnotes"
   },
-
+    "patchnotes_section@how_to_play_common.main_sections": {
+    "bindings": [
+      {
+        "binding_type": "view",
+        "source_control_name": "patchnotes_button_toggle",
+        "source_property_name": "#toggle_state",
+        "target_property_name": "#visible"
+      }
+    ],
+    "controls": [
+      { "events_header_image@how_to_play_common.image": {
+      "texture": "textures/default/header" } },
+      { "events_header_text@how_to_play_common.header": {
+      "$text": "Subpack 0 is not installed!" } }
+  ]
+},
    "announcements_button@how_to_play_common.section_toggle_button": {
     "$section_topic": "announcements"
   },
+  "announcements_section@how_to_play_common.main_sections": {
+    "bindings": [
+      {
+        "binding_type": "view",
+        "source_control_name": "announcements_button_toggle",
+        "source_property_name": "#toggle_state",
+        "target_property_name": "#visible"
+      }
+    ],
+    "controls": [
+      { "announcements_header_image@how_to_play_common.image": {
+      "texture": "textures/default/header" } },
+      { "announcements_header_text@how_to_play_common.header": {
+      "$text": "Subpack 0 is not installed!" } }
+  ]
+},
     "serverrules_button@how_to_play_common.section_toggle_button": {
     "$section_topic": "serverrules"
-    },
+  },
+"serverrules_section@how_to_play_common.main_sections": {
+    "bindings": [
+      {
+        "binding_type": "view",
+        "source_control_name": "serverrules_button_toggle",
+        "source_property_name": "#toggle_state",
+        "target_property_name": "#visible"
+      }
+    ],
+    "controls": [
+      { "events_header_image@how_to_play_common.image": {
+      "texture": "textures/default/header" } },
+      { "events_header_text@how_to_play_common.header": {
+      "$text": "Subpack is not installed!" } }
+  ]
+},
 "banlist_button@how_to_play_common.section_toggle_button": {
   "$section_topic": "banlist"
+},
+"banlist_section@how_to_play_common.main_sections": {
+  "bindings": [
+    {
+      "binding_type": "view",
+      "source_control_name": "banlist_button_toggle",
+      "source_property_name": "#toggle_state",
+      "target_property_name": "#visible"
+    }
+  ],
+  "controls": [
+    { "banlist_header_image@how_to_play_common.image": {
+    "texture": "textures/default/header" } },
+    { "banlist_header_text@how_to_play_common.header": {
+    "$text": "Subpack 0 is not installed!" } }
+]
 },
 
 "events_button@how_to_play_common.section_toggle_button": {
     "$section_topic": "events"
   },
+"events_section@how_to_play_common.main_sections": {
+    "bindings": [
+      {
+        "binding_type": "view",
+        "source_control_name": "events_button_toggle",
+        "source_property_name": "#toggle_state",
+        "target_property_name": "#visible"
+      }
+    ],
+    "controls": [
+      { "events_header_image@how_to_play_common.image": {
+      "texture": "textures/default/header" } },
+      { "events_header_text@how_to_play_common.header": {
+      "$text": "Subpack 1 is not installed!" } }
+  ]
+},
   
 "aboutwosc_button@how_to_play_common.section_toggle_button": {
   "$section_topic": "aboutwosc"
   },
+"aboutwosc_section@how_to_play_common.main_sections": {
+    "bindings": [
+      {
+        "binding_type": "view",
+        "source_control_name": "aboutwosc_button_toggle",
+        "source_property_name": "#toggle_state",
+        "target_property_name": "#visible"
+      }
+    ],
+    "controls": [
+      { "aboutwosc_header_image@how_to_play_common.image": {
+      "texture": "textures/default/header" } },
+      { "aboutwosc_header_text@how_to_play_common.header": {
+      "$text": "Subpack 0 is not installed!" } }
+  ]
+},
 
   "wosc_wiki_introduction_button@how_to_play_common.section_toggle_button": {
   "$section_topic": "wosc_wiki_introduction"

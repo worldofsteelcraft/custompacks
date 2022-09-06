@@ -1,0 +1,23 @@
+{
+  "wosc_wiki_introduction_section@how_to_play_common.main_sections": {
+    "bindings": [
+      {
+        "binding_type": "view",
+        "source_control_name": "wosc_wiki_introduction_button_toggle",
+        "source_property_name": "#toggle_state",
+        "target_property_name": "#visible"
+      }
+    ],
+    "controls": [
+        { "wosc_wiki_introduction_headerimage@how_to_play_common.image": {
+         "texture": "textures/default/header" } },
+        { "wosc_wiki_introduction_header_text@how_to_play_common.header": {
+          "$text": "wosc_wiki.introduction.header" } },
+        { "wosc_wiki_introduction_headercontent@how_to_play_common.paragraph": {
+          "$text": "wosc_wiki.introduction.headercontent" } },
+        { "wosc_wiki_introduction_wipnotice@how_to_play_common.paragraph": {
+          "$text": "wosc_wiki.introduction.wipnotice" } }
+    ]
+  }
+}
+
