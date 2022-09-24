@@ -7,9 +7,9 @@ announcements.content.linefour=Happy 2nd Anniversary WoSC!
 announcements.publish.date=Published July 27, 2022
 
 //Patchnotes, only change when a feature was released
-patchnotes.currentchange.releasetopic=2022.829.0 | MCBE 1.19.21 Support
-patchnotes.currentchange.description=This update covers the support for MCBE 1.19.21 and will drop support 1.19.20 and earlier.
-patchnotes.currentchange.changeone=+/ Please check changelogs for more information about the update
+patchnotes.currentchange.releasetopic=2022.924.0 | MCBE 1.19.30 Support
+patchnotes.currentchange.description=This update covers the support for MCBE 1.19.30 and will drop support 1.19.22 and earlier.
+patchnotes.currentchange.changeone=+/ Please check Minecraft Bedrock changelogs for more information about the update
 patchnotes.currentchange.changetwo=+-
 patchnotes.currentchange.changethree=+-
 patchnotes.currentchange.changefour=+-
@@ -18,8 +18,8 @@ patchnotes.currentchangehotfix.hotfixtopic=+-
 patchnotes.currentchangehotfix.changeone=+-
 patchnotes.currentchangehotfix.changetwo=+-
 patchnotes.currentchangehotfix.changethree=+-
-patchnotes.previouschange.releasetopic=Previous release: 2022.810.0 | 1.19.20 Update/Report System Changes
-patchnotes.previouschange.summary=This update covers the support for MCBE 1.19.20.
+patchnotes.previouschange.releasetopic=Previous release: 2022.829.0 | 1.19.21 Update
+patchnotes.previouschange.summary=This update covers the support for MCBE 1.19.21.
 //Links, seek attention when adding or removing content
 links.discord.server=https://discord.gg/DEMvpNuyXx
 links.server.info=https://worldofsteelcraft.tk/server/smp
