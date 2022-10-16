@@ -23,4 +23,4 @@ We are dependent on these addon for the server.
 
 ---
 ## Guides for pushing announcements, events, and patchnotes
-- Autodeployment is available, but keep in mind that you should do deployments by off peak unless it's hotfix
+~~- Autodeployment is available, but keep in mind that you should do deployments by off peak unless it's hotfix~~Autodeployment is disabled for a while
