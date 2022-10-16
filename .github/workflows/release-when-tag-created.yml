@@ -1,38 +1,38 @@
-name: Create Release Packs
-'on':
-  push:
-    tags:
-      - '*.*.*'
-jobs:
-  release:
-    name: "Create Release"
-    runs-on: ubuntu-latest
-    steps:
-      - name: "Checkout"
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
-      - name: Packing Resource Packs (Phase 1) 
-        uses: vimtor/action-zip@v1
-        with:
-          files: resource_packs/WoSCUICore
-          recursive: false
-          dest: WoSCUICore.mcpack
-      - name: Packing Resource Packs (Phase 2) 
-        uses: vimtor/action-zip@v1
-        with:
-          files: resource_packs/WoSCUIData
-          recursive: false
-          dest: WoSCUIData.mcpack
-      - name: Display Files
-        run: tree
-        shell: bash
-      - name: Release
-        uses: softprops/action-gh-release@v1
-        if: startsWith(github.ref, 'refs/tags/')
-        with:
-          files: |
-            README.md
-            LICENSE
-            WoSCUICore.mcpack
-            WoSCUIData.mcpack
+# name: Create Release Packs
+# 'on':
+#   push:
+#     tags:
+#       - '*.*.*'
+# jobs:
+#   release:
+#     name: "Create Release"
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: "Checkout"
+#         uses: actions/checkout@v2
+#         with:
+#           fetch-depth: 0
+#       - name: Packing Resource Packs (Phase 1) 
+#         uses: vimtor/action-zip@v1
+#         with:
+#           files: resource_packs/WoSCUICore
+#           recursive: false
+#           dest: WoSCUICore.mcpack
+#       - name: Packing Resource Packs (Phase 2) 
+#         uses: vimtor/action-zip@v1
+#         with:
+#           files: resource_packs/WoSCUIData
+#           recursive: false
+#           dest: WoSCUIData.mcpack
+#       - name: Display Files
+#         run: tree
+#         shell: bash
+#       - name: Release
+#         uses: softprops/action-gh-release@v1
+#         if: startsWith(github.ref, 'refs/tags/')
+#         with:
+#           files: |
+#             README.md
+#             LICENSE
+#             WoSCUICore.mcpack
+#             WoSCUIData.mcpack
