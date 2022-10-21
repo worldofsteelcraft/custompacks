@@ -3,8 +3,6 @@ name: Create Release Packs
   push:
     tags:
       - '*.*.*'
-  release:
-    types: [published]
 jobs:
   release:
     name: "Create Release"
