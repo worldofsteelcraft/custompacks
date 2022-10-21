@@ -1,38 +1,52 @@
-# name: Create Release Packs
-# 'on':
-#   push:
-#     tags:
-#       - '*.*.*'
-# jobs:
-#   release:
-#     name: "Create Release"
-#     runs-on: ubuntu-latest
-#     steps:
-#       - name: "Checkout"
-#         uses: actions/checkout@v2
-#         with:
-#           fetch-depth: 0
-#       - name: Packing Resource Packs (Phase 1) 
-#         uses: vimtor/action-zip@v1
-#         with:
-#           files: resource_packs/WoSCUICore
-#           recursive: false
-#           dest: WoSCUICore.mcpack
-#       - name: Packing Resource Packs (Phase 2) 
-#         uses: vimtor/action-zip@v1
-#         with:
-#           files: resource_packs/WoSCUIData
-#           recursive: false
-#           dest: WoSCUIData.mcpack
-#       - name: Display Files
-#         run: tree
-#         shell: bash
-#       - name: Release
-#         uses: softprops/action-gh-release@v1
-#         if: startsWith(github.ref, 'refs/tags/')
-#         with:
-#           files: |
-#             README.md
-#             LICENSE
-#             WoSCUICore.mcpack
-#             WoSCUIData.mcpack
+name: Create Release Packs
+'on':
+  push:
+    tags:
+      - '*.*.*'
+jobs:
+  release:
+    name: "Create Release"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Checkout"
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Packing Resource Packs (Phase 1) 
+        uses: vimtor/action-zip@v1
+        with:
+          files: resource_packs/WoSCUICore
+          recursive: false
+          dest: WoSCUICore-${{GITHUB_SHA:7}}.mcpack
+      - name: Packing Resource Packs (Phase 2.1) 
+        uses: vimtor/action-zip@v1
+        with:
+          files: resource_packs/WoSCUIData-Main
+          recursive: false
+          dest: WoSCUIData-Main.mcpack
+      - name: Packing Resource Packs (Phase 2.2) 
+        uses: vimtor/action-zip@v1
+        with:
+          files: resource_packs/WoSCUIData-Events
+          recursive: false
+          dest: WoSCUIData-Events-${{GITHUB_SHA:7}}.mcpack
+      - name: Packing Resource Packs (Phase 2.3) 
+        uses: vimtor/action-zip@v1
+        with:
+          files: resource_packs/WoSCUIData-Wiki
+          recursive: false
+          dest: WoSCUIData-Main-${{GITHUB_SHA:7}}.mcpack
+      - name: Display Files
+        run: tree
+        shell: bash
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: |
+            README.md
+            LICENSE
+            WoSCUICore-${{GITHUB_SHA:7}}.mcpack
+            WoSCUIData-Main-${{GITHUB_SHA:7}}.mcpack
+            WoSCUIData-Events-${{GITHUB_SHA:7}}.mcpack
+            WoSCUIData-Wiki-${{GITHUB_SHA:7}}.mcpack
