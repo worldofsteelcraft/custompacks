@@ -13,11 +13,7 @@ patchnotes.currentchange.changeone=+ Due to the limitations of the temporary hos
 patchnotes.currentchange.changetwo=+-
 patchnotes.currentchange.changethree=+-
 patchnotes.currentchange.changefour=+-
-patchnotes.currentchange.changefive= +-
-patchnotes.currentchangehotfix.hotfixtopic=+-
-patchnotes.currentchangehotfix.changeone=+-
-patchnotes.currentchangehotfix.changetwo=+-
-patchnotes.currentchangehotfix.changethree=+-
+patchnotes.currentchange.changefive=+-
 patchnotes.previouschange.releasetopic=Previous release: 2022.924.0 | 1.19.30 Update
 patchnotes.previouschange.summary=This update covers the support for MCBE 1.19.30.
 //Links, seek attention when adding or removing content
