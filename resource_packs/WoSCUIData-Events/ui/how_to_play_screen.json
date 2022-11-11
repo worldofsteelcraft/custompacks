@@ -12,7 +12,7 @@
           { "events_header_image@how_to_play_common.image": {
           "texture": "textures/default/header" } },
           { "events_header_text@how_to_play_common.header": {
-          "$text": "Update to this element is suspended." } }
+          "$text": "No Upcoming or Existing Events" } }
       ]
     }
 }
