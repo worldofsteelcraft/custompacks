@@ -9,7 +9,7 @@
           }
         ],
         "controls": [
-          { "server_announcements_title_text@how_to_play_common.paragraph": {
+          { "server_announcements_title_text@how_to_play_common.paragraph_bold": {
             "$text": "Announcement:",
             "text_alignment": "center" } },
           { "server_announcements_header_topic1_text@how_to_play_common.header": {
@@ -31,7 +31,7 @@
           
           { "divider1_announcements@how_to_play_common.line_divider": { } },
           
-          { "changelogs_title_text@how_to_play_common.paragraph": {
+          { "changelogs_title_text@how_to_play_common.paragraph_bold": {
             "$text": "Changelogs:",
             "text_alignment": "center" } },
           { "changelogs_header_image@how_to_play_common.image": {
