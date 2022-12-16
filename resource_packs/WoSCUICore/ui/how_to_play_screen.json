@@ -29,7 +29,6 @@
             { "wosc_category@how_to_play_common.topic_category": { "$category": "wosc" } },
             { "serverrules_button@how_to_play.serverrules_button": { "$toggle_group_forced_index": 0 } },
             { "announcements_button@how_to_play.announcements_button": { "$toggle_group_forced_index": 1 } },
-            { "patchnotes_button@how_to_play.patchnotes_button": { "$toggle_group_forced_index": 2 } },
             { "events_button@how_to_play.events_button": { "$toggle_group_forced_index": 3 } },
             { "banlist_button@how_to_play.banlist_button": { "$toggle_group_forced_index": 4 } },
             { "aboutwosc_button@how_to_play.aboutwosc_button": { "$toggle_group_forced_index": 5 } },
@@ -198,7 +197,6 @@
             {
               "section_contents_header@how_to_play_common.section_contents_header": { }
             },
-            { "patchnotes_section@how_to_play.patchnotes_section": { } },
             { "announcements_section@how_to_play.announcements_section": { } },
             { "serverrules_section@how_to_play.serverrules_section": { } },
             { "events_section@how_to_play.events_section": { } },
@@ -289,26 +287,6 @@
       }
     ]
   },
-
-   "patchnotes_button@how_to_play_common.section_toggle_button": {
-    "$section_topic": "patchnotes"
-  },
-    "patchnotes_section@how_to_play_common.main_sections": {
-    "bindings": [
-      {
-        "binding_type": "view",
-        "source_control_name": "patchnotes_button_toggle",
-        "source_property_name": "#toggle_state",
-        "target_property_name": "#visible"
-      }
-    ],
-    "controls": [
-      { "events_header_image@how_to_play_common.image": {
-      "texture": "textures/default/header" } },
-      { "events_header_text@how_to_play_common.header": {
-      "$text": "Subpack 0 is not installed!" } }
-  ]
-},
    "announcements_button@how_to_play_common.section_toggle_button": {
     "$section_topic": "announcements"
   },

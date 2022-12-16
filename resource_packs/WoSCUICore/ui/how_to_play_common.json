@@ -63,7 +63,7 @@
           "max_size": [ "100%", "100% - 4px" ],
           "offset": [ "0px", "-3px" ],
           "text": "('howtoplay.category.' + $category)",
-          "color": "$main_header_text_color"
+          "color": [ 0.0, 0.0, 0.0 ]
         }
       }
     ]
@@ -205,7 +205,7 @@
 
   "paragraph": {
     "type": "label",
-    "color": "$body_text_color",
+    "color": [ 0.0, 0.0, 0.0 ],
     "anchor_from": "left_middle",
     "anchor_to": "left_middle",
     "size": [ "100%", "default" ],
@@ -386,7 +386,22 @@
     "layer": 3,
     "texture": "textures/ui/HowToPlayDivider"
   },
-
+  "line_divider": {
+    "type": "panel",
+    "size": [ "100%", "100%c + 14px" ],
+    "controls": [
+      {
+        "section_divider": {
+          "type": "image",
+          "size": [ "100%", 1 ],
+          "anchor_from": "center",
+          "anchor_to": "center",
+          "layer": 3,
+          "texture": "textures/ui/list_item_divider_line_dark"
+        }
+      }
+    ]
+  },
   // contains right side
   "content_area_wrapper": {
     "type": "panel",
