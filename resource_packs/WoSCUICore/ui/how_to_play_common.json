@@ -211,7 +211,14 @@
     "size": [ "100%", "default" ],
     "text": "$text"
   },
-
+  "paragraph_bold": {
+    "type": "label",
+    "color": [ 0.0, 0.0, 0.0 ],
+    "anchor_from": "left_middle",
+    "anchor_to": "left_middle",
+    "size": [ "100%", "default" ],
+    "text": "(§l + $text)"
+  },
   "paragraph_with_icons@how_to_play_common.paragraph": {
     "text": "('#pre_process_' + $text)",
     "bindings": [
