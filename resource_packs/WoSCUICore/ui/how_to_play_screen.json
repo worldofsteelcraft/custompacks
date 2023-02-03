@@ -36,6 +36,7 @@
             { "wosc_wiki_category@how_to_play_common.topic_category": { "$category": "wosc_wiki" } },
             { "wosc_wiki_introduction_button@how_to_play.wosc_wiki_introduction_button": { "$toggle_group_forced_index": 6 } },
 
+            { "official_and_custom_content_divider@how_to_play_common.line_divider": { } },
 
             { "basics_category@how_to_play_common.topic_category": { "$category": "basics" } },
             {
