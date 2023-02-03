@@ -1,5 +1,5 @@
 <p align="center" width="20px">
-  <img src="https://files.worldofsteelcraft.tk/assets/web/logo.png" alt="logo" width="25%"/><br>  
+  <img src="https://files.worldofsteelcraft.tk/files/assets/web/logo.png" alt="logo" width="25%"/><br>  
   <h1 align="center">World of SteelCraft Custom Packs</h1>
   <p align="center">
   <a href="https://github.com/worldofsteelcraft/wosccustompacks/tags"><img src="https://img.shields.io/github/v/tag/worldofsteelcraft/wosccustompacks?style=plastic" alt="latest tag version"></a>
