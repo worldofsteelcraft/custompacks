@@ -73,17 +73,18 @@
     "type": "panel",
     "layer": 2,
     "controls": [
-       {
-			"text_icon": {
-			"type": "image",
-			"anchor_from": "left_middle",
-			"anchor_to": "left_middle",
-			"texture": "('textures/ui_icon/icon_' + $section_topic)",
-			"size": [ "16px", "16px" ]
-	       }
-         },
       {
-        "tab_button_text": {
+			  "text_icon": {
+			  "type": "image",
+			  "anchor_from": "left_middle",
+			  "anchor_to": "left_middle",
+			  "texture": "('textures/ui_icon/icon_' + $section_topic)",
+			  "size": [ "16px", "16px" ],
+        "visible": "($toggle_button_with_icon = 'true')"
+	      }
+      },
+      {
+        "tab_button_text_with_icon": {
           "type": "label",
           "anchor_from": "left_middle",
           "anchor_to": "left_middle",
@@ -92,7 +93,39 @@
           "text": "('howtoplay.' + $section_topic)",
           "layer": 3,
           "color": "$text_color",
-          "alpha": "$content_alpha"
+          "alpha": "$content_alpha",
+          "visible": "($toggle_button_with_icon = 'true')",
+          "ignored": "($toggle_button_with_icon = 'false') or (not ($toggle_button_with_icon = 'false')) "
+        }
+      },
+      {
+        "tab_button_text_without_icon_defined": {
+          "type": "label",
+          "anchor_from": "left_middle",
+          "anchor_to": "left_middle",
+          "size": [ "100% - 10px", "9px" ],
+          "offset": [ "10px", 0 ],
+          "text": "('howtoplay.' + $section_topic)",
+          "layer": 3,
+          "color": "$text_color",
+          "alpha": "$content_alpha",
+          "visible": "(($toggle_button_with_icon = 'false') or (not $toggle_button_with_icon))",
+          "ignored": "((not ($toggle_button_with_icon = 'false')))"
+        }
+      },
+      {
+        "tab_button_text_without_icon_not_defined": {
+          "type": "label",
+          "anchor_from": "left_middle",
+          "anchor_to": "left_middle",
+          "size": [ "100% - 10px", "9px" ],
+          "offset": [ "10px", 0 ],
+          "text": "('howtoplay.' + $section_topic)",
+          "layer": 3,
+          "color": "$text_color",
+          "alpha": "$content_alpha",
+          "visible": "not $toggle_button_with_icon",
+          "ignored": "($toggle_button_with_icon or ($toggle_button_with_icon = 'true'))"
         }
       }
     ]
