@@ -27,14 +27,14 @@
               }
             },
             { "wosc_category@how_to_play_common.topic_category": { "$category": "wosc" } },
-            { "serverrules_button@how_to_play.serverrules_button": { "$toggle_group_forced_index": 0 } },
-            { "announcements_button@how_to_play.announcements_button": { "$toggle_group_forced_index": 1 } },
-            { "events_button@how_to_play.events_button": { "$toggle_group_forced_index": 3 } },
-            { "banlist_button@how_to_play.banlist_button": { "$toggle_group_forced_index": 4 } },
-            { "aboutwosc_button@how_to_play.aboutwosc_button": { "$toggle_group_forced_index": 5 } },
+            { "serverrules_button@how_to_play.serverrules_button": { "$toggle_group_forced_index": 0 , "$toggle_button_with_icon" : true } },
+            { "announcements_button@how_to_play.announcements_button": { "$toggle_group_forced_index": 1, "$toggle_button_with_icon": true } },
+            { "events_button@how_to_play.events_button": { "$toggle_group_forced_index": 3, "$toggle_button_with_icon": true } },
+            { "banlist_button@how_to_play.banlist_button": { "$toggle_group_forced_index": 4, "$toggle_button_with_icon": true } },
+            { "aboutwosc_button@how_to_play.aboutwosc_button": { "$toggle_group_forced_index": 5, "$toggle_button_with_icon": true } },
 
             { "wosc_wiki_category@how_to_play_common.topic_category": { "$category": "wosc_wiki" } },
-            { "wosc_wiki_introduction_button@how_to_play.wosc_wiki_introduction_button": { "$toggle_group_forced_index": 6 } },
+            { "wosc_wiki_introduction_button@how_to_play.wosc_wiki_introduction_button": { "$toggle_group_forced_index": 6, "$toggle_button_with_icon": true} },
 
             { "official_and_custom_content_divider@how_to_play_common.line_divider": { } },
             
