@@ -80,7 +80,7 @@
 			  "anchor_to": "left_middle",
 			  "texture": "('textures/ui_icon/icon_' + $section_topic)",
 			  "size": [ "16px", "16px" ],
-        "visible": "($toggle_button_with_icon = 'true')"
+        "visible": "($toggle_button_with_icon = true)"
 	      }
       },
       {
@@ -94,8 +94,8 @@
           "layer": 3,
           "color": "$text_color",
           "alpha": "$content_alpha",
-          "visible": "($toggle_button_with_icon = 'true')",
-          "ignored": "($toggle_button_with_icon = 'false') or (not ($toggle_button_with_icon = 'false')) "
+          "visible": "($toggle_button_with_icon = true)",
+          "ignored": "($toggle_button_with_icon = false) or (not ($toggle_button_with_icon = false)) "
         }
       },
       {
@@ -109,8 +109,8 @@
           "layer": 3,
           "color": "$text_color",
           "alpha": "$content_alpha",
-          "visible": "(($toggle_button_with_icon = 'false') or (not $toggle_button_with_icon))",
-          "ignored": "((not ($toggle_button_with_icon = 'false')))"
+          "visible": "(($toggle_button_with_icon = false) or (not $toggle_button_with_icon))",
+          "ignored": "((not ($toggle_button_with_icon = false)))"
         }
       },
       {
@@ -125,7 +125,7 @@
           "color": "$text_color",
           "alpha": "$content_alpha",
           "visible": "not $toggle_button_with_icon",
-          "ignored": "($toggle_button_with_icon or ($toggle_button_with_icon = 'true'))"
+          "ignored": "($toggle_button_with_icon or ($toggle_button_with_icon = true))"
         }
       }
     ]
