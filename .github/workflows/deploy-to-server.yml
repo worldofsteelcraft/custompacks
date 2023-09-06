@@ -51,7 +51,9 @@ jobs:
           # ssh-private-key: ${{ secrets.SFTP_SSHKEY }}
           remote-path: ${{ secrets.SFTP_REMOTELOC }}
           sync: delta
-      - name: Merge manifest
+          # Exclude the file, as this will be processed by the next job
+          sync-delta-excludes: "!world_resource_packs.json"
+      - name: Update server manifest
         run: |
           SFTP_USERNAME=${{ secrets.SFTP_USERNAME }}
           SFTP_PASSWORD=${{ secrets.SFTP_PASSWORD }}
