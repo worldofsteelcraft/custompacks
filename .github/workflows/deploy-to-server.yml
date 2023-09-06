@@ -18,7 +18,7 @@ jobs:
           fetch-depth: 0
       - name: "Setup dependencies"
         run: |
-          apt install lftp
+          sudo apt install lftp
       - name: "Copy Manifest"
         run: |
           # SFTP Details for world manifest download
