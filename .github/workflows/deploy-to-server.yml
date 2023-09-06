@@ -36,7 +36,7 @@ jobs:
           sync-delta-excludes: '(exclude)world_resource_packs.json'
       - name: Update server manifest
         run: |
-        # SFTP Details for world manifest download
+          # SFTP Details for world manifest download
           SFTP_USERNAME=${{ secrets.SFTP_USERNAME }}
           SFTP_PASSWORD=${{ secrets.SFTP_PASSWORD }}
           SFTP_REMOTEPATH=${{ secrets.SFTP_REMOTELOC }}
