@@ -33,7 +33,7 @@ jobs:
           remote-path: ${{ secrets.SFTP_REMOTELOC }}
           sync: delta
           # Exclude the file, as this will be processed by the next job
-          sync-delta-excludes: ':(exclude)world_resource_packs.json'
+          sync-delta-excludes: "':(exclude)world_resource_packs.json'"
       - name: Update server manifest
         run: |
           # SFTP Details for world manifest download
