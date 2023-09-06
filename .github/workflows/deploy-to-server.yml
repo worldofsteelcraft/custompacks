@@ -6,6 +6,7 @@ name: Deploy To SMP Server
     paths:
        - "world_resource_packs.json"
        - "resource_packs/**"
+  workflow_dispatch:
 jobs:
   sftp:
     name: "Deploy to SMP Server"
