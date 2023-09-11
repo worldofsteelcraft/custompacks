@@ -4,7 +4,7 @@
       "description": "UI Subpack that is responsible for the core files for the UI Customization",
       "name": "World of SteelCraft UI Resource Pack",
       "uuid":"273f0693-4321-4f8d-923c-b1808a3ab194",
-      "version": [2023, 906, 2],
+      "version": [2023, 911, 0],
       "min_engine_version": [1, 16, 0]
     },
     "modules": [
@@ -12,7 +12,7 @@
         "description": "UI Subpack that is responsible for the core files for the UI Customization",
         "type": "resources",
         "uuid": "e3526f50-1f60-44f8-a4be-e26a4b3a0670",
-        "version": [2023, 906, 2]
+        "version": [2023, 911, 0]
       }
     ]
 }
